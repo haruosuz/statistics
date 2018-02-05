@@ -133,6 +133,8 @@ Japanese Journal of Grassland Science 54(4), 348-351, 2009
 例えば、1 haの牧草地を0.5 haずつの2プロットに分割し、それぞれのプロットに肥料処理（例えば、多肥と少肥）を行うとする。この時、それぞれの処理を行ったプロット内で、ランダムな場所に3ヶ所ずつの一定面積を選んで収量の測定を行う。これをもって3反復と考えた実験では、肥料処理の差異を統計的に判定することはできない。本報ではその理由を示し、どのような実験計画を組めば統計的に差異を検出できるかを示す。
 
 ### sample size
+http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc042/10256.html
+No.10256　独立した2群の差　サンプルサイズの偏り　　【初心者】　2009/07/04
 
 2017年9月30日
 https://sites.google.com/site/fishermultiplecomparison/samplesize
@@ -146,7 +148,6 @@ http://daas.world.coocan.jp/toukei_hosoku/hyohon.htm
 
 http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
 補足説明 (1)「標本の大きさ(サンプルサイズ:sample size)と標本数」について
-
 
 ### n=3
 
