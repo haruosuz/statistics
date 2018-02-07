@@ -9,6 +9,8 @@ Last Update: 2018-01-14
 ## Table of Contents
 - [Updates](#updates)
   - [2018-01](#2018-01)
+- [multiple comparison](#multiple-comparison)
+- [batch effect](#batch-effect)
 - [Colorless Green Ideas](#colorless-green-ideas)
 - [sample](#sample)
   - [n=3](#n3)
@@ -45,6 +47,16 @@ https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls10.htm
 http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
 2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
 ■[情]「統計的有意性とP値に関するASA声明」
+
+----------
+### multiple comparison
+多重比較
+
+http://www.statsbeginner.net/entry/2014/11/01/140721
+検定の繰り返しと多重比較について（追記あり） - StatsBeginner: 初学者の統計学習ノート
+
+http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
+無から有（意差）を生む：多重比較でウソをつく方法 - Take a Risk：林岳彦の研究メモ
 
 ----------
 ### batch effect
