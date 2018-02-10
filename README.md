@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-01-14
+Last Update: 2018-02-10
 
 ----------
 
@@ -11,17 +11,26 @@ Last Update: 2018-01-14
   - [2018-01](#2018-01)
 - [multiple comparison](#multiple-comparison)
 - [batch effect](#batch-effect)
-- [Colorless Green Ideas](#colorless-green-ideas)
 - [sample](#sample)
+  - [sample size](#sample-size)
   - [n=3](#n3)
 - [Causal inference](#causal-inference)
 - [References](#references)
+  - [Colorless Green Ideas](#colorless-green-ideas)
 
 ----------
 ## Updates
 
-### 2018-01
+----------
+### 2018
 
+http://www.ism.ac.jp/events/2018/meeting0213_14.html
+小研究会「生態学における統計教育：計算より概念と考え方」
+日時 2018年2月13日(火) 13:00～ 14日(水)12:00
+場所 統計数理研究所 3階 第2セミナー室
+
+----------
+### 2017
 
 ----------
 ### 2016
@@ -83,42 +92,6 @@ https://www.slideshare.net/antiplastics/meta-analysis-14720694
 Meta analysis of microarray
 弘毅 露崎
  batch effect補正
-
-----------
-### BDS
-
-http://apprize.info/data/bioinformatics/1.html
-How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
-
-Pay Attention to Experimental Design
-
-To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
-
-R.A. Fisher
-
-https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
-
-----------
-## [Colorless Green Ideas](http://id.fnshr.info)
-
-http://www.keisoshobo.co.jp/book/b272873.html
-ダメな統計学 - 株式会社　勁草書房
-
-![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
-
-http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
-『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
-ダメな統計学：目次｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
-【翻訳】ダメな統計学 (13) 終わりに｜Colorless Green Ideas
-
-実験が終わった後に統計学者に相談することは、しばしば単に検死を頼むようなものになる。統計学者は、何のせいで実験が死んだのかについて言うことができるかもしれない。
-
-p値を普及させた人、R. A.フィッシャー [3]
-![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
 
 ----------
 ## sample
@@ -254,5 +227,42 @@ http://d.hatena.ne.jp/isseing333/20120330/1333118828
 
 http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
 統計学関連なんでもあり
+
+----------
+### [Colorless Green Ideas](http://id.fnshr.info)
+
+http://www.keisoshobo.co.jp/book/b272873.html
+ダメな統計学 - 株式会社　勁草書房
+
+![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
+
+http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
+『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
+ダメな統計学：目次｜Colorless Green Ideas
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
+【翻訳】ダメな統計学 (13) 終わりに｜Colorless Green Ideas
+
+実験が終わった後に統計学者に相談することは、しばしば単に検死を頼むようなものになる。統計学者は、何のせいで実験が死んだのかについて言うことができるかもしれない。
+
+p値を普及させた人、R. A.フィッシャー [3]
+![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
+
+
+----------
+### BDS
+
+http://apprize.info/data/bioinformatics/1.html
+How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
+
+Pay Attention to Experimental Design
+
+To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
+
+R.A. Fisher
+
+https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
 
 ----------
