@@ -10,14 +10,13 @@ Last Update: 2018-02-10
 - [Updates](#updates)
   - [2018-01](#2018-01)
 - [multiple comparison](#multiple-comparison)
-- [batch effect](#batch-effect)
 - [sample](#sample)
   - [sample size](#sample-size)
   - [n=3](#n3)
 - [Causal inference](#causal-inference)
+- [batch effect](#batch-effect)
+- [Colorless Green Ideas](#colorless-green-ideas)
 - [References](#references)
-  - [Colorless Green Ideas](#colorless-green-ideas)
-
 ----------
 ## Updates
 
@@ -66,32 +65,6 @@ http://www.statsbeginner.net/entry/2014/11/01/140721
 
 http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 無から有（意差）を生む：多重比較でウソをつく方法 - Take a Risk：林岳彦の研究メモ
-
-----------
-### batch effect
-
-(Oct. 2016)
-http://bukai.pharm.or.jp/bukai_kozo/SARNews/SARNews_31.pdf
-構造活性相関部会・ニュースレター <1 October, 2016>
-植物におけるオミックス統合ネットワークシステム生物学 理化学研究所 福島敦史
-非生物学的な(意味のない!)共発現関係が生 じる原因のいくつかは、RNA の品質や batch effect に帰する。batch effect とは、サンプルを得 る時期が異なった場合や別の研究室で行われた場合に、データ取得の際に発生する実験品質の 違いがオミックスデータに生じることを指す(特に大規模な実験では、不可避な変動である)。 通常、これらバイアスの推定と影響の緩和は、実験デザインに基づいた線形モデルによって行 うことができ、重要視されるようになっている。実際、我々も 50 種のシロイヌナズナ変異体 のメタボロームデータ解析の際には、このような batch effect を考慮した [11]。
-
-http://fgfwww.nibb.ac.jp/wiki5/data/media/git2013sopen/1.3-nibb_training_course_2013s_1-3.pdf
-実験デザインの重要性
-•-omicsデータは”batch effect”という体系的なバイアスが多くの場合、混入する。
-
-- 線形モデルで推定・除去
-  - 遺伝子型/処理など注目している効果の要因
-  - 反復(実験日時)/実験者 などバイアス要因
-
-http://www.iwlab.org/our-lab/our-staff/yy/sympo/20121109
-Batch effectとは，実験環境 (機器や観測者など) の違いで生じるデータ変動 (variation) のことで，データを統合して解析を進める際には，このBatch effectが悪さをするという話をされていた．例えば，マイクロアレイデータ一つを取ってみても，遺伝子発現を測定する方法が異なる機械はいくつも存在しており，それぞれで得られたデータは，固有のBatch effect を持ってしまう．
-
-Oct 14, 2012
-https://www.slideshare.net/antiplastics/meta-analysis-14720694
-Meta analysis of microarray
-弘毅 露崎
- batch effect補正
 
 ----------
 ## sample
@@ -220,19 +193,48 @@ https://healthpolicyhealthecon.com/2014/09/30/study-design-overview/
 http://d.hatena.ne.jp/isseing333/20120330/1333118828
 因果推論のススメ - アイアナ：データ分析や人工知能(AI)などの技術雑記
 
-----------
-## References
-
-### Unclassified
-
-http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
-統計学関連なんでもあり
 
 ----------
-### [Colorless Green Ideas](http://id.fnshr.info)
+### batch effect
+
+(Oct. 2016)
+http://bukai.pharm.or.jp/bukai_kozo/SARNews/SARNews_31.pdf
+非生物学的な(意味のない!)共発現関係が生 じる原因のいくつかは、RNA の品質や batch effect に帰する。batch effect とは、サンプルを得 る時期が異なった場合や別の研究室で行われた場合に、データ取得の際に発生する実験品質の 違いがオミックスデータに生じることを指す(特に大規模な実験では、不可避な変動である)。 通常、これらバイアスの推定と影響の緩和は、実験デザインに基づいた線形モデルによって行 うことができ、重要視されるようになっている。実際、我々も 50 種のシロイヌナズナ変異体 のメタボロームデータ解析の際には、このような batch effect を考慮した [11]。
+
+2016年8月3日
+http://postd.cc/ten-simple-rules-for-effective-statistical-practice/
+効率的な統計実践のための、10個のシンプルなルール | コンピュータサイエンス | POSTD
+ルール7：変動性を評価する
+データを集めるのが別の日、別の研究室、あるいは手順を若干変え得るということであれば、考慮すべき変動性の潜在的要因が3つ以上あります。マイクロアレイ分析においてはバッチ効果が変動性の追加をもたらすものとしてよく知られており、フィルタをかけるのにはいくつかの方法があります。
+
+http://fgfwww.nibb.ac.jp/wiki5/data/media/git2013sopen/1.3-nibb_training_course_2013s_1-3.pdf
+実験デザインの重要性
+•-omicsデータは”batch effect”という体系的なバイアスが多くの場合、混入する。
+
+- 線形モデルで推定・除去
+  - 遺伝子型/処理など注目している効果の要因
+  - 反復(実験日時)/実験者 などバイアス要因
+
+http://www.iwlab.org/our-lab/our-staff/yy/sympo/20121109
+Batch effectとは，実験環境 (機器や観測者など) の違いで生じるデータ変動 (variation) のことで，データを統合して解析を進める際には，このBatch effectが悪さをするという話をされていた．例えば，マイクロアレイデータ一つを取ってみても，遺伝子発現を測定する方法が異なる機械はいくつも存在しており，それぞれで得られたデータは，固有のBatch effect を持ってしまう．
+
+Oct 14, 2012
+https://www.slideshare.net/antiplastics/meta-analysis-14720694
+Meta analysis of microarray
+弘毅 露崎
+ batch effect補正
+
+----------
+## [Colorless Green Ideas](http://id.fnshr.info)
+
+http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
+「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
 
 http://www.keisoshobo.co.jp/book/b272873.html
 ダメな統計学 - 株式会社　勁草書房
+
+第3章　擬似反復：データを賢く選べ
+　3.3　バッチ生物学
 
 ![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
 
@@ -250,9 +252,8 @@ http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
 p値を普及させた人、R. A.フィッシャー [3]
 ![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
 
-
 ----------
-### BDS
+## BDS
 
 http://apprize.info/data/bioinformatics/1.html
 How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
@@ -264,5 +265,11 @@ To consult the statistician after an experiment is finished is often merely to a
 R.A. Fisher
 
 https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
+
+----------
+## References
+
+http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
+統計学関連なんでもあり
 
 ----------
