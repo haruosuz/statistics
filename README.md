@@ -28,6 +28,27 @@ Last Update: 2018-02-10
 ----------
 ### 2018
 
+### 2018-03-28
+
+https://connpass.com/event/75366/
+応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
+Registration Period
+2018/01/12(Fri) 00:00 〜
+2018/03/01(Thu) 00:00
+
+http://biometrics.gr.jp/annualmtg_2018/index.html
+2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
+事前参加申し込み：
+2018/1/30 - 2/28
+
+http://www.applstat.gr.jp/annual/index.html
+応用統計学会2018年年会
+日時：日時： 2018 年 3 月 28 日（水）
+会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
+参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
+
+### 2018-02-28
+
 https://psych.or.jp/event/180228-0302
 日本行動計量学会 第20回春の合宿セミナーのお知らせ | 日本心理学会
 
@@ -39,10 +60,14 @@ https://sites.google.com/view/bmsseminar
 https://sites.google.com/site/sshimizu06/home/presentations
 [94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
 
+### 2018-02-13
+
 http://www.ism.ac.jp/events/2018/meeting0213_14.html
 小研究会「生態学における統計教育：計算より概念と考え方」
 日時 2018年2月13日(火) 13:00～ 14日(水)12:00
 場所 統計数理研究所 3階 第2セミナー室
+
+### 2018-02
 
 https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
 第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
