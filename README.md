@@ -9,14 +9,19 @@ Last Update: 2018-02-10
 ## Table of Contents
 - [Updates](#updates)
   - [2018-01](#2018-01)
+- [batch effect](#batch-effect)
+- [Causal inference](#causal-inference)
+- [Confidence interval](#ci)
+- [DoE](#doe)
+  - [Dummy](#dummy)
 - [multiple comparison](#multiple-comparison)
+- [ROC](#roc)
 - [sample](#sample)
   - [sample size](#sample-size)
   - [n=3](#n3)
-- [Causal inference](#causal-inference)
-- [batch effect](#batch-effect)
-- [Colorless Green Ideas](#colorless-green-ideas)
 - [References](#references)
+ - [Colorless Green Ideas](#colorless-green-ideas)
+
 ----------
 ## Updates
 
@@ -28,8 +33,20 @@ http://www.ism.ac.jp/events/2018/meeting0213_14.html
 日時 2018年2月13日(火) 13:00～ 14日(水)12:00
 場所 統計数理研究所 3階 第2セミナー室
 
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
+第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
+
+第1回 データ解析の第一歩は計算ではない （2017/11/10公開）
+
 ----------
 ### 2017
+
+### 2017-12
+
+### 2017-05
+http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
+2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
+■[情]「統計的有意性とP値に関するASA声明」
 
 ----------
 ### 2016
@@ -41,23 +58,227 @@ http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
 http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
 
 ----------
+### batch effect
 
-### 2017-12
+(Oct. 2016)
+http://bukai.pharm.or.jp/bukai_kozo/SARNews/SARNews_31.pdf
+非生物学的な(意味のない!)共発現関係が生 じる原因のいくつかは、RNA の品質や batch effect に帰する。batch effect とは、サンプルを得 る時期が異なった場合や別の研究室で行われた場合に、データ取得の際に発生する実験品質の 違いがオミックスデータに生じることを指す(特に大規模な実験では、不可避な変動である)。 通常、これらバイアスの推定と影響の緩和は、実験デザインに基づいた線形モデルによって行 うことができ、重要視されるようになっている。実際、我々も 50 種のシロイヌナズナ変異体 のメタボロームデータ解析の際には、このような batch effect を考慮した [11]。
 
-第11回 正規分布を踏まえたパラメトリック統計学の降臨 （2017/01/26公開）
+2016年8月3日
+http://postd.cc/ten-simple-rules-for-effective-statistical-practice/
+効率的な統計実践のための、10個のシンプルなルール | コンピュータサイエンス | POSTD
+ルール7：変動性を評価する
+データを集めるのが別の日、別の研究室、あるいは手順を若干変え得るということであれば、考慮すべき変動性の潜在的要因が3つ以上あります。マイクロアレイ分析においてはバッチ効果が変動性の追加をもたらすものとしてよく知られており、フィルタをかけるのにはいくつかの方法があります。
 
-https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls10.html
-第10回 実験計画はお早めに―完全無作為化法 - 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
+http://fgfwww.nibb.ac.jp/wiki5/data/media/git2013sopen/1.3-nibb_training_course_2013s_1-3.pdf
+実験デザインの重要性
+•-omicsデータは”batch effect”という体系的なバイアスが多くの場合、混入する。
 
-第1回 データ解析の第一歩は計算ではない （2017/11/10公開）
+- 線形モデルで推定・除去
+  - 遺伝子型/処理など注目している効果の要因
+  - 反復(実験日時)/実験者 などバイアス要因
 
-### 2017-05
-http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
-2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
-■[情]「統計的有意性とP値に関するASA声明」
+http://www.iwlab.org/our-lab/our-staff/yy/sympo/20121109
+Batch effectとは，実験環境 (機器や観測者など) の違いで生じるデータ変動 (variation) のことで，データを統合して解析を進める際には，このBatch effectが悪さをするという話をされていた．例えば，マイクロアレイデータ一つを取ってみても，遺伝子発現を測定する方法が異なる機械はいくつも存在しており，それぞれで得られたデータは，固有のBatch effect を持ってしまう．
+
+Oct 14, 2012
+https://www.slideshare.net/antiplastics/meta-analysis-14720694
+Meta analysis of microarray
+弘毅 露崎
+ batch effect補正
 
 ----------
-### multiple comparison
+## Causal inference
+**因果推論**
+
+https://sites.google.com/site/sshimizu06/home/presentations
+[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
+
+http://kamonohashiperry.com/archives/531
+統計的因果推論に関するスライドとRのサンプルコード | かものはしの分析ブログ
+
+http://tjo.hatenablog.com/archive/category/統計的因果推論
+統計的因果推論 カテゴリーの記事一覧 - 六本木で働くデータサイエンティストのブログ
+
+2017-12-30
+http://krsk-phs.hatenablog.com/entry/pure_criticism
+炭水化物は体に悪い？脂質をたくさん摂るほど健康に良い？：2017年世界一に選ばれた科学論文を解説 - Unboundedly
+
+2017-09-30
+http://jairo.nii.ac.jp/0069/00037618
+＜特集＞比較政治学における因果推論
+久保慶一
+https://www.waseda.jp/fpse/pse/assets/uploads/2014/05/df3ed38f795bf40b63002e3b3c406b71.pdf
+
+Jul 14, 2017
+https://www.slideshare.net/sshimizu2006/ss-77876940
+統計的因果推論への招待 -因果構造探索を中心に-
+
+http://hosho.ees.hokudai.ac.jp/~kubo/ce/2017/Hayashi17ESJcausal.pdf
+2017年3月15日 18:00-20:00 生態学会自由集会 『データ解析で出会う統計的問題:原因→結果の統計モデリング』
+生態学者のための統計的因果推論入門 : 重回帰の結果に基づき「介入」する前に
+【後日配布版スライド】
+林 岳彦 国立環境研究所環境リスク・健康研究センター
+
+2016年8月11日
+https://rpubs.com/nakamichi_/study-iwanami-ds3
+岩波データサイエンスvol.3のデータで遊ぼう
+
+Jul 30, 2016
+https://www.slideshare.net/shuyo/doraemon-causality-64540448
+ドラえもんでわかる統計的因果推論 #TokyoR
+Shuyo Nakatani
+
+http://hikaru1122.hatenadiary.jp/entry/2016/05/12/212857
+統計的因果推論の勉強会の前準備 - Knowledge As Practice
+
+https://healthpolicyhealthecon.com/2014/09/30/study-design-overview/
+因果推論？記述統計？－まずは研究デザインをはっきりさせよう – 医療政策学×医療経済学
+「因果推論」（Causal inference）
+
+http://d.hatena.ne.jp/isseing333/20120330/1333118828
+因果推論のススメ - アイアナ：データ分析や人工知能(AI)などの技術雑記
+
+----------
+## CI
+*Confidence interval*
+
+https://ja.wikipedia.org/wiki/信頼区間
+
+https://twitter.com/h_okumura/status/953470664714862592
+Haruhiko Okumura on Twitter: "正確に説明してある。長い目で見て95%正しいが，具体的なデータから求めた95%信頼区間はその中に真の値が95%の確率で含まれるわけではない（というのが非ベイジアンの解釈） https://t.co/FPxnYVZZTl"
+10:34 PM - 16 Jan 2018
+
+http://id.fnshr.info/2017/03/13/dena-conf-intv/
+DeNA に対する第三者委員会の調査報告書での信頼区間の説明｜Colorless Green Ideas
+
+
+信頼区間って何？
+http://oku.edu.mie-u.ac.jp/~okumura/stat/what_is_CI.php
+
+ http://www.anlyznews.com/2012/02/blog-post_08.html
+「統計学を拓いた異才たち」で触れる統計学史
+信頼区間を考えてみよう。これは、何回も推定を繰り返したとして、真のパラメーターが信頼区間におさまっている割合が、例えば95%である事を意味する。しかし、推定量の正しさの度合いが95%だとか、標本の95%がおさまる範囲だと解釈してしまう人は少なく無い（信頼区間って何？）。
+
+----------
+## DoE
+Design of experiments
+
+https://ja.wikipedia.org/wiki/実験計画法
+基本原則
+- 局所管理化
+- 反復
+- 無作為化（ランダム化）
+以上でも制御できない可能性のある要因の影響を除き、偏りを小さくするために条件を無作為化する。例えば実験を行う空間的・時間的順序の影響があるかもしれないから、決まった順序でなく実験のたびに無作為に順序を決めるなど。これは生物学などの実験で特に重要である。
+以上の原則に基づく実験計画と結果の解析で重要な統計学的方法が、分散を複数の成分（偶然の誤差や各要因の影響）の和としてモデル化し分析する分散分析の方法である。
+
+品種・施肥量・圃場の3因子につき各3水準を設定するとしよう。一般には全部で 3 x 3 x 3 = 27 通りの実験が必要である。しかし、交互作用が無視できる場合には表2 に示すように9通りに減らすことができ、
+
+![](https://upload.wikimedia.org/wikipedia/ja/thumb/2/2b/実験計画1.gif/220px-実験計画1.gif)
+![](https://upload.wikimedia.org/wikipedia/ja/thumb/6/69/実験計画2.gif/220px-実験計画2.gif)
+
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls10.html
+著／三中信宏
+第10回 実験計画はお早めに―完全無作為化法 （2018/01/19公開）
+
+2017-02-05
+https://www.placeon.jp/blog/words/words_monozukuri/experimental_design/
+試験回数を減らそう（実験計画法）
+
+2017-10-12
+https://www.trifields.jp/r-cran-task-view-design-of-experiments-analysis-of-experimental-data-723
+R言語 CRAN Task View：実験計画法（DoE）および実験データの分析の設計 | トライフィールズ
+
+2011
+https://www.jstage.jst.go.jp/article/weed/56/1/56_1_24/_article/-char/ja/
+実験計画の立て方とRを用いた分散分析: 実験計画法に応じた分散分析の実行
+https://www.jstage.jst.go.jp/article/weed/56/1/56_1_24/_pdf/-char/ja
+
+2016年08月20日
+https://www.asakura.co.jp/books/isbn/978-4-254-12216-9/
+朝倉書店｜Rで学ぶ 実験計画法
+
+2010/12/1
+http://www.juse-p.co.jp/cgi-bin/html.pl5?i=ISBN978-4-8171-9371-1
+ＲとＲコマンダーではじめる実験計画法
+http://www.ec.kansai-u.ac.jp/user/arakit/RDOE.html
+RDOE
+
+
+2012/07/03
+https://www.monodukuri.com/gihou/article/74
+直交表の技法解説記事 主な直交表の種類と特徴 - ものづくり.com
+
+https://kqerg.jimdo.com/ホーム/直交表/4水準系/
+4水準系直交表 4 Levels Orthogonal Array - 関西品質工学研究会
+
+### orthogonal array
+直交表
+
+2016-09-18
+http://nakhirot.hatenablog.com/entry/20160918/1474166690
+R 実験計画法を利用した要因分析 - DSL_statblog
+
+2. 直交表によるパターン数の削減
+
+Rのconjointパッケージに含まれるcaFactorialDesign関数を用いると直交表を作成した上でパターン数を削減することができる。
+
+    install.packages("conjoint", dependencies=TRUE)
+    library(conjoint)
+
+Error : .onLoad failed in loadNamespace() for 'rgl', details:
+
+2016/06/08
+https://fisproject.jp/2016/06/design-of-experiment/
+【R】実験計画法と分散分析【DoE.base】 | FiS Project
+
+直交計画
+Rでは {DoE.base} で直交表を生成できる。上記例だと, L9-3-4の直交表となる。
+
+	require(DoE.base)
+	table <- oa.design(nfactors = 4, nlevels = 3)
+	table
+
+分散分析
+
+Sep 12, 2012
+https://www.slideshare.net/itoyan110/r-14261638
+Rで実験計画法 後編
+
+Sep 5, 2011
+https://www.slideshare.net/itoyan110/r-9139125
+Rで実験計画法 前編
+
+04/2011
+http://www1.beuth-hochschule.de/FB_II/reports/Report-2011-004.pdf
+Tutorial for designing experiments using the R package RcmdrPlugin.DoE
+
+
+### Dummy
+擬水準
+
+http://www.ab.cyberhome.ne.jp/~t-nojima/RQE/ps12.html
+ダミー（擬水準）法と多水準作成法
+
+https://support.minitab.com/ja-jp/minitab/18/help-and-how-to/modeling-statistics/doe/supporting-topics/taguchi-designs/dummy-treatments-for-taguchi-designs/
+タグチ計画のダミー処理 - Minitab
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/doe/supporting-topics/taguchi-designs/dummy-treatments-for-taguchi-designs/
+Dummy treatments for Taguchi designs - Minitab
+
+2012/07/04
+https://www.monodukuri.com/gihou/article/75
+直交表の技法解説記事 直交表で水準数が余る時、足りない時の対処法 - ものづくり.com
+「ダミー法」
+
+1994年
+http://ebsa.ism.ac.jp/ebooks/node/581
+農業実験計画法小史 | 電子図書システム
+http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
+12. ４水準因子の L₃₂ 直交表へのわりつけ
+擬水準
+
+----------
+## multiple comparison
 多重比較
 
 http://www.statsbeginner.net/entry/2014/11/01/140721
@@ -65,6 +286,17 @@ http://www.statsbeginner.net/entry/2014/11/01/140721
 
 http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 無から有（意差）を生む：多重比較でウソをつく方法 - Take a Risk：林岳彦の研究メモ
+
+----------
+## [ROC](https://ja.wikipedia.org/wiki/受信者操作特性)
+
+2017-05-27
+https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f
+【統計学】ROC曲線とは何か、アニメーションで理解する。
+
+2016-02-21
+https://oku.edu.mie-u.ac.jp/~okumura/stat/ROC.html
+ROC曲線
 
 ----------
 ## sample
@@ -120,109 +352,14 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/9408/9408_tokei_kaiseki.pdf
 http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=787
 BioTechnicalフォーラム [n=3のときの統計処理]
 
-----------
-## CI
-Confidence interval
-https://ja.wikipedia.org/wiki/信頼区間
 
-https://twitter.com/h_okumura/status/953470664714862592
-Haruhiko Okumura on Twitter: "正確に説明してある。長い目で見て95%正しいが，具体的なデータから求めた95%信頼区間はその中に真の値が95%の確率で含まれるわけではない（というのが非ベイジアンの解釈） https://t.co/FPxnYVZZTl"
-10:34 PM - 16 Jan 2018
-
-http://id.fnshr.info/2017/03/13/dena-conf-intv/
-DeNA に対する第三者委員会の調査報告書での信頼区間の説明｜Colorless Green Ideas
-
-
-信頼区間って何？
-http://oku.edu.mie-u.ac.jp/~okumura/stat/what_is_CI.php
-
- http://www.anlyznews.com/2012/02/blog-post_08.html
-「統計学を拓いた異才たち」で触れる統計学史
-信頼区間を考えてみよう。これは、何回も推定を繰り返したとして、真のパラメーターが信頼区間におさまっている割合が、例えば95%である事を意味する。しかし、推定量の正しさの度合いが95%だとか、標本の95%がおさまる範囲だと解釈してしまう人は少なく無い（信頼区間って何？）。
 
 
 ----------
-## Causal inference
-**因果推論**
+## References
 
-https://sites.google.com/site/sshimizu06/home/presentations
-[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
-
-http://kamonohashiperry.com/archives/531
-統計的因果推論に関するスライドとRのサンプルコード | かものはしの分析ブログ
-
-http://tjo.hatenablog.com/archive/category/統計的因果推論
-統計的因果推論 カテゴリーの記事一覧 - 六本木で働くデータサイエンティストのブログ
-
-2017-12-30
-http://krsk-phs.hatenablog.com/entry/pure_criticism
-炭水化物は体に悪い？脂質をたくさん摂るほど健康に良い？：2017年世界一に選ばれた科学論文を解説 - Unboundedly
-
-2017-09-30
-http://jairo.nii.ac.jp/0069/00037618
-＜特集＞比較政治学における因果推論
-久保慶一
-https://www.waseda.jp/fpse/pse/assets/uploads/2014/05/df3ed38f795bf40b63002e3b3c406b71.pdf
-
-Jul 14, 2017
-https://www.slideshare.net/sshimizu2006/ss-77876940
-統計的因果推論への招待 -因果構造探索を中心に-
-
-http://hosho.ees.hokudai.ac.jp/~kubo/ce/2017/Hayashi17ESJcausal.pdf
-2017年3月15日 18:00-20:00 生態学会自由集会 『データ解析で出会う統計的問題:原因→結果の統計モデリング』
-生態学者のための統計的因果推論入門 : 重回帰の結果に基づき「介入」する前に
-【後日配布版スライド】
-林 岳彦 国立環境研究所環境リスク・健康研究センター
-
-2016年8月11日
-https://rpubs.com/nakamichi_/study-iwanami-ds3
-岩波データサイエンスvol.3のデータで遊ぼう
-
-Jul 30, 2016
-https://www.slideshare.net/shuyo/doraemon-causality-64540448
-ドラえもんでわかる統計的因果推論 #TokyoR
-Shuyo Nakatani
-
-http://hikaru1122.hatenadiary.jp/entry/2016/05/12/212857
-統計的因果推論の勉強会の前準備 - Knowledge As Practice
-
-https://healthpolicyhealthecon.com/2014/09/30/study-design-overview/
-因果推論？記述統計？－まずは研究デザインをはっきりさせよう – 医療政策学×医療経済学
-「因果推論」（Causal inference）
-
-http://d.hatena.ne.jp/isseing333/20120330/1333118828
-因果推論のススメ - アイアナ：データ分析や人工知能(AI)などの技術雑記
-
-
-----------
-### batch effect
-
-(Oct. 2016)
-http://bukai.pharm.or.jp/bukai_kozo/SARNews/SARNews_31.pdf
-非生物学的な(意味のない!)共発現関係が生 じる原因のいくつかは、RNA の品質や batch effect に帰する。batch effect とは、サンプルを得 る時期が異なった場合や別の研究室で行われた場合に、データ取得の際に発生する実験品質の 違いがオミックスデータに生じることを指す(特に大規模な実験では、不可避な変動である)。 通常、これらバイアスの推定と影響の緩和は、実験デザインに基づいた線形モデルによって行 うことができ、重要視されるようになっている。実際、我々も 50 種のシロイヌナズナ変異体 のメタボロームデータ解析の際には、このような batch effect を考慮した [11]。
-
-2016年8月3日
-http://postd.cc/ten-simple-rules-for-effective-statistical-practice/
-効率的な統計実践のための、10個のシンプルなルール | コンピュータサイエンス | POSTD
-ルール7：変動性を評価する
-データを集めるのが別の日、別の研究室、あるいは手順を若干変え得るということであれば、考慮すべき変動性の潜在的要因が3つ以上あります。マイクロアレイ分析においてはバッチ効果が変動性の追加をもたらすものとしてよく知られており、フィルタをかけるのにはいくつかの方法があります。
-
-http://fgfwww.nibb.ac.jp/wiki5/data/media/git2013sopen/1.3-nibb_training_course_2013s_1-3.pdf
-実験デザインの重要性
-•-omicsデータは”batch effect”という体系的なバイアスが多くの場合、混入する。
-
-- 線形モデルで推定・除去
-  - 遺伝子型/処理など注目している効果の要因
-  - 反復(実験日時)/実験者 などバイアス要因
-
-http://www.iwlab.org/our-lab/our-staff/yy/sympo/20121109
-Batch effectとは，実験環境 (機器や観測者など) の違いで生じるデータ変動 (variation) のことで，データを統合して解析を進める際には，このBatch effectが悪さをするという話をされていた．例えば，マイクロアレイデータ一つを取ってみても，遺伝子発現を測定する方法が異なる機械はいくつも存在しており，それぞれで得られたデータは，固有のBatch effect を持ってしまう．
-
-Oct 14, 2012
-https://www.slideshare.net/antiplastics/meta-analysis-14720694
-Meta analysis of microarray
-弘毅 露崎
- batch effect補正
+http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
+統計学関連なんでもあり
 
 ----------
 ## [Colorless Green Ideas](http://id.fnshr.info)
@@ -265,11 +402,5 @@ To consult the statistician after an experiment is finished is often merely to a
 R.A. Fisher
 
 https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
-
-----------
-## References
-
-http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
-統計学関連なんでもあり
 
 ----------
