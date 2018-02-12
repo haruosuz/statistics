@@ -28,6 +28,17 @@ Last Update: 2018-02-10
 ----------
 ### 2018
 
+https://psych.or.jp/event/180228-0302
+日本行動計量学会 第20回春の合宿セミナーのお知らせ | 日本心理学会
+
+http://www.bsj.gr.jp/event/spring_semi.html#20th
+第20回 2018年2月28日(水)～3月2日(金) 同志社大学同志社びわこリトリートセンター
+https://sites.google.com/view/bmsseminar
+第20回春の合宿セミナー開催のご案内
+
+https://sites.google.com/site/sshimizu06/home/presentations
+[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
+
 http://www.ism.ac.jp/events/2018/meeting0213_14.html
 小研究会「生態学における統計教育：計算より概念と考え方」
 日時 2018年2月13日(火) 13:00～ 14日(水)12:00
@@ -40,6 +51,10 @@ https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.htm
 
 ----------
 ### 2017
+
+http://www.sg.med.osaka-u.ac.jp/school_2017.html
+遺伝統計学・夏の学校＠大阪大学（2017）
+－ 講義資料
 
 ### 2017-12
 
@@ -90,9 +105,6 @@ Meta analysis of microarray
 ----------
 ## Causal inference
 **因果推論**
-
-https://sites.google.com/site/sshimizu06/home/presentations
-[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
 
 http://kamonohashiperry.com/archives/531
 統計的因果推論に関するスライドとRのサンプルコード | かものはしの分析ブログ
@@ -313,10 +325,6 @@ https://togetter.com/li/869445
 統計解析の目的：知見の一般化？それとも、傾向の確認？その場合の再現性って何？ - Togetterまとめ 
 - 推測統計学のもうひとつの問題は「実際にはほとんど誰もランダムサンプリングなどしていない」ということで，これは別に心理学や教育学，医学などよくそれで批判される分野に限ったことではなくて，推測統計学の本家本元である農学分野の研究でもランダム性などほとんど保証されないように見える。
 
-Oct 30, 2010
-https://www.youtube.com/watch?v=Hz1fyhVOjr4
-Biologist talks to statistician - YouTube
-
 https://ci.nii.ac.jp/naid/110007099999
 実験・調査における「繰返し」と「反復」の誤用  [in Japanese]
 Japanese Journal of Grassland Science 54(4), 348-351, 2009
@@ -341,6 +349,16 @@ http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
 
 ### n=3
 
+2017年10月2日
+https://sites.google.com/site/fishermultiplecomparison/variance
+標本分散と標本不偏分散，nで割るかn-1で割るか，不偏標準偏差の話題も含めて - 統計学的手法の話題 - 生物科学研究所
+
+例えば，母平均は母集団分布の位置を表す母数だが，これは，最低限として（誤差は最大になるが），測定値１個からなる標本（n=1）で足りる。
+n = 0 は駄目だが，n ≧ 1 ならば，「自由に」使える，のである。 それを分母で表現している。
+
+一方，バラツキの母数である母分散は，一つの測定値では推定できない。
+これが母分散を求めるときの自由度n-1 につながる。 n = 1 では不可（分母が0になる），n ≧ 2 ならば自由に使える，ということを分母で示している。
+
 https://www.sbj.or.jp/sbj/sbj_tokei_kaiseki.html
 生物工学会誌 –『間違いから学ぶ実践統計解析』 | 公益社団法人 日本生物工学会
 第3回	データ数はいくつ必要	川瀬 雅也・松田 史生	(2016)
@@ -348,18 +366,26 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/9408/9408_tokei_kaiseki.pdf
 実験は 3 回繰り返さないと
 実験は 3 回反復
 
+Oct 30, 2010
+https://www.youtube.com/watch?v=Hz1fyhVOjr4
+Biologist talks to statistician - YouTube
+
 2008/03/05
 http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=787
 BioTechnicalフォーラム [n=3のときの統計処理]
 
+http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc043/12199.html
+No.12199　標準偏差を求めるためのデータ数　　【古川】　2010/03/01(Mon) 00:12
 
+「3 以上でなければならない」ことなどありません。サンプルサイズは2以上でよいのです。
+だれが（どこで）「3 以上でなければならない」といっているのですか？
 
+http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc041/05789.html
+No.05789　n=2での標準偏差　　【佐々木】　2008/02/10(Sun) 00:20 
 
-----------
-## References
+http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc040/02768.html
+No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51 
 
-http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
-統計学関連なんでもあり
 
 ----------
 ## [Colorless Green Ideas](http://id.fnshr.info)
@@ -402,5 +428,14 @@ To consult the statistician after an experiment is finished is often merely to a
 R.A. Fisher
 
 https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
+
+----------
+## References
+
+http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
+統計学関連なんでもあり
+
+http://d.hatena.ne.jp/haruosuz/20051130
+統計 - Haruo Suzuki / Bioinformatics
 
 ----------
