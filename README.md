@@ -25,6 +25,12 @@ Last Update: 2018-02-10
 ----------
 ## Updates
 
+
+https://www.ncbi.nlm.nih.gov/pubmed/25901488
+PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
+Beyond bar and line graphs: time for a new data presentation paradigm.
+Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
+
 ----------
 ### 2018
 
@@ -91,11 +97,21 @@ http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
 ----------
 ### 2016
 
+2016-03-10
+https://www.natureasia.com/ja-jp/ndigest/v13/n6/p値の誤用の蔓延に米国統計学会が警告/75248
+Ｐ値の誤用の蔓延に米国統計学会が警告
+
 http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
 三中(2016) | 特集「心理学の再現可能性：我々はどこから来たのか　我々は何者か　我々はどこへ行くのか」
 三中信宏
 統計学の現場は一枚岩ではない
 http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
+
+----------
+http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
+樹木・森林生態学「よく出る」誤用統計学の基本わざ
+久保拓弥
+
 
 ----------
 ### batch effect
