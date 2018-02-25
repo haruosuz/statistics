@@ -25,14 +25,16 @@ Last Update: 2018-02-10
 ----------
 ## Updates
 
-
-https://www.ncbi.nlm.nih.gov/pubmed/25901488
-PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
-Beyond bar and line graphs: time for a new data presentation paradigm.
-Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
-
 ----------
 ### 2018
+
+https://tokyochallenge.odpt.org
+東京公共交通オープンデータチャレンジ
+応募期間：2017年12月7日〜2018年3月15日
+
+2018年02月19日
+https://qiita.com/drken/items/089b8443305df047b44e
+統計検定 1 級に合格する方法
 
 ### 2018-03-28
 
@@ -114,6 +116,13 @@ http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
 
 
 ----------
+### 2016
+https://www.ncbi.nlm.nih.gov/pubmed/25901488
+PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
+Beyond bar and line graphs: time for a new data presentation paradigm.
+Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
+
+----------
 ### batch effect
 
 (Oct. 2016)
@@ -156,6 +165,9 @@ http://tjo.hatenablog.com/archive/category/統計的因果推論
 2017-12-30
 http://krsk-phs.hatenablog.com/entry/pure_criticism
 炭水化物は体に悪い？脂質をたくさん摂るほど健康に良い？：2017年世界一に選ばれた科学論文を解説 - Unboundedly
+
+https://twitter.com/koro485
+ヒトの行動や健康に関するデータ分析・因果推論に興味がある研究者見習い@博士課程@ボストン ↓個人ブログ
 
 2017-09-30
 http://jairo.nii.ac.jp/0069/00037618
@@ -431,6 +443,12 @@ No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51
 ----------
 ## [Colorless Green Ideas](http://id.fnshr.info)
 
+http://id.fnshr.info/2016/03/28/excel-bad-charts/
+Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
+
+http://id.fnshr.info/2015/11/07/math-class-4-stats/
+統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
+
 http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
 「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
 
@@ -472,6 +490,9 @@ https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-
 
 ----------
 ## References
+
+http://todo-ran.com/t/bestworst
+都道府県ベスト＆ワースト｜都道府県別統計とランキングで見る県民性 [とどラン]
 
 http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
 統計学関連なんでもあり
