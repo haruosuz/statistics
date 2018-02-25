@@ -66,7 +66,25 @@ https://sites.google.com/view/bmsseminar
 第20回春の合宿セミナー開催のご案内
 
 https://sites.google.com/site/sshimizu06/home/presentations
-[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. xx, 滋賀.
+[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. 日本行動計量学会 第20回春の合宿セミナー, 滋賀.
+
+http://www.kspub.co.jp/book/detail/1529250.html
+統計的因果探索 | 書籍情報 | 株式会社 講談社サイエンティフィク
+
+https://www.kinokuniya.co.jp/f/dsg-08-EK-0465092
+統計的因果探索 / 清水昌平 ＜電子版＞ - 紀伊國屋書店ウェブストア
+
+https://www.amazon.co.jp/dp/B0756TM3KM
+統計的因果探索 (機械学習プロフェッショナルシリーズ) | 清水昌平 | 工学 | Kindleストア | Amazon
+
+https://bookmeter.com/books/11706179
+統計的因果探索 感想 清水 昌平 - 読書メーター
+
+https://twitter.com/search?q=統計的因果探索
+
+https://twitter.com/call_me_nots/status/953441739804569600
+nots™ on Twitter: "“統計的因果推論への招待 -因果構造探索を中心に- - SlideShare” https://t.co/mLGB7oQAu8"
+8:39 PM - 16 Jan 2018
 
 ### 2018-02-13
 
