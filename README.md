@@ -28,13 +28,19 @@ Last Update: 2018-02-10
 ----------
 ### 2018
 
+### 2018-03
+
 https://tokyochallenge.odpt.org
 東京公共交通オープンデータチャレンジ
 応募期間：2017年12月7日〜2018年3月15日
 
-2018年02月19日
-https://qiita.com/drken/items/089b8443305df047b44e
-統計検定 1 級に合格する方法
+http://sugakubunka.com/causality/
+統計的因果推論入門 | 社会人のための数学教室　すうがくぶんか
+1. 因果推論の理論
+キーワード：相関・因果・交絡・反実仮想・介入・処置・平均処置効果・因果ダイアグラム・バックドア基準
+2. 因果推論の手法
+キーワード：RCT・マッチング法・操作変数法・回帰分断デザイン・中断時系列デザイン・差の差分析・傾向スコア法
+3/11,25(日) 10:00-15:00
 
 ### 2018-03-28
 
@@ -55,37 +61,6 @@ http://www.applstat.gr.jp/annual/index.html
 会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
 参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
 
-### 2018-02-28
-
-https://psych.or.jp/event/180228-0302
-日本行動計量学会 第20回春の合宿セミナーのお知らせ | 日本心理学会
-
-http://www.bsj.gr.jp/event/spring_semi.html#20th
-第20回 2018年2月28日(水)～3月2日(金) 同志社大学同志社びわこリトリートセンター
-https://sites.google.com/view/bmsseminar
-第20回春の合宿セミナー開催のご案内
-
-https://sites.google.com/site/sshimizu06/home/presentations
-[94] 清水昌平 (2018年2月28日-3月2日)  因果探索入門. 日本行動計量学会 第20回春の合宿セミナー, 滋賀.
-
-http://www.kspub.co.jp/book/detail/1529250.html
-統計的因果探索 | 書籍情報 | 株式会社 講談社サイエンティフィク
-
-https://www.kinokuniya.co.jp/f/dsg-08-EK-0465092
-統計的因果探索 / 清水昌平 ＜電子版＞ - 紀伊國屋書店ウェブストア
-
-https://www.amazon.co.jp/dp/B0756TM3KM
-統計的因果探索 (機械学習プロフェッショナルシリーズ) | 清水昌平 | 工学 | Kindleストア | Amazon
-
-https://bookmeter.com/books/11706179
-統計的因果探索 感想 清水 昌平 - 読書メーター
-
-https://twitter.com/search?q=統計的因果探索
-
-https://twitter.com/call_me_nots/status/953441739804569600
-nots™ on Twitter: "“統計的因果推論への招待 -因果構造探索を中心に- - SlideShare” https://t.co/mLGB7oQAu8"
-8:39 PM - 16 Jan 2018
-
 ### 2018-02-13
 
 http://www.ism.ac.jp/events/2018/meeting0213_14.html
@@ -94,6 +69,18 @@ http://www.ism.ac.jp/events/2018/meeting0213_14.html
 場所 統計数理研究所 3階 第2セミナー室
 
 ### 2018-02
+
+1:35 AM - 27 Feb 2018
+https://twitter.com/NishikawaMasaru/status/968374116154781696
+Masaru Nishikawa on Twitter: "研究結果の再現可能性：The Atlanticにも記事が載ってた。「有意でない研究結果が発表されない問題」、「100研究例の内、97％で統計的に優位な結果が出ていたが、研究結果を再現できたのは36％」「p値を有意（p<0.05）にする研究上の作為的行為（p-hacking）が横行」など。 https://t.co/N3whu5CrWm"
+
+12:51 AM - 27 Feb 2018
+https://twitter.com/TJO_datasci/status/968363039698358277
+TJO on Twitter: "コーネル大の大学教員が部下に「p = 0.06じゃ論文に出せないぞ、もっと低くしろ」とp-hackingというか捏造をするよう迫ったメールが公開されたと聞いて笑ってる https://t.co/lnltsir8pV"
+
+2018年02月19日
+https://qiita.com/drken/items/089b8443305df047b44e
+統計検定 1 級に合格する方法
 
 https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
 第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
@@ -179,6 +166,15 @@ http://kamonohashiperry.com/archives/531
 
 http://tjo.hatenablog.com/archive/category/統計的因果推論
 統計的因果推論 カテゴリーの記事一覧 - 六本木で働くデータサイエンティストのブログ
+
+2018年03月04日
+https://qiita.com/kaizu_3324/items/16a86b2aa342084be44f
+統計的因果推論とPropensity Score（傾向スコア）④ 
+https://qiita.com/kaizu_3324
+
+https://twitter.com/call_me_nots/status/953441739804569600
+nots™ on Twitter: "“統計的因果推論への招待 -因果構造探索を中心に- - SlideShare” https://t.co/mLGB7oQAu8"
+8:39 PM - 16 Jan 2018
 
 2017-12-30
 http://krsk-phs.hatenablog.com/entry/pure_criticism
