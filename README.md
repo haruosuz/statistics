@@ -28,12 +28,20 @@ Last Update: 2018-02-10
 ----------
 ### 2018
 
+### 2018-04
+
+http://leeswijzer.org/files/books.html
+【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
+http://d.hatena.ne.jp/leeswijzer/20170428/1493373148
+
 ### 2018-03
 
 https://tokyochallenge.odpt.org
 東京公共交通オープンデータチャレンジ
 応募期間：2017年12月7日〜2018年3月15日
 
+### 2018-03-25
+### 2018-03-11
 http://sugakubunka.com/causality/
 統計的因果推論入門 | 社会人のための数学教室　すうがくぶんか
 1. 因果推論の理論
@@ -61,12 +69,15 @@ http://www.applstat.gr.jp/annual/index.html
 会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
 参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
 
-### 2018-02-13
+### 2018-03-19
 
-http://www.ism.ac.jp/events/2018/meeting0213_14.html
-小研究会「生態学における統計教育：計算より概念と考え方」
-日時 2018年2月13日(火) 13:00～ 14日(水)12:00
-場所 統計数理研究所 3階 第2セミナー室
+http://www.ism.ac.jp/risk/contents/pdf/program_biostat_2018.pdf
+第 9 回 生物統計ネットワークシンポジウム 2018 
+日時:2018 年 3 月 19 日(月)13:00-17:30(開場 12:30)
+会場:FUKURACIA 丸の内オアゾ Hall B(東京都千代田区丸の内 1-6-5)
+チュートリアル講演 「構造的因果モデルの基礎」 黑木学(横浜国立大学)(13:10-14:45)
+企画セッション 「生物統計学方法論の最前線」 (15:00-17:20)
+
 
 ### 2018-02
 
@@ -115,17 +126,31 @@ http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
 http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
 
 ----------
+
+https://twitter.com/KuboBook/status/972394855161765888
+久保拓弥 on Twitter: "なぜか過剰に製本された「統計数理」Vol.64-1「生態学における統計モデリング」https://t.co/Q8Vbb0kQak ……水曜日 (3/14) の自由集会では無料配布して在庫一掃する予定！… "
+http://www.ism.ac.jp/editsec/toukei/pdf/64-1-001.pdf
+統計数理(2016)
+
 http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
 樹木・森林生態学「よく出る」誤用統計学の基本わざ
 久保拓弥
 
 
 ----------
-### 2016
+### 2015
 https://www.ncbi.nlm.nih.gov/pubmed/25901488
 PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
 Beyond bar and line graphs: time for a new data presentation paradigm.
 Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
+
+
+----------
+### 2012
+
+2012-02-14
+http://d.hatena.ne.jp/hoxo_m/20120214/p1
+統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む
 
 ----------
 ### batch effect
@@ -401,6 +426,8 @@ Japanese Journal of Grassland Science 54(4), 348-351, 2009
 http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc042/10256.html
 No.10256　独立した2群の差　サンプルサイズの偏り　　【初心者】　2009/07/04
 
+サ ンプルサイズのアンバランスは，忌避すべきものではありません。実験計画を立てる段階では，サンプルサイズは揃える方がよいでしょう。その意味は，全体の サンプルサイズが決まっているなら，サンプルサイズを同数にした方が検出力が一番高いからです。しかし，データ収集後にデータ解析する段階で群を分けて比 較するような場合にはサンプルサイズが同じになることは期待薄でしょう。このようなときに，サンプルサイズをわざわざ減らすと，どのような減らしかたをし ようとも，たとえ同数にするにしても，検出力は下がるのです。
+
 2017年9月30日
 https://sites.google.com/site/fishermultiplecomparison/samplesize
 サンプル数とサンプルサイズ n は意味が違う - 統計学的手法の話題 - 生物科学研究所
@@ -504,6 +531,9 @@ https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-
 
 ----------
 ## References
+
+http://ebsa.ism.ac.jp
+統計科学のための電子図書システム
 
 http://todo-ran.com/t/bestworst
 都道府県ベスト＆ワースト｜都道府県別統計とランキングで見る県民性 [とどラン]
