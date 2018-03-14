@@ -77,6 +77,10 @@ http://www.applstat.gr.jp/annual/index.html
 参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
 
 ### 2018-04
+
+https://twitter.com/leeswijzer/status/970907393700835328
+MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院講義「生物統計学」は4月5日（木）から開講しますので，受講予定者は4限にご参集ください．教室は理学部2号館の201号室だと思います（近日中に教務からアナウンスされます）．学内ネットに繋がるPCを持参して下さい．初回はガイダンスとRインストール作業です．"
+
 http://leeswijzer.org/files/books.html
 【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
 http://d.hatena.ne.jp/leeswijzer/20170428/1493373148
@@ -484,17 +488,6 @@ No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51
 
 
 ----------
-## [Colorless Green Ideas](http://id.fnshr.info)
-
-http://id.fnshr.info/2016/03/28/excel-bad-charts/
-Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
-
-http://id.fnshr.info/2015/11/07/math-class-4-stats/
-統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
-
-http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
-「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
-
 http://www.keisoshobo.co.jp/book/b272873.html
 ダメな統計学 - 株式会社　勁草書房
 
@@ -503,8 +496,23 @@ http://www.keisoshobo.co.jp/book/b272873.html
 
 ![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
 
+http://keisobiblio.com/2017/01/25/atogakitachiyomi_damenatokeigaku/
+あとがきたちよみ／『ダメな統計学　悲惨なほど完全なる手引書』 - けいそうビブリオフィル
+
+http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
+「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
+
+----------
+## [Colorless Green Ideas](http://id.fnshr.info)
+
 http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
 『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
+
+http://id.fnshr.info/2016/03/28/excel-bad-charts/
+Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
+
+http://id.fnshr.info/2015/11/07/math-class-4-stats/
+統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
 
 http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
 ダメな統計学：目次｜Colorless Green Ideas
@@ -533,6 +541,12 @@ https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-
 
 ----------
 ## References
+
+https://twitter.com/stattan/status/973732995927498752
+統計たん@本質的に不良設定問題 on Twitter: "群馬大学の青木先生のページにパラメトリック検定とノンパラメトリック検定の手法対応・分類表があるわ。ノンパラメトリック検定は何を使ったらいいかわかりにくいから，必要になったら参照してみてね。https://t.co/1thUnNCYCv"
+
+http://aoki2.si.gunma-u.ac.jp/lecture/Kentei/nonpara.html
+パラメトリックな手法とノンパラメトリックな手法
 
 http://ebsa.ism.ac.jp
 統計科学のための電子図書システム
