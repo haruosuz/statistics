@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-02-10
+Last Update: 2018-03-16
 
 ----------
 
@@ -26,9 +26,28 @@ Last Update: 2018-02-10
 ----------
 ## Updates
 
+https://twitter.com/stattan
+統計たん@本質的に不良設定問題
+
+https://twitter.com/tousuuken
+統計数理研究所
+
+http://www.ism.ac.jp/topevent_j/index.html
+イベント一覧 | 統計数理研究所
+
 ----------
 ### 2018
 
+### 2018-09
+http://bsj.wdc-jp.com/2018/
+日本行動計量学会　第46回大会
+2018年9月3日（月）～9月6日（木）
+慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
+http://www.bsj.gr.jp/event/seminar.html
+チュートリアル・セミナー（大会時に開催）
+構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
+
+### 2018-06
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 次回の検定情報
@@ -448,6 +467,9 @@ http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
 補足説明 (1)「標本の大きさ(サンプルサイズ:sample size)と標本数」について
 
 ### n=3
+
+https://twitter.com/strnr/status/974402251375734784
+Stephen Turner on Twitter: "“But I need n=3 please try the analysis anyway”… "
 
 2017年10月2日
 https://sites.google.com/site/fishermultiplecomparison/variance
