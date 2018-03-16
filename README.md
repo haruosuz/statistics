@@ -68,6 +68,7 @@ http://www.ism.ac.jp/risk/contents/pdf/program_biostat_2018.pdf
 企画セッション 「生物統計学方法論の最前線」 (15:00-17:20)
 
 ### 2018-03-25
+### 2018-03-11
 http://sugakubunka.com/causality/
 統計的因果推論入門 | 社会人のための数学教室　すうがくぶんか
 1. 因果推論の理論
@@ -75,9 +76,9 @@ http://sugakubunka.com/causality/
 2. 因果推論の手法
 キーワード：RCT・マッチング法・操作変数法・回帰分断デザイン・中断時系列デザイン・差の差分析・傾向スコア法
 3/11,25(日) 10:00-15:00
-### 2018-03-11
 
-### 2018-03-28
+### 2018-03-30
+### 2018-03-29
 https://connpass.com/event/75366/
 応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
 Registration Period
@@ -89,11 +90,18 @@ http://biometrics.gr.jp/annualmtg_2018/index.html
 事前参加申し込み：
 2018/1/30 - 2/28
 
+### 2018-03-28
 http://www.applstat.gr.jp/annual/index.html
 応用統計学会2018年年会
 日時：日時： 2018 年 3 月 28 日（水）
 会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
 参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
+
+https://sites.google.com/a/edu.k.u-tokyo.ac.jp/sequence-analysis-symposium/home
+Sequence Analysis Symposium （配列解析シンポジウム）
+~ 36 years since Smith-Waterman-Gotoh~
+日時：2018年3月28日（水）13:00～18:20
+会場：産業技術総合研究所　臨海副都心センター別館　バイオ・IT融合棟　11階会議室
 
 ### 2018-04
 
