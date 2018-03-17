@@ -38,6 +38,13 @@ http://www.ism.ac.jp/topevent_j/index.html
 ----------
 ### 2018
 
+
+https://twitter.com/M123Takahashi/status/974471731183157248
+高橋将宜 Masayoshi Takahashi on Twitter: "P値の問題は、すでに1999年の段階でGill (1999)やJohnson (1999)が指摘していたにも関わらず、実際に大きな問題として取り上げられたのは近年になってからで、実に20年近くもかかっていますね。 Gill (1999) https://t.co/8GU7mTemWs Johnson (1999)：pdf直リンク https://t.co/G6pytQi9Oz… https://t.co/umWCKqjyxN"
+
+https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
+ギネスビールの醸造所が統計学的手法の一つ「t検定」を生み出した - GIGAZINE
+
 ### 2018-09
 http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
@@ -138,7 +145,9 @@ http://www.sg.med.osaka-u.ac.jp/school_2017.html
 遺伝統計学・夏の学校＠大阪大学（2017）
 － 講義資料
 
-### 2017-12
+2017-06-10
+https://togetter.com/li/1119318
+全くの偶然による相関関係の図表がなんか笑える「ニコラス・ケイジが映画に出るとプールで人が死ぬ？」 - Togetter
 
 ### 2017-05
 http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
