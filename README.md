@@ -35,9 +35,13 @@ https://twitter.com/tousuuken
 http://www.ism.ac.jp/topevent_j/index.html
 イベント一覧 | 統計数理研究所
 
+http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
+統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
+
+https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
+
 ----------
 ### 2018
-
 
 https://twitter.com/M123Takahashi/status/974471731183157248
 高橋将宜 Masayoshi Takahashi on Twitter: "P値の問題は、すでに1999年の段階でGill (1999)やJohnson (1999)が指摘していたにも関わらず、実際に大きな問題として取り上げられたのは近年になってからで、実に20年近くもかかっていますね。 Gill (1999) https://t.co/8GU7mTemWs Johnson (1999)：pdf直リンク https://t.co/G6pytQi9Oz… https://t.co/umWCKqjyxN"
@@ -580,6 +584,11 @@ https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-
 
 ----------
 ## References
+
+化学と生物 [統計検定を理解せずに使っている人のために](https://twitter.com/search?q=統計検定を理解せずに使っている人のために)
+- http://doi.org/10.1271/kagakutoseibutsu.51.318
+- http://doi.org/10.1271/kagakutoseibutsu.51.408
+- http://doi.org/10.1271/kagakutoseibutsu.51.483
 
 https://twitter.com/stattan/status/973732995927498752
 統計たん@本質的に不良設定問題 on Twitter: "群馬大学の青木先生のページにパラメトリック検定とノンパラメトリック検定の手法対応・分類表があるわ。ノンパラメトリック検定は何を使ったらいいかわかりにくいから，必要になったら参照してみてね。https://t.co/1thUnNCYCv"
