@@ -33,7 +33,7 @@ Last Update: 2018-03-16
 
 [The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
 
-![](https://d2f99xq7vri1nk.cloudfront.net/DataDino-600x455.gif)
+![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
 
 ![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
 
