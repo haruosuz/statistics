@@ -9,7 +9,8 @@ Last Update: 2018-03-16
 ## Table of Contents
 - [Updates](#updates)
   - [2018](#2018)
-  - [2018-01](#2018-01)
+  - [2017](#2017)
+  - [2016](#2016)
 - [batch effect](#batch-effect)
 - [Causal inference](#causal-inference)
 - [Confidence interval](#ci)
@@ -26,6 +27,21 @@ Last Update: 2018-03-16
 ----------
 ## Updates
 
+[#barbarplots](http://barbarplots.github.io)
+
+![](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
+
+[The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
+
+![](https://d2f99xq7vri1nk.cloudfront.net/DataDino-600x455.gif)
+
+![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
+
+[アンスコムの例 - Wikipedia](https://ja.wikipedia.org/wiki/アンスコムの例)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
+
+
 https://twitter.com/stattan
 統計たん@本質的に不良設定問題
 
@@ -34,11 +50,6 @@ https://twitter.com/tousuuken
 
 http://www.ism.ac.jp/topevent_j/index.html
 イベント一覧 | 統計数理研究所
-
-http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
-統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
-
-https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
 
 ----------
 ### 2018
@@ -49,34 +60,8 @@ https://twitter.com/M123Takahashi/status/974471731183157248
 https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
 ギネスビールの醸造所が統計学的手法の一つ「t検定」を生み出した - GIGAZINE
 
-### 2018-09
-http://bsj.wdc-jp.com/2018/
-日本行動計量学会　第46回大会
-2018年9月3日（月）～9月6日（木）
-慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
-http://www.bsj.gr.jp/event/seminar.html
-チュートリアル・セミナー（大会時に開催）
-構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
-
-### 2018-06
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年6月17日(日)
 
 ### 2018-03
-
-https://tokyochallenge.odpt.org
-東京公共交通オープンデータチャレンジ
-応募期間：2017年12月7日〜2018年3月15日
-
-### 2018-03-19
-http://www.ism.ac.jp/risk/contents/pdf/program_biostat_2018.pdf
-第 9 回 生物統計ネットワークシンポジウム 2018 
-日時:2018 年 3 月 19 日(月)13:00-17:30(開場 12:30)
-会場:FUKURACIA 丸の内オアゾ Hall B(東京都千代田区丸の内 1-6-5)
-チュートリアル講演 「構造的因果モデルの基礎」 黑木学(横浜国立大学)(13:10-14:45)
-企画セッション 「生物統計学方法論の最前線」 (15:00-17:20)
 
 ### 2018-03-25
 ### 2018-03-11
@@ -88,25 +73,22 @@ http://sugakubunka.com/causality/
 キーワード：RCT・マッチング法・操作変数法・回帰分断デザイン・中断時系列デザイン・差の差分析・傾向スコア法
 3/11,25(日) 10:00-15:00
 
-### 2018-03-30
-### 2018-03-29
-https://connpass.com/event/75366/
-応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
-Registration Period
-2018/01/12(Fri) 00:00 〜
-2018/03/01(Thu) 00:00
-
-http://biometrics.gr.jp/annualmtg_2018/index.html
-2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
-事前参加申し込み：
-2018/1/30 - 2/28
-
 ### 2018-03-28
 http://www.applstat.gr.jp/annual/index.html
 応用統計学会2018年年会
 日時：日時： 2018 年 3 月 28 日（水）
 会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
 参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
+
+### 2018-03-30
+### 2018-03-29
+
+http://biometrics.gr.jp/annualmtg_2018/index.html
+2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
+年会：2018年3月29日(木) 午後～ 30日(金) 
+チュートリアル：2018年3月29日(木) 9：30 ～ 12：30
+https://connpass.com/event/75366/
+応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
 
 https://sites.google.com/a/edu.k.u-tokyo.ac.jp/sequence-analysis-symposium/home
 Sequence Analysis Symposium （配列解析シンポジウム）
@@ -122,6 +104,21 @@ MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院�
 http://leeswijzer.org/files/books.html
 【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
 http://d.hatena.ne.jp/leeswijzer/20170428/1493373148
+
+### 2018-06
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年6月17日(日)
+
+### 2018-09
+http://bsj.wdc-jp.com/2018/
+日本行動計量学会　第46回大会
+2018年9月3日（月）～9月6日（木）
+慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
+http://www.bsj.gr.jp/event/seminar.html
+チュートリアル・セミナー（大会時に開催）
+構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
 
 ### 2018-02
 
@@ -149,6 +146,10 @@ http://www.sg.med.osaka-u.ac.jp/school_2017.html
 遺伝統計学・夏の学校＠大阪大学（2017）
 － 講義資料
 
+2017-07-27
+http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
+HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページにようこそ
+
 2017-06-10
 https://togetter.com/li/1119318
 全くの偶然による相関関係の図表がなんか笑える「ニコラス・ケイジが映画に出るとプールで人が死ぬ？」 - Togetter
@@ -170,6 +171,11 @@ http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
 三中信宏
 統計学の現場は一枚岩ではない
 http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
+
+http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/ikeda_hiraishi.pdf
+心理学における再現可能性危機:問題の構造と解決策 1)
+そこで,この状況を打開する方法 として,データを得た後に,それに適合する仮を 構築すること,すなわち HARKing が登場する
+(Hypothesizing After the Results are Known;Bones, 2012;Kerr, 1998;OʼBoyle, Banks, & Gonzalez- Mule, 2014)。HARKing の弊害は様々に論じられて いるが,おそらく最大の問題点は,それが第一種 の過誤を増大させてしまう点にあると思われる。
 
 ----------
 
@@ -273,6 +279,16 @@ http://hosho.ees.hokudai.ac.jp/~kubo/ce/2017/Hayashi17ESJcausal.pdf
 2016年8月11日
 https://rpubs.com/nakamichi_/study-iwanami-ds3
 岩波データサイエンスvol.3のデータで遊ぼう
+
+2016年3月16日
+http://www.socialpsychology.jp/seminar/seminar_160316.html
+日本社会心理学会
+第3回春の方法論セミナー「統計的因果推論への招待」
+動画
+「因果と確率の哲学」大塚淳
+https://www.youtube.com/watch?v=SlPFbKz1Nm4
+「ぼくらが因果鉄道の旅に出る理由」林岳彦
+https://www.youtube.com/watch?v=1KTXcHrA8K8
 
 Jul 30, 2016
 https://www.slideshare.net/shuyo/doraemon-causality-64540448
