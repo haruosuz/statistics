@@ -28,8 +28,9 @@ Last Update: 2018-03-16
 ## Updates
 
 [#barbarplots](http://barbarplots.github.io)
+https://twitter.com/hashtag/barbarplots
 
-![](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
+![https://twitter.com/introspection/status/844903597724913665](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
 
 [The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
 
@@ -134,6 +135,12 @@ TJO on Twitter: "コーネル大の大学教員が部下に「p = 0.06じゃ論�
 https://qiita.com/drken/items/089b8443305df047b44e
 統計検定 1 級に合格する方法
 
+2018-02-13
+http://www.ism.ac.jp/events/2018/meeting0213_14.html
+小研究会「生態学における統計教育：計算より概念と考え方」
+P値とは何だったのか
+http://www.esj.ne.jp/meeting/abst/65/S10.html
+
 https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
 第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
 
@@ -146,6 +153,8 @@ http://www.sg.med.osaka-u.ac.jp/school_2017.html
 遺伝統計学・夏の学校＠大阪大学（2017）
 － 講義資料
 
+![](http://www.sg.med.osaka-u.ac.jp/files/StatGeneSummerSchool_2017.png)
+
 2017-07-27
 http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
 HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページにようこそ
@@ -153,6 +162,9 @@ HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義の�
 2017-06-10
 https://togetter.com/li/1119318
 全くの偶然による相関関係の図表がなんか笑える「ニコラス・ケイジが映画に出るとプールで人が死ぬ？」 - Togetter
+
+![](https://pbs.twimg.com/media/DB75n2eU0AEenFe.jpg:small)
+![](https://images-na.ssl-images-amazon.com/images/I/51qy8YzMWkL._SL400_.jpg)
 
 ### 2017-05
 http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
@@ -195,6 +207,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/25901488
 PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
 Beyond bar and line graphs: time for a new data presentation paradigm.
 Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
+
+
+http://takuyaokada.hatenablog.com/entry/20150606/1433601270
+p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
 
 
 ----------
