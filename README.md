@@ -21,30 +21,12 @@ Last Update: 2018-03-16
 - [sample](#sample)
   - [sample size](#sample-size)
   - [n=3](#n3)
+- [plot](#plot)
 - [References](#references)
  - [Colorless Green Ideas](#colorless-green-ideas)
 
 ----------
 ## Updates
-
-http://d.hatena.ne.jp/leeswijzer/20180321/1521959177
-『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』ほぼ確定目次 - leeswijzer: boeken annex van dagboek
-
-[#barbarplots](http://barbarplots.github.io)
-https://twitter.com/hashtag/barbarplots
-
-![https://twitter.com/introspection/status/844903597724913665](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
-
-[The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
-
-![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
-
-![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
-
-[アンスコムの例 - Wikipedia](https://ja.wikipedia.org/wiki/アンスコムの例)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
-
 
 https://twitter.com/stattan
 統計たん@本質的に不良設定問題
@@ -58,6 +40,28 @@ http://www.ism.ac.jp/topevent_j/index.html
 ----------
 ### 2018
 
+### 2018-09
+http://bsj.wdc-jp.com/2018/
+日本行動計量学会　第46回大会
+2018年9月3日（月）～9月6日（木）
+慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
+http://www.bsj.gr.jp/event/seminar.html
+チュートリアル・セミナー（大会時に開催）
+構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
+
+### 2018-06
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年6月17日(日)
+
+### 2018-04
+
+https://twitter.com/leeswijzer/status/970907393700835328
+MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院講義「生物統計学」は4月5日（木）から開講しますので，受講予定者は4限にご参集ください．教室は理学部2号館の201号室だと思います（近日中に教務からアナウンスされます）．学内ネットに繋がるPCを持参して下さい．初回はガイダンスとRインストール作業です．"
+
+### 2018-03
+
 http://d.hatena.ne.jp/MikuHatsune/20180321/1521639267
 （臨床系の）統計解析でやらかしがちな10個のミス - 驚異のアニヲタ社会復帰への道
 
@@ -66,26 +70,6 @@ https://twitter.com/M123Takahashi/status/974471731183157248
 
 https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
 ギネスビールの醸造所が統計学的手法の一つ「t検定」を生み出した - GIGAZINE
-
-
-### 2018-03
-
-### 2018-03-25
-### 2018-03-11
-http://sugakubunka.com/causality/
-統計的因果推論入門 | 社会人のための数学教室　すうがくぶんか
-1. 因果推論の理論
-キーワード：相関・因果・交絡・反実仮想・介入・処置・平均処置効果・因果ダイアグラム・バックドア基準
-2. 因果推論の手法
-キーワード：RCT・マッチング法・操作変数法・回帰分断デザイン・中断時系列デザイン・差の差分析・傾向スコア法
-3/11,25(日) 10:00-15:00
-
-### 2018-03-28
-http://www.applstat.gr.jp/annual/index.html
-応用統計学会2018年年会
-日時：日時： 2018 年 3 月 28 日（水）
-会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
-参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
 
 ### 2018-03-30
 ### 2018-03-29
@@ -97,35 +81,18 @@ http://biometrics.gr.jp/annualmtg_2018/index.html
 https://connpass.com/event/75366/
 応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
 
+### 2018-03-28
+http://www.applstat.gr.jp/annual/index.html
+応用統計学会2018年年会
+日時：日時： 2018 年 3 月 28 日（水）
+会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
+参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
+
 https://sites.google.com/a/edu.k.u-tokyo.ac.jp/sequence-analysis-symposium/home
 Sequence Analysis Symposium （配列解析シンポジウム）
 ~ 36 years since Smith-Waterman-Gotoh~
 日時：2018年3月28日（水）13:00～18:20
 会場：産業技術総合研究所　臨海副都心センター別館　バイオ・IT融合棟　11階会議室
-
-### 2018-04
-
-https://twitter.com/leeswijzer/status/970907393700835328
-MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院講義「生物統計学」は4月5日（木）から開講しますので，受講予定者は4限にご参集ください．教室は理学部2号館の201号室だと思います（近日中に教務からアナウンスされます）．学内ネットに繋がるPCを持参して下さい．初回はガイダンスとRインストール作業です．"
-
-http://leeswijzer.org/files/books.html
-【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
-http://d.hatena.ne.jp/leeswijzer/20170428/1493373148
-
-### 2018-06
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年6月17日(日)
-
-### 2018-09
-http://bsj.wdc-jp.com/2018/
-日本行動計量学会　第46回大会
-2018年9月3日（月）～9月6日（木）
-慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
-http://www.bsj.gr.jp/event/seminar.html
-チュートリアル・セミナー（大会時に開催）
-構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
 
 ### 2018-02
 
@@ -620,8 +587,30 @@ R.A. Fisher
 
 https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
 
+## plot
+
+[#barbarplots](http://barbarplots.github.io)
+https://twitter.com/hashtag/barbarplots
+
+![https://twitter.com/introspection/status/844903597724913665](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
+
+[The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
+
+![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
+
+![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
+
+[アンスコムの例 - Wikipedia](https://ja.wikipedia.org/wiki/アンスコムの例)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
+
 ----------
 ## References
+
+http://leeswijzer.org/files/books.html
+MINAKA Nobuhiros boeken
+公刊書籍一覧（出版年順）
+【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
 
 化学と生物 [統計検定を理解せずに使っている人のために](https://twitter.com/search?q=統計検定を理解せずに使っている人のために)
 - http://doi.org/10.1271/kagakutoseibutsu.51.318
