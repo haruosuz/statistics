@@ -27,6 +27,9 @@ Last Update: 2018-03-16
 ----------
 ## Updates
 
+http://d.hatena.ne.jp/leeswijzer/20180321/1521959177
+『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』ほぼ確定目次 - leeswijzer: boeken annex van dagboek
+
 [#barbarplots](http://barbarplots.github.io)
 https://twitter.com/hashtag/barbarplots
 
@@ -54,6 +57,9 @@ http://www.ism.ac.jp/topevent_j/index.html
 
 ----------
 ### 2018
+
+http://d.hatena.ne.jp/MikuHatsune/20180321/1521639267
+（臨床系の）統計解析でやらかしがちな10個のミス - 驚異のアニヲタ社会復帰への道
 
 https://twitter.com/M123Takahashi/status/974471731183157248
 高橋将宜 Masayoshi Takahashi on Twitter: "P値の問題は、すでに1999年の段階でGill (1999)やJohnson (1999)が指摘していたにも関わらず、実際に大きな問題として取り上げられたのは近年になってからで、実に20年近くもかかっていますね。 Gill (1999) https://t.co/8GU7mTemWs Johnson (1999)：pdf直リンク https://t.co/G6pytQi9Oz… https://t.co/umWCKqjyxN"
