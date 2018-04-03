@@ -28,6 +28,9 @@ Last Update: 2018-03-16
 ----------
 ## Updates
 
+https://twitter.com/sugakubunka
+すうがくぶんか
+
 https://twitter.com/stattan
 統計たん@本質的に不良設定問題
 
@@ -55,12 +58,32 @@ http://www.toukei-kentei.jp
 次回の検定情報
 2018年6月17日(日)
 
+### 2018-05
+
+https://ism-rcmhds-2018-01.peatix.com
+公開講座「臨床研究・疫学研究における傾向スコアを用いた統計解析」
+日　時：2018年5月31日（木） 18:00-20:10
+会　場：慶應義塾大学信濃町キャンパス東校舎講堂
+講　師：野間久史（統計数理研究所）
+
+
+
+
 ### 2018-04
+
+https://twitter.com/hashtag/TokyoR
+【応用セッション募集】
+4/21開催の #TokyoR にて、応用セッションをして頂ける方を募集します。
+「我こそは」という方は、本アカウントにご連絡頂きますよう、お願い致します。
 
 https://twitter.com/leeswijzer/status/970907393700835328
 MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院講義「生物統計学」は4月5日（木）から開講しますので，受講予定者は4限にご参集ください．教室は理学部2号館の201号室だと思います（近日中に教務からアナウンスされます）．学内ネットに繋がるPCを持参して下さい．初回はガイダンスとRインストール作業です．"
 
 ### 2018-03
+
+https://twitter.com/leeswijzer/status/978742721627279362
+MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
+5:17 PM - 27 Mar 2018
 
 http://d.hatena.ne.jp/MikuHatsune/20180321/1521639267
 （臨床系の）統計解析でやらかしがちな10個のミス - 驚異のアニヲタ社会復帰への道
@@ -606,6 +629,10 @@ https://twitter.com/hashtag/barbarplots
 
 ----------
 ## References
+
+http://japanr.net
+Japan.R
+日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントが Japan.R です。
 
 http://leeswijzer.org/files/books.html
 MINAKA Nobuhiros boeken
