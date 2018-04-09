@@ -66,18 +66,16 @@ https://ism-rcmhds-2018-01.peatix.com
 会　場：慶應義塾大学信濃町キャンパス東校舎講堂
 講　師：野間久史（統計数理研究所）
 
-
-
+I'm attending 公開講座「臨床研究・疫学研究における傾向スコアを用いた統計解析」 on May 31 http://ism-rcmhds-2018-01.peatix.com via @PeatixJP
 
 ### 2018-04
 
-https://twitter.com/hashtag/TokyoR
-【応用セッション募集】
-4/21開催の #TokyoR にて、応用セッションをして頂ける方を募集します。
-「我こそは」という方は、本アカウントにご連絡頂きますよう、お願い致します。
-
-https://twitter.com/leeswijzer/status/970907393700835328
-MINAKA Nobuhiro on Twitter: "#TodaiStat 本郷での理学系研究科大学院講義「生物統計学」は4月5日（木）から開講しますので，受講予定者は4限にご参集ください．教室は理学部2号館の201号室だと思います（近日中に教務からアナウンスされます）．学内ネットに繋がるPCを持参して下さい．初回はガイダンスとRインストール作業です．"
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
+https://atnd.org/events/96013
+第69回R勉強会＠東京（#TokyoR） : ATND
+2018/04/21 (土) 14:30 ~ 19:00
+会場 :ディップ株式会社（東京都港区六本木3-2-1 住友不動産六本木グランドタワー 31階）
 
 ### 2018-03
 
