@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-03-16
+Last Update: 2018-05-08
 
 ----------
 
@@ -24,21 +24,10 @@ Last Update: 2018-03-16
 - [plot](#plot)
 - [References](#references)
  - [Colorless Green Ideas](#colorless-green-ideas)
+- [link](#link)
 
 ----------
 ## Updates
-
-https://twitter.com/sugakubunka
-すうがくぶんか
-
-https://twitter.com/stattan
-統計たん@本質的に不良設定問題
-
-https://twitter.com/tousuuken
-統計数理研究所
-
-http://www.ism.ac.jp/topevent_j/index.html
-イベント一覧 | 統計数理研究所
 
 ----------
 ### 2018
@@ -53,10 +42,14 @@ http://www.bsj.gr.jp/event/seminar.html
 構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
 
 ### 2018-06
+
+2018年6月17日(日)
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年6月17日(日)
+
+6/9開催 #TokyoR
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
 
 ### 2018-05
 
@@ -69,13 +62,6 @@ https://ism-rcmhds-2018-01.peatix.com
 I'm attending 公開講座「臨床研究・疫学研究における傾向スコアを用いた統計解析」 on May 31 http://ism-rcmhds-2018-01.peatix.com via @PeatixJP
 
 ### 2018-04
-
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
-https://atnd.org/events/96013
-第69回R勉強会＠東京（#TokyoR） : ATND
-2018/04/21 (土) 14:30 ~ 19:00
-会場 :ディップ株式会社（東京都港区六本木3-2-1 住友不動産六本木グランドタワー 31階）
 
 ### 2018-03
 
@@ -91,29 +77,6 @@ https://twitter.com/M123Takahashi/status/974471731183157248
 
 https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
 ギネスビールの醸造所が統計学的手法の一つ「t検定」を生み出した - GIGAZINE
-
-### 2018-03-30
-### 2018-03-29
-
-http://biometrics.gr.jp/annualmtg_2018/index.html
-2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
-年会：2018年3月29日(木) 午後～ 30日(金) 
-チュートリアル：2018年3月29日(木) 9：30 ～ 12：30
-https://connpass.com/event/75366/
-応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
-
-### 2018-03-28
-http://www.applstat.gr.jp/annual/index.html
-応用統計学会2018年年会
-日時：日時： 2018 年 3 月 28 日（水）
-会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
-参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
-
-https://sites.google.com/a/edu.k.u-tokyo.ac.jp/sequence-analysis-symposium/home
-Sequence Analysis Symposium （配列解析シンポジウム）
-~ 36 years since Smith-Waterman-Gotoh~
-日時：2018年3月28日（水）13:00～18:20
-会場：産業技術総合研究所　臨海副都心センター別館　バイオ・IT融合棟　11階会議室
 
 ### 2018-02
 
@@ -205,14 +168,6 @@ Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
 
 http://takuyaokada.hatenablog.com/entry/20150606/1433601270
 p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
-
-
-----------
-### 2012
-
-2012-02-14
-http://d.hatena.ne.jp/hoxo_m/20120214/p1
-統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む
 
 ----------
 ### batch effect
@@ -608,6 +563,7 @@ R.A. Fisher
 
 https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
 
+----------
 ## plot
 
 [#barbarplots](http://barbarplots.github.io)
@@ -659,5 +615,24 @@ http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
 
 http://d.hatena.ne.jp/haruosuz/20051130
 統計 - Haruo Suzuki / Bioinformatics
+
+
+
+----------
+## link
+
+https://ja.wikipedia.org/wiki/Tf-idf
+
+https://twitter.com/sugakubunka
+すうがくぶんか
+
+https://twitter.com/stattan
+統計たん@本質的に不良設定問題
+
+https://twitter.com/tousuuken
+統計数理研究所
+
+http://www.ism.ac.jp/topevent_j/index.html
+イベント一覧 | 統計数理研究所
 
 ----------
