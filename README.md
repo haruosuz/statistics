@@ -7,7 +7,8 @@ Last Update: 2018-05-26
 **統計学**
 
 ## Table of Contents
-- [Updates](#updates)
+- [featuring](#featuring)
+- [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
@@ -27,7 +28,7 @@ Last Update: 2018-05-26
 - [link](#link)
 
 ----------
-## Updates
+## featuring
 
 2017/07/02
 https://to-kei.net/basic/history/
@@ -36,19 +37,32 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
+2018年02月19日
+https://qiita.com/drken/items/089b8443305df047b44e
+統計検定 1 級に合格する方法
+
+
 ----------
+## updates
+
 ### 2018
 
-### 2018-05
+### 2018-06
 
-https://ism-rcmhds-2018-01.peatix.com
-公開講座「臨床研究・疫学研究における傾向スコアを用いた統計解析」
-日　時：2018年5月31日（木） 18:00-20:10
-会　場：慶應義塾大学信濃町キャンパス東校舎講堂
-講　師：野間久史（統計数理研究所）
+2018年6月17日(日)
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
 
-I'm attending 公開講座「臨床研究・疫学研究における傾向スコアを用いた統計解析」 on May 31 http://ism-rcmhds-2018-01.peatix.com via @PeatixJP
+- https://twitter.com/toukei_kentei
+- https://twitter.com/sugakubunka
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
 
+6/9開催 #TokyoR
+https://atnd.org/events/97016
+第70回R勉強会＠東京（#TokyoR） : ATND
+2018/06/09 (土) 14:00 ~ 19:10
+会場 :日本マイクロソフト株式会社（東京都港区港南 2-16-3 品川グランドセントラルタワー 31F）
 
 ### 2018-09
 http://bsj.wdc-jp.com/2018/
@@ -58,29 +72,6 @@ http://bsj.wdc-jp.com/2018/
 http://www.bsj.gr.jp/event/seminar.html
 チュートリアル・セミナー（大会時に開催）
 構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
-
-### 2018-06
-
-2018年6月17日(日)
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-
-2018年02月19日
-https://qiita.com/drken/items/089b8443305df047b44e
-統計検定 1 級に合格する方法
-
-http://sugakubunka.com/jssc_exp/
-統計検定解説授業 | 社会人のための数学教室　すうがくぶんか
-2017年度11月実施の統計検定の解説です。
-
-6/9開催 #TokyoR
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
-
-https://atnd.org/events/97016
-第70回R勉強会＠東京（#TokyoR） : ATND
-2018/06/09 (土) 14:00 ~ 19:10
-会場 :日本マイクロソフト株式会社（東京都港区港南 2-16-3 品川グランドセントラルタワー 31F）
 
 ### 2018-03
 
@@ -635,9 +626,6 @@ http://d.hatena.ne.jp/haruosuz/20051130
 ## link
 
 https://ja.wikipedia.org/wiki/Tf-idf
-
-https://twitter.com/sugakubunka
-すうがくぶんか
 
 https://twitter.com/stattan
 統計たん@本質的に不良設定問題
