@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-05-26
+Last Update: 2018-06-05
 
 ----------
 
@@ -15,6 +15,7 @@ Last Update: 2018-05-26
 - [batch effect](#batch-effect)
 - [Causal inference](#causal-inference)
 - [Confidence interval](#ci)
+- [contingency table](#contingency-table)
 - [DoE](#doe)
   - [Dummy](#dummy)
 - [multiple comparison](#multiple-comparison)
@@ -296,6 +297,31 @@ http://oku.edu.mie-u.ac.jp/~okumura/stat/what_is_CI.php
  http://www.anlyznews.com/2012/02/blog-post_08.html
 「統計学を拓いた異才たち」で触れる統計学史
 信頼区間を考えてみよう。これは、何回も推定を繰り返したとして、真のパラメーターが信頼区間におさまっている割合が、例えば95%である事を意味する。しかし、推定量の正しさの度合いが95%だとか、標本の95%がおさまる範囲だと解釈してしまう人は少なく無い（信頼区間って何？）。
+
+----------
+## contingency table
+
+https://en.wikipedia.org/wiki/Contingency_table
+
+https://ja.wikipedia.org/wiki/分割表
+付随性がない場合、2つの変数は「独立」(independent) と見ることができる。
+
+http://daas.la.coocan.jp/GLM/7_keisuu_data.htm
+計数データの解析
+
+　少し混乱してしまうかもしれないが、一言でいえばカテゴリカル型である計数データとは独立な個々の要素の計数である、ということである（だから、重複してカウントされたデータはもはや計数データとはいえない）。
+
+https://support.minitab.com/ja-jp/minitab/18/help-and-how-to/statistics/tables/how-to/chi-square-test-for-association/before-you-start/data-considerations/
+関連性のカイ二乗検定のデータに関する考慮事項 - Minitab
+
+すべてのデータが重複なしで、相互に排他的なカテゴリに分類されなければならない
+関連性のカイ二乗検定は、変数カテゴリが重複する場合は実行できません。したがって、各観測値は1つまた唯一のカテゴリに分類されます。
+
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/statistics/tables/how-to/chi-square-test-for-association/before-you-start/data-considerations/
+Data considerations for Chi-Square Test for Association - Minitab
+
+All the data must be categorized into mutually exclusive categories, with no overlap
+The chi-square test of association cannot be performed when categories of the variables overlap. Thus, each observation must be categorized into one and only one category.
 
 ----------
 ## DoE
