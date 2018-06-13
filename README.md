@@ -38,10 +38,13 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
+http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
+統計検定準1級を取るための勉強法｜Colorless Green Ideas
+2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
+
 2018年02月19日
 https://qiita.com/drken/items/089b8443305df047b44e
 統計検定 1 級に合格する方法
-
 
 ----------
 ## updates
@@ -54,16 +57,16 @@ https://qiita.com/drken/items/089b8443305df047b44e
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 
-- https://twitter.com/toukei_kentei
-- https://twitter.com/sugakubunka
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
+https://twitter.com/sidneymbell/status/1006404852950286336
+Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "Fundamentals of Data Visualization." Clear, helpful, and approachable guide that I wish I'd had when I started my PhD, and I'm sure I'll continue to reference long after I finish. https://t.co/J3CgnMFNOr… https://t.co/rq0nFWcANv"
+1:16 AM - 12 Jun 2018
 
-6/9開催 #TokyoR
-https://atnd.org/events/97016
-第70回R勉強会＠東京（#TokyoR） : ATND
-2018/06/09 (土) 14:00 ~ 19:10
-会場 :日本マイクロソフト株式会社（東京都港区港南 2-16-3 品川グランドセントラルタワー 31F）
+![](https://pbs.twimg.com/media/Dfd32-eUcAE16qC.jpg)
+
+http://serialmentor.com/dataviz/
+Fundamentals of Data Visualization
+Claus O. Wilke
+
 
 ### 2018-09
 http://bsj.wdc-jp.com/2018/
@@ -661,5 +664,10 @@ https://twitter.com/tousuuken
 
 http://www.ism.ac.jp/topevent_j/index.html
 イベント一覧 | 統計数理研究所
+
+- https://twitter.com/toukei_kentei
+- https://twitter.com/sugakubunka
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
 
 ----------
