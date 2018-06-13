@@ -8,6 +8,7 @@ Last Update: 2018-06-05
 
 ## Table of Contents
 - [featuring](#featuring)
+- [toukei-kentei](#toukei-kentei)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
@@ -38,6 +39,20 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
+----------
+## toukei-kentei
+
+2018年6月17日(日)
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+
+2018年04月18日
+https://matome.naver.jp/odai/2147251580620745701
+統計検定(2級・準1級)合格のための勉強法・参考書 - NAVER まとめ
+
+http://www.medicalmed.press/entry/2018/02/25/221327
+統計検定準1級に医学生が合格するためのオススメ参考書10選 - 医学生がRとPythonで医療統計
+
 http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
 統計検定準1級を取るための勉強法｜Colorless Green Ideas
 2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
@@ -46,16 +61,19 @@ http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
 https://qiita.com/drken/items/089b8443305df047b44e
 統計検定 1 級に合格する方法
 
+http://wanko-sato.hatenablog.com/entry/2017/01/21/175305
+【統計】統計検定準一級を受けようと思う。 - データ分析系男子。
+
+2015/06/27 
+http://blog.kentei-uketsuke.com/suzuki/archives/2771
+統計検定準1級をとりあえず受験
+
 ----------
 ## updates
 
 ### 2018
 
 ### 2018-06
-
-2018年6月17日(日)
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
 
 https://twitter.com/sidneymbell/status/1006404852950286336
 Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "Fundamentals of Data Visualization." Clear, helpful, and approachable guide that I wish I'd had when I started my PhD, and I'm sure I'll continue to reference long after I finish. https://t.co/J3CgnMFNOr… https://t.co/rq0nFWcANv"
