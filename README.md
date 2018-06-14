@@ -75,6 +75,11 @@ http://blog.kentei-uketsuke.com/suzuki/archives/2771
 
 ### 2018-06
 
+https://connpass.com/event/89217/
+ベイズ統計WS「心理学者のためのベイズ統計学」 - connpass
+2018/06/30(Sat)
+10:00 〜 17:00
+
 https://twitter.com/sidneymbell/status/1006404852950286336
 Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "Fundamentals of Data Visualization." Clear, helpful, and approachable guide that I wish I'd had when I started my PhD, and I'm sure I'll continue to reference long after I finish. https://t.co/J3CgnMFNOr… https://t.co/rq0nFWcANv"
 1:16 AM - 12 Jun 2018
@@ -84,6 +89,7 @@ Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "
 http://serialmentor.com/dataviz/
 Fundamentals of Data Visualization
 Claus O. Wilke
+
 
 
 ### 2018-09
