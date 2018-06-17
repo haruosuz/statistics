@@ -46,8 +46,7 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 
-https://twitter.com/search?q=統計検定
-https://twitter.com/search?f=tweets&vertical=default&q=統計検定
+https://twitter.com/search?f=tweets&q=%22統計検定%22
 
 2018年04月18日
 https://matome.naver.jp/odai/2147251580620745701
