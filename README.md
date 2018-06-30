@@ -8,11 +8,11 @@ Last Update: 2018-06-05
 
 ## Table of Contents
 - [featuring](#featuring)
-- [toukei-kentei](#toukei-kentei)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
+- [toukei-kentei](#toukei-kentei)
 - [batch effect](#batch-effect)
 - [Causal inference](#causal-inference)
 - [Confidence interval](#ci)
@@ -38,40 +38,6 @@ https://to-kei.net/basic/history/
 
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
-
-----------
-## toukei-kentei
-
-2018年6月17日(日)
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-
-- https://twitter.com/toukei_kentei
-- https://twitter.com/sugakubunka
-https://twitter.com/search?q=統計検定
-https://twitter.com/search?f=tweets&q=%22統計検定%22
-
-2018年04月18日
-https://matome.naver.jp/odai/2147251580620745701
-統計検定(2級・準1級)合格のための勉強法・参考書 - NAVER まとめ
-
-http://www.medicalmed.press/entry/2018/02/25/221327
-統計検定準1級に医学生が合格するためのオススメ参考書10選 - 医学生がRとPythonで医療統計
-
-http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
-統計検定準1級を取るための勉強法｜Colorless Green Ideas
-2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
-
-2018年02月19日
-https://qiita.com/drken/items/089b8443305df047b44e
-統計検定 1 級に合格する方法
-
-http://wanko-sato.hatenablog.com/entry/2017/01/21/175305
-【統計】統計検定準一級を受けようと思う。 - データ分析系男子。
-
-2015/06/27 
-http://blog.kentei-uketsuke.com/suzuki/archives/2771
-統計検定準1級をとりあえず受験
 
 ----------
 ## updates
@@ -207,6 +173,42 @@ Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
 
 http://takuyaokada.hatenablog.com/entry/20150606/1433601270
 p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
+
+----------
+## toukei-kentei
+
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年11月25日(日)
+
+- https://twitter.com/toukei_kentei
+- https://twitter.com/sugakubunka
+https://twitter.com/search?q=統計検定
+https://twitter.com/search?f=tweets&q=%22統計検定%22
+
+2018年04月18日
+https://matome.naver.jp/odai/2147251580620745701
+統計検定(2級・準1級)合格のための勉強法・参考書 - NAVER まとめ
+
+http://www.medicalmed.press/entry/2018/02/25/221327
+統計検定準1級に医学生が合格するためのオススメ参考書10選 - 医学生がRとPythonで医療統計
+
+http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
+統計検定準1級を取るための勉強法｜Colorless Green Ideas
+2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
+
+2018年02月19日
+https://qiita.com/drken/items/089b8443305df047b44e
+統計検定 1 級に合格する方法
+
+http://wanko-sato.hatenablog.com/entry/2017/01/21/175305
+【統計】統計検定準一級を受けようと思う。 - データ分析系男子。
+
+2015/06/27 
+http://blog.kentei-uketsuke.com/suzuki/archives/2771
+統計検定準1級をとりあえず受験
+
 
 ----------
 ### batch effect
