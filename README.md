@@ -44,6 +44,12 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018
 
+http://team1mile.com/sjpr61-1/contents_original/
+目次（原著論文） | 特集「統計革命」
+
+### 2018-07
+
+
 ### 2018-06
 
 https://twitter.com/sidneymbell/status/1006404852950286336
