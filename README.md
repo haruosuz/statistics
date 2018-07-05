@@ -32,6 +32,12 @@ Last Update: 2018-06-05
 ----------
 ## featuring
 
+https://twitter.com/bayesjuku
+https://twitter.com/hashtag/bayesWS3rd
+
+http://kosugitti.net/archives/5958
+犬4匹本出版にあたって – Kosugitti's BLOG
+
 2017/07/02
 https://to-kei.net/basic/history/
 統計学の歴史〜古代ローマから現代まで〜 | 全人類がわかる統計学
@@ -48,7 +54,6 @@ http://team1mile.com/sjpr61-1/contents_original/
 目次（原著論文） | 特集「統計革命」
 
 ### 2018-07
-
 
 ### 2018-06
 
@@ -176,15 +181,12 @@ p値ハッキングについての論文を読んだ - tak0kadaの何でもノ�
 ----------
 ## toukei-kentei
 
+- https://twitter.com/toukei_kentei
+
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 次回の検定情報
 2018年11月25日(日)
-
-- https://twitter.com/toukei_kentei
-- https://twitter.com/sugakubunka
-https://twitter.com/search?q=統計検定
-https://twitter.com/search?f=tweets&q=%22統計検定%22
 
 2018年04月18日
 https://matome.naver.jp/odai/2147251580620745701
@@ -684,7 +686,10 @@ http://d.hatena.ne.jp/haruosuz/20051130
 ----------
 ## link
 
-https://ja.wikipedia.org/wiki/Tf-idf
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
+
+- https://twitter.com/sugakubunka
 
 https://twitter.com/stattan
 統計たん@本質的に不良設定問題
@@ -694,8 +699,5 @@ https://twitter.com/tousuuken
 
 http://www.ism.ac.jp/topevent_j/index.html
 イベント一覧 | 統計数理研究所
-
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
 
 ----------
