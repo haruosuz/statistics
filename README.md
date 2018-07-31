@@ -55,6 +55,22 @@ http://team1mile.com/sjpr61-1/contents_original/
 
 ### 2018-07
 
+https://twitter.com/strnr/status/1024286159747342336
+Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
+9:30 AM - 31 Jul 2018
+https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
+
+2018年7月13日
+http://team1mile.com/sjpr61-1/
+特集「統計革命」 | Make Statistics Great Again
+
+https://twitter.com/asarin/status/1017503473779163136
+『心理学評論』第61巻1号「統計革命 Make Statistics Great Again」公刊
+原著論文9本（「オープンサイエンス」「モデリング」「仮説評価」）とコメント論文3本（と巻頭言）の13本を，特集Webサイトからご覧いただくことができます．
+http://team1mile.com/sjpr61-1/ 
+4:18 PM - 12 Jul 2018
+
+
 ### 2018-06
 
 https://twitter.com/sidneymbell/status/1006404852950286336
@@ -66,15 +82,6 @@ Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "
 http://serialmentor.com/dataviz/
 Fundamentals of Data Visualization
 Claus O. Wilke
-
-### 2018-09
-http://bsj.wdc-jp.com/2018/
-日本行動計量学会　第46回大会
-2018年9月3日（月）～9月6日（木）
-慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
-http://www.bsj.gr.jp/event/seminar.html
-チュートリアル・セミナー（大会時に開催）
-構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
 
 ### 2018-03
 
@@ -685,9 +692,6 @@ http://d.hatena.ne.jp/haruosuz/20051130
 
 ----------
 ## link
-
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
 
 - https://twitter.com/sugakubunka
 
