@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-06-05
+Last Update: 2018-04
 
 ----------
 
@@ -12,25 +12,36 @@ Last Update: 2018-06-05
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
-- [toukei-kentei](#toukei-kentei)
 - [batch effect](#batch-effect)
 - [Causal inference](#causal-inference)
 - [Confidence interval](#ci)
 - [contingency table](#contingency-table)
 - [DoE](#doe)
   - [Dummy](#dummy)
+- [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
 - [ROC](#roc)
 - [sample](#sample)
   - [sample size](#sample-size)
   - [n=3](#n3)
 - [plot](#plot)
-- [References](#references)
+- [references](#references)
  - [Colorless Green Ideas](#colorless-green-ideas)
+- [toukei-kentei](#toukei-kentei)
 - [link](#link)
+- [people](#people)
+  - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
+  - [yusuke_tsugawa](#yusuke_tsugawa)
+  - [tmaita77](#tmaita77)
 
 ----------
 ## featuring
+
+
+http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
+10.3 ロジスティック回帰分析の計算方法
+(1) 最小2乗法を利用する方法
+(2) 最尤法を利用する方法
 
 https://twitter.com/bayesjuku
 https://twitter.com/hashtag/bayesWS3rd
@@ -50,9 +61,6 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018
 
-http://team1mile.com/sjpr61-1/contents_original/
-目次（原著論文） | 特集「統計革命」
-
 ### 2018-07
 
 https://twitter.com/strnr/status/1024286159747342336
@@ -63,6 +71,9 @@ https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-
 2018年7月13日
 http://team1mile.com/sjpr61-1/
 特集「統計革命」 | Make Statistics Great Again
+
+http://team1mile.com/sjpr61-1/contents_original/
+目次（原著論文） | 特集「統計革命」
 
 https://twitter.com/asarin/status/1017503473779163136
 『心理学評論』第61巻1号「統計革命 Make Statistics Great Again」公刊
@@ -185,37 +196,6 @@ Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
 http://takuyaokada.hatenablog.com/entry/20150606/1433601270
 p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
 
-----------
-## toukei-kentei
-
-- https://twitter.com/toukei_kentei
-
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年11月25日(日)
-
-2018年04月18日
-https://matome.naver.jp/odai/2147251580620745701
-統計検定(2級・準1級)合格のための勉強法・参考書 - NAVER まとめ
-
-http://www.medicalmed.press/entry/2018/02/25/221327
-統計検定準1級に医学生が合格するためのオススメ参考書10選 - 医学生がRとPythonで医療統計
-
-http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
-統計検定準1級を取るための勉強法｜Colorless Green Ideas
-2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
-
-2018年02月19日
-https://qiita.com/drken/items/089b8443305df047b44e
-統計検定 1 級に合格する方法
-
-http://wanko-sato.hatenablog.com/entry/2017/01/21/175305
-【統計】統計検定準一級を受けようと思う。 - データ分析系男子。
-
-2015/06/27 
-http://blog.kentei-uketsuke.com/suzuki/archives/2771
-統計検定準1級をとりあえず受験
 
 
 ----------
@@ -483,6 +463,26 @@ http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 擬水準
 
 ----------
+## meta-analysis
+[メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
+
+https://twitter.com/Dr_KID_/status/1020488169005826048
+Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
+9:58 PM - 20 Jul 2018
+
+https://twitter.com/Dr_KID_/status/1022981447416598528
+Dr. KID on Twitter: "土曜日は疫学の日。 今回はシステマティックレビューとメタ解析において、どのように仮設をたて、文献検索をするのか、説明してみました。 論文をチェリーピッキングしないために、系統だって評価する必要があります。 https://t.co/9CoAHDceek"
+7:05 PM - 27 Jul 2018
+
+https://twitter.com/Dr_KID_/status/1025550141011374080
+Dr. KID on Twitter: "土曜は疫学の記事を書いています。 先週の続きで、今回はメタ解析の異質性について解説しています。 異質性がある場合、異質性の元（effect modifier）を探る必要があります。 システマティック・レビューとメタ解析について③… https://t.co/SKfegyapoS"
+9:13 PM - 3 Aug 2018
+
+![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
+
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
+
+----------
 ## multiple comparison
 多重比較
 
@@ -656,7 +656,7 @@ https://twitter.com/hashtag/barbarplots
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
 
 ----------
-## References
+## references
 
 http://japanr.net
 Japan.R
@@ -691,6 +691,38 @@ http://d.hatena.ne.jp/haruosuz/20051130
 統計 - Haruo Suzuki / Bioinformatics
 
 ----------
+## toukei-kentei
+
+- https://twitter.com/toukei_kentei
+
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年11月25日(日)
+
+2018年04月18日
+https://matome.naver.jp/odai/2147251580620745701
+統計検定(2級・準1級)合格のための勉強法・参考書 - NAVER まとめ
+
+http://www.medicalmed.press/entry/2018/02/25/221327
+統計検定準1級に医学生が合格するためのオススメ参考書10選 - 医学生がRとPythonで医療統計
+
+http://id.fnshr.info/2016/07/19/stat-cerf-j1q/
+統計検定準1級を取るための勉強法｜Colorless Green Ideas
+2018年2月23日追記：2017年7月27日に準1級の出題範囲が変更されている [3] 。
+
+2018年02月19日
+https://qiita.com/drken/items/089b8443305df047b44e
+統計検定 1 級に合格する方法
+
+http://wanko-sato.hatenablog.com/entry/2017/01/21/175305
+【統計】統計検定準一級を受けようと思う。 - データ分析系男子。
+
+2015/06/27 
+http://blog.kentei-uketsuke.com/suzuki/archives/2771
+統計検定準1級をとりあえず受験
+
+----------
 ## link
 
 - https://twitter.com/sugakubunka
@@ -705,3 +737,143 @@ http://www.ism.ac.jp/topevent_j/index.html
 イベント一覧 | 統計数理研究所
 
 ----------
+## people
+
+## leeswijzer
+MINAKA Nobuhiro
+
+https://twitter.com/leeswijzer
+
+http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
+結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
+
+第188回農林交流センターワークショップ〈分子系統学の理論と実習〉2014年11月5日（水）〜7日（金），stamboom｜Togetter
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+
+[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
+【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
+の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
+http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
+http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
+[pdf]
+
+Feb 22, 2017
+https://www.youtube.com/watch?v=PYLukN7xUcU
+WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
+
+
+http://d.hatena.ne.jp/shorebird/20180610
+書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
+
+http://gihyo.jp/book/2018/978-4-7741-9753-1
+統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎：書籍案内｜技術評論社
+目次
+http://gihyo.jp/book/2018/978-4-7741-9753-1#toc
+第11講　統計モデル選択論：統計学的アブダクションのために
+
+http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
+農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
+九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
+
+KyushuUniv
+農業生物資源学特論第五
+ 講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
+ 期　間：2014年2月3日～5日 
+
+https://www.youtube.com/watch?v=6WgsOO_brQ4
+1.系統推定論概論：系統樹による多様性情報の可視化 （三中 信宏 先生）
+
+https://www.youtube.com/watch?v=QYT4BJwpSDg
+3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=0HfJpfJH-co&feature=youtu.be
+4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生） - YouTube
+1:25:00
+
+51:15 線形統計モデル（LM）への入り口
+
+http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+Univariate Distribution Relationship Chart
+
+	#install.packages("TeachingDemos")
+	library(TeachingDemos)
+	clt.examp(1)
+	clt.examp(2)
+
+https://www.youtube.com/watch?v=I5C7Nz6x7i4
+6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=LmZSk6EmxeM
+7.距離法・最節約法・最尤法の演習（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=if-OYPt08YI
+11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
+
+----------
+## yusuke_tsugawa
+https://twitter.com/yusuke_tsugawa
+
+https://twitter.com/hashtag/究極の食事
+
+2018年5月18日
+http://minato.sip21c.org/bookreview/evidence-based-diet.html
+書評：津川友介『世界一シンプルで科学的に証明された究極の食事』東洋経済新報社
+
+http://minato.sip21c.org/bulbul2/20180507.html
+【第1828回】 GW明け初日から講義で，津川友介『世界一シンプルで科学的に証明された究極の食事』を勧めたが鵜呑みはせず批判的に読むことが大事（2018年5月7日）
+http://minato.sip21c.org/bulbul2/20180506.html
+牧田善二『医者が教える食事術　最強の教科書：20万人を診てわかった医学的に正しい食べ方68』
+津川友介『世界一シンプルで科学的に証明された究極の食事』
+
+2018-04
+https://togetter.com/li/1222611
+世界一シンプルで科学的に証明された究極の食事について - Togetter
+
+https://i-voce.jp/feed/9567/
+医学的に｢健康に良い食べ物｣は5つしかない【正しい健康情報の読み解き方】｜東洋経済オンライン
+
+https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
+「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
+
+https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
+『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
+
+2017/9/25
+http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
+津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
+社会的インパクトのある研究テーマの見つけ方
+
+2018.03.29
+http://college.nikkei.co.jp/article/112272017.html
+人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
+
+----------
+## tmaita77
+舞田敏彦
+
+1月8日
+https://togetter.com/li/1187992
+【舞田敏彦】舞田敏彦のデマに気がついた500人の人たち - Togetter
+
+2017年4月23日
+https://togetter.com/li/1103576
+エクセル統計学者・舞田敏彦の光と影 - Togetter
+
+https://twitter.com/demadayo88
+【舞田敏彦】舞田敏彦さんにブロックされても頑張るグループ (@demadayo88) | Twitter
+
+https://twitter.com/tmaita77
+舞田敏彦 (@tmaita77) | Twitter
+
+----------
+
+
+
+
+
+
