@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-04
+Last Update: 2018-08
 
 ----------
 
@@ -24,6 +24,7 @@ Last Update: 2018-04
 - [sample](#sample)
   - [sample size](#sample-size)
   - [n=3](#n3)
+- [statistical_significance](#statistical_significance)
 - [plot](#plot)
 - [references](#references)
  - [Colorless Green Ideas](#colorless-green-ideas)
@@ -63,10 +64,6 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018-07
 
-https://twitter.com/strnr/status/1024286159747342336
-Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
-9:30 AM - 31 Jul 2018
-https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
 
 2018年7月13日
 http://team1mile.com/sjpr61-1/
@@ -478,6 +475,10 @@ https://twitter.com/Dr_KID_/status/1025550141011374080
 Dr. KID on Twitter: "土曜は疫学の記事を書いています。 先週の続きで、今回はメタ解析の異質性について解説しています。 異質性がある場合、異質性の元（effect modifier）を探る必要があります。 システマティック・レビューとメタ解析について③… https://t.co/SKfegyapoS"
 9:13 PM - 3 Aug 2018
 
+https://twitter.com/Dr_KID_/status/1028213379960197120
+Dr. KID on Twitter: "土曜は疫学の日。 今回はメタ解析における異質性（Heterogeneity）の統計学的な評価方法について解説します（Cochran Q, I-squared）。 / “システマティック・レビューとメタ解析について④　〜異質性（H…” https://t.co/nx9qdi3qfG"
+5:35 AM - 11 Aug 2018
+
 ![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
 
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
@@ -502,6 +503,44 @@ https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f
 2016-02-21
 https://oku.edu.mie-u.ac.jp/~okumura/stat/ROC.html
 ROC曲線
+
+----------
+## statistical_significance
+
+https://en.wikipedia.org/wiki/Statistical_significance
+
+https://ja.wikipedia.org/wiki/有意
+有意であるからといって「偶然ではない」と断定できるわけではなく、「偶然とは考えにくい」という意味に過ぎない。したがって、たとえば有意水準5%で有意という場合には、「実際には偶然に過ぎないのに、誤って『意味がある』と判断している」可能性が多くて5%ある。逆に、有意でないという場合には、あくまで「偶然かもしれない」という意味であって、「偶然である」とまでは断定できない。
+
+https://twitter.com/TJO_datasci/status/1029746084896100357
+TJO on Twitter: "どちらかと言うと例のツイートで僕が言いたかったのは「サンプルサイズ不足」の方を訝ることが多いということですね。「有意差なし」は帰無仮説を「棄却できない」のであって「採択する」わけではありませんので… "
+11:06 AM - 15 Aug 2018
+
+https://twitter.com/strnr/status/1024286159747342336
+Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
+9:30 AM - 31 Jul 2018
+https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
+By using both a frequentist and Bayesian approach, we can conclude that this non-significant result was probably not indicative of the absence of an effect. What’s more likely is that this non-significant result was due to the study being statistically underpowered.
+
+https://twitter.com/koro485/status/1020335186913964032
+KRSK on Twitter: "#一般人の方が時々誤解しておられること なにかの差を統計的に検定して、「統計的有意差が見られなかった」ときの解釈 (誤) 差がない (正) 差がないことを否定できない"
+11:50 AM - 20 Jul 2018
+
+2017年03月16日 
+https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_15378064.html
+ややこしいのが、帰無仮説に基づいて計算した確率が、有意水準以上であった場合だ。この場合は、帰無仮説は棄却されない。しかし、棄却されないからといって、帰無仮説が正しいと示された訳ではない。
+帰無仮説は誤っているとも、正しいとも、示されなかったことになる。この場合、
+「有意水準5%では、帰無仮説は棄却されず、誤っているとは言えない、と判断された。」
+との結論となる。
+
+http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
+「ゆーい差決戦主義」（久保，2003, 2012）
+古典的な仮説検定の方法論も時代によって変遷があった。たとえば，Fisher は対立仮説を設定せずに帰無仮説を検定しようとしたが，Neyman–Pearson は帰無仮説に対置する対立仮説を仮定したというちがいがある（Hacking, 1965；Barnett, 1999）。Neyman–Pearson の仮説検定の枠組みによれば，あるデータのもとで仮説検定を行ったとき，検定統計量が棄却域に入れば，帰無仮説を棄却するという意思決定を行う。
+
+2012.09.04
+https://www.yodosha.co.jp/jikkenigaku/statistics/q1.html
+Q1 「統計学的に有意」とは何を意味しているのですか？｜バイオ実験に絶対使える統計の基本Q&A｜実験医学online：羊土社
+統計的検定は論理学の背理法に相当し，仮説と観察のずれが有意であることをもって仮説を否定することを目的とするため，仮説が棄却された（有意である）場合と棄却されない（有意でない）場合では判断の強さが異なります．ある仮説が棄却された場合は反対の仮説が採択されますが，棄却されなかった場合は，それが何かの証明になるわけではなく，単に観察と仮説がとくに矛盾しないことが言えるだけで，その仮説が採択されるわけではありません．
 
 ----------
 ## sample
@@ -763,18 +802,22 @@ Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
-
 http://d.hatena.ne.jp/shorebird/20180610
 書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
-https://note.mu/leeswijzer/n/ne827077ad556
-姉妹本3冊を書き終えて｜leeswijzer｜note
+https://gihyo.jp/dp/ebook/2018/978-4-7741-9754-8
+統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎 | Gihyo Digital Publishing … 技術評論社の電子書籍
+本書は，2018年5月18日に発売された書籍の電子版です。
+EPUB/PDFセット
 
 http://gihyo.jp/book/2018/978-4-7741-9753-1
 統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎：書籍案内｜技術評論社
 目次
 http://gihyo.jp/book/2018/978-4-7741-9753-1#toc
 第11講　統計モデル選択論：統計学的アブダクションのために
+
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
 
 http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
 農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
