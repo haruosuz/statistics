@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-08
+Last Update: 2018-09
 
 ----------
 
@@ -62,8 +62,30 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018
 
-### 2018-07
+### 2018-09
 
+https://twitter.com/search?q=統計関連学会連合大会
+
+http://www.jfssa.jp/taikai/2018/
+2018年度 統計関連学会連合大会
+日程：2018年9月9日（日）～13日（木）
+場所：中央大学・後楽園キャンパス
+5号館
+http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
+9月12日(水)
+A会場（5534教室）10:00 - 12:00
+【企画セッション講演】(03) 応用統計学会企画セッション
+「統計的因果推論–基本的なアイデアから最近の発展まで–」
+
+http://www.jfssa.jp/taikai/2018/venue.html#link05
+アクセス
+大会会場の中央大学・後楽園キャンパスへは，
+・東京メトロ丸ノ内線・南北線『後楽園駅』から徒歩約5分
+
+http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
+ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
+
+### 2018-07
 
 2018年7月13日
 http://team1mile.com/sjpr61-1/
@@ -479,6 +501,14 @@ https://twitter.com/Dr_KID_/status/1028213379960197120
 Dr. KID on Twitter: "土曜は疫学の日。 今回はメタ解析における異質性（Heterogeneity）の統計学的な評価方法について解説します（Cochran Q, I-squared）。 / “システマティック・レビューとメタ解析について④　〜異質性（H…” https://t.co/nx9qdi3qfG"
 5:35 AM - 11 Aug 2018
 
+https://twitter.com/Dr_KID_/status/1030595619046346752
+Dr. KID on Twitter: "土曜は疫学の日。 メタ解析の原理について、シリーズ形式で解説してきています。 本日は、固定効果とランダム効果について、簡単に説明しました。 システマティック・レビューとメタ解析について⑤　〜固定効果とランダム効果〜 - ドクター… https://t.co/d0QpLnpiVW"
+7:21 PM - 17 Aug 2018
+
+https://twitter.com/Dr_KID_/status/1033154117194022912
+Dr. KID on Twitter: "土曜は疫学の日です。今回は、メタ解析における ・お蔵入り問題 ・出版バイアスの評価方法（Funnel Plot） について、簡単に説明しています。 システマティック・レビューとメタ解析について⑥　〜出版バイアスの評価方法１（Fu… https://t.co/E3X7F4Gs7B"
+8:48 PM - 24 Aug 2018
+
 ![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
 
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
@@ -563,10 +593,14 @@ Japanese Journal of Grassland Science 54(4), 348-351, 2009
 例えば、1 haの牧草地を0.5 haずつの2プロットに分割し、それぞれのプロットに肥料処理（例えば、多肥と少肥）を行うとする。この時、それぞれの処理を行ったプロット内で、ランダムな場所に3ヶ所ずつの一定面積を選んで収量の測定を行う。これをもって3反復と考えた実験では、肥料処理の差異を統計的に判定することはできない。本報ではその理由を示し、どのような実験計画を組めば統計的に差異を検出できるかを示す。
 
 ### sample size
+
 http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc042/10256.html
 No.10256　独立した2群の差　サンプルサイズの偏り　　【初心者】　2009/07/04
 
 サ ンプルサイズのアンバランスは，忌避すべきものではありません。実験計画を立てる段階では，サンプルサイズは揃える方がよいでしょう。その意味は，全体の サンプルサイズが決まっているなら，サンプルサイズを同数にした方が検出力が一番高いからです。しかし，データ収集後にデータ解析する段階で群を分けて比 較するような場合にはサンプルサイズが同じになることは期待薄でしょう。このようなときに，サンプルサイズをわざわざ減らすと，どのような減らしかたをし ようとも，たとえ同数にするにしても，検出力は下がるのです。
+
+https://toukeigaku-jouhou.info/2017/12/14/samplesize-and-the-number-of-samples/
+サンプルサイズとサンプル数の違い（標本の大きさと標本数）
 
 2017年9月30日
 https://sites.google.com/site/fishermultiplecomparison/samplesize
@@ -737,7 +771,16 @@ http://d.hatena.ne.jp/haruosuz/20051130
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 次回の検定情報
-2018年11月25日(日)
+2018年
+11月25日(日)
+個人申込：9月5日～10月12日
+
+2018.08.30
+https://kawazu-frog.com/統計検定２級と３級の差がすごすぎる。
+
+2018年08月29日
+https://qiita.com/tachiken0210/items/a5a2363b481896f04fa7
+統計検定2級を１週間の勉強期間で合格するためにしたことまとめ
 
 2018年04月18日
 https://matome.naver.jp/odai/2147251580620745701
