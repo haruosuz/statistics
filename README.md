@@ -36,8 +36,23 @@ Last Update: 2018-09
   - [tmaita77](#tmaita77)
 
 ----------
-## featuring
+## Mendelian randomization
+https://en.wikipedia.org/wiki/Mendelian_randomization
 
+https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
+MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
+
+http://blog.livedoor.jp/megikaya/archives/51348455.html
+Mendelian randomizationの原理 : 知識の卵
+
+http://jojoshin.hatenablog.com/entry/2017/12/04/175120
+Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
+
+http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
+医学書院／週刊医学界新聞(第3226号 2017年06月05日)
+
+----------
+## featuring
 
 http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
 10.3 ロジスティック回帰分析の計算方法
