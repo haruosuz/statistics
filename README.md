@@ -541,6 +541,10 @@ http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 ----------
 ## [ROC](https://ja.wikipedia.org/wiki/受信者操作特性)
 
+https://twitter.com/dariyasydykova/status/1063825681690370048
+Dariya Sydykova on Twitter: "I made a new animation to demonstrate how an ROC curve relates to sensitivity and specificity for all possible cutoffs. The code and the gif file are available at https://t.co/uBjkUpHDr6 Again, thank you @ClausWilke for helping me with this one.… https://t.co/JGecyy0J1K"
+11:06 AM - 17 Nov 2018
+
 2017-05-27
 https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f
 【統計学】ROC曲線とは何か、アニメーションで理解する。
@@ -548,6 +552,7 @@ https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f
 2016-02-21
 https://oku.edu.mie-u.ac.jp/~okumura/stat/ROC.html
 ROC曲線
+
 
 ----------
 ## statistical_significance
@@ -739,9 +744,81 @@ https://twitter.com/hashtag/barbarplots
 
 ![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
 
-[アンスコムの例 - Wikipedia](https://ja.wikipedia.org/wiki/アンスコムの例)
+
+### Beyond bar and line graphs: time for a new data presentation paradigm.
+http://www.ncbi.nlm.nih.gov/pubmed/25901488
+PLoS Biol. 2015 Apr 22;13(4):e1002128.
+
+https://twitter.com/neubig/status/591079565939748864
+Graham Neubig on Twitter: "「データを表示する時に、棒グラフと線グラフで平均を見せる代わりに、散布図で各データ点を見せましょう」という論文： http://t.co/T1d5aPZ9k8 。確かに紙面の大きさが同じでも、散布図でデータの分布がよく分かる。 http://t.co/YLOPbXiwBC"
+11:22 PM - 22 Apr 2015
+
+https://twitter.com/leeswijzer/status/592302113725755393
+MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
+8:20 AM - 26 Apr 2015
+
+### Simpson's paradox
+
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/440px-Simpson%27s_paradox_continuous.svg.png)
+
+https://ja.wikipedia.org/wiki/シンプソンのパラドックス
+
+2018-08-31
+https://www.krsk-phs.com/entry/simpsonparadox
+データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
+
+https://twitter.com/vsbuffalo/status/610953561627852802
+Vince Buffalo on Twitter: "And Simpson's Paradox! MT @TRyanGregory: perfect example of why can be very important to take phylogeny into account. http://t.co/rU3stF3soe"
+4:34 PM - 16 Jun 2015
+
+![](https://pbs.twimg.com/media/CHqLBtUUYAEUFH4.jpg)
+
+http://jtsutsui.hatenablog.com/entry/20100125/1264353773
+シンプソンのパラドックスの図解 - 社会学者の研究メモ
+
+![](http://cdn-ak.f.st-hatena.com/images/fotolife/j/jtsutsui/20100124/20100124024656.png)
+
+### anscombe
+https://ja.wikipedia.org/wiki/アンスコムの例
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
+
+
+http://hoxo-m.hatenablog.com/entry/20120214/p1
+統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む 
+anscombe    ``同じ'' 線形単回帰に対する Anscombe の四つ組
+
+```
+par(mfrow=c(2,2)); apply(anscombe[,1:4], 2, hist)
+
+plot(anscombe)
+
+plot(anscombe$x1, anscombe$y1)
+cor(anscombe$x1, anscombe$y1)
+```
+
+http://aoki2.si.gunma-u.ac.jp/R/dot_plot.html
+R -- 群別データ分布図 
+```
+source("http://aoki2.si.gunma-u.ac.jp/R/src/dot_plot.R")
+dot.plot
+```
+
+
+http://takenaka-akio.org/doc/r_auto/series.html
+Rプログラム (TAKENAKA's Web Page) おまけ：さまざまなデータ列の生成
+
+
+http://id.fnshr.info/2012/01/25/whycharts/
+統計分析におけるグラフの有用性｜Colorless Green Ideas
+
+http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=2025
+http://jcb.rupress.org/content/177/1/7.full
+Error bars in experimental biology | JCB
+実験生物学におけるエラーバー（SD, SE, CI）の考え方
+
 
 ----------
 ## references
