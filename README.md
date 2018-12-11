@@ -744,18 +744,19 @@ https://twitter.com/hashtag/barbarplots
 
 ![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
 
-
 ### Beyond bar and line graphs: time for a new data presentation paradigm.
 http://www.ncbi.nlm.nih.gov/pubmed/25901488
 PLoS Biol. 2015 Apr 22;13(4):e1002128.
+
+https://twitter.com/leeswijzer/status/592302113725755393
+MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
+8:20 AM - 26 Apr 2015
 
 https://twitter.com/neubig/status/591079565939748864
 Graham Neubig on Twitter: "「データを表示する時に、棒グラフと線グラフで平均を見せる代わりに、散布図で各データ点を見せましょう」という論文： http://t.co/T1d5aPZ9k8 。確かに紙面の大きさが同じでも、散布図でデータの分布がよく分かる。 http://t.co/YLOPbXiwBC"
 11:22 PM - 22 Apr 2015
 
-https://twitter.com/leeswijzer/status/592302113725755393
-MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
-8:20 AM - 26 Apr 2015
+![](https://pbs.twimg.com/media/CDPvu5mVEAEpsAl.png)
 
 ### Simpson's paradox
 
