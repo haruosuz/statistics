@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
+Last Update: 2018-12-26
 
 ----------
 
@@ -77,25 +77,30 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018
 
+
+
+
+
+https://twitter.com/ykamit/status/1077703514707582976
+'Yuki' Kamitani on Twitter: "私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。… https://t.co/vMBt62HgL1"
+6:11 PM - 25 Dec 2018
+
+私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。
+
+HARKingとは、Hypothesizing After the Results are Knownの略語で、データを分析してみて結果を見てから、それにフィットするように仮説を作り、あたかもその仮説がデータ収集よりも先に存在していたかのように論文化していく行為　
+
+http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
+HARKing, p-hacking, asterisk-seekingを助長している学術界
+
+データを操作してp値をいじる行為を不正と認識している人は多いが、HARKingが不正と思っている人は非常に少ない。私の周辺分野のシニア研究者で理解している人はほぼ皆無（問題を指摘すると一笑に付される）。研究の実践と論文フォーマットの齟齬やフェアプレー精神の問題（？）と理解している人がいた
+
+HARKingはそういう問題ではなくて、特定のサンプルのパターンにフィットするような仮説は後からいくらでも考えられるが、ノイズにフィットしているだけだとしたら、もう一度実験すればその仮説に合う結果にはならない、という再現性の問題。
+
+手元のデータをいじってパターンを探索するのは構わないが、そこから見出した新しい仮説について検定するためには、探索に使ったのとは別のデータが必要。今のデータを捨てて新しいデータをとらないと（統計検定にもとづく）論文にはできない。データを取る前にpre-registrationするともっといい
+
+でも、これを受け入れられない人が多くて、他グループの発表で指摘して、ハラスメント扱いされたことは何度もある
+
 ### 2018-09
-
-https://twitter.com/search?q=統計関連学会連合大会
-
-http://www.jfssa.jp/taikai/2018/
-2018年度 統計関連学会連合大会
-日程：2018年9月9日（日）～13日（木）
-場所：中央大学・後楽園キャンパス
-5号館
-http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
-9月12日(水)
-A会場（5534教室）10:00 - 12:00
-【企画セッション講演】(03) 応用統計学会企画セッション
-「統計的因果推論–基本的なアイデアから最近の発展まで–」
-
-http://www.jfssa.jp/taikai/2018/venue.html#link05
-アクセス
-大会会場の中央大学・後楽園キャンパスへは，
-・東京メトロ丸ノ内線・南北線『後楽園駅』から徒歩約5分
 
 http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
 ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
@@ -919,25 +924,6 @@ MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
 
-http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
-結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
-
-第188回農林交流センターワークショップ〈分子系統学の理論と実習〉2014年11月5日（水）〜7日（金），stamboom｜Togetter
-
-http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
-「種問題」ははてしなく続く - archief voor stambomen
-
-[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
-【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
-の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
-http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
-http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
-[pdf]
-
-Feb 22, 2017
-https://www.youtube.com/watch?v=PYLukN7xUcU
-WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
-
 http://d.hatena.ne.jp/shorebird/20180610
 書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
@@ -964,12 +950,6 @@ KyushuUniv
  講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
  期　間：2014年2月3日～5日 
 
-https://www.youtube.com/watch?v=6WgsOO_brQ4
-1.系統推定論概論：系統樹による多様性情報の可視化 （三中 信宏 先生）
-
-https://www.youtube.com/watch?v=QYT4BJwpSDg
-3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
-
 https://www.youtube.com/watch?v=0HfJpfJH-co&feature=youtu.be
 4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生） - YouTube
 1:25:00
@@ -983,12 +963,6 @@ Univariate Distribution Relationship Chart
 	library(TeachingDemos)
 	clt.examp(1)
 	clt.examp(2)
-
-https://www.youtube.com/watch?v=I5C7Nz6x7i4
-6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
-
-https://www.youtube.com/watch?v=LmZSk6EmxeM
-7.距離法・最節約法・最尤法の演習（三中 信宏 先生）
 
 https://www.youtube.com/watch?v=if-OYPt08YI
 11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
