@@ -647,8 +647,7 @@ Bray-Curtis 指数はマンハッタン距離を標準化したもの
 Bray-Curtis 指 数 に よ る NMDS
 
 http://cse.fra.affrc.go.jp/okamura/program/vegan/
-# Bray-Curtis指数によるNMDS
-
+Bray-Curtis指数によるNMDS
 
 http://www.yokoyamalab.org/societies/bsjspringseminar13/bsjseminar13_A2_27AM.pdf
 フリーソフト「R」入門 はじめてのR
