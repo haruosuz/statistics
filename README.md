@@ -549,13 +549,20 @@ http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 ## ordination
  PCA PCoA MDS
 
-http://yokazaki.hatenablog.com/entry/2016/06/29/212153
+https://yokazaki.hatenablog.com/entry/2016/06/29/212153
 RによるNMDSを用いた微生物群集構造解析 - yokaのblog
+NMDS(non metric multidimensional scaling)
+（Bray-Curtis指数による計算）
 
 http://d.hatena.ne.jp/fronori/20140517
 MDSとその愉快な仲間たち - 統計で迷子になる方法
+1. 古典的（Classical）MDS：　別名、主座標分析（Principal Coordinate Analysis, PCoA, PCO）
+PCoAは距離としてユークリッド距離を用いた場合は、主成分分析（PCA）と数学的に同等となる。
+- 計量（Metric）MDS：　古典的MDSの上位集合（superset）。
+- 非計量（Non-metric）MDS：　
+- 一般化（Generalized）MDS：　
 
-PCoAは距離としてユークリッド距離を用いた場合は、主成分分析（PCA）と数学的に同等となる
+生態学ではbray-curtisなどを使うことがあるのが発見でした。
 
 https://twitter.com/fronori/status/465902482246221824
 Tetsuo Ishikawa on Twitter: "微生物生態学でPCAではなくPCoAを使うのはなぜ？ https://t.co/EWaIp917ko この論文 http://t.co/4aTfUB8Ulr がオススメ。多変量解析の手法の比較や違いの説明が詳しい。テーブル１の生態学の中でも分野による違いも興味深い。"
@@ -563,15 +570,10 @@ Tetsuo Ishikawa on Twitter: "微生物生態学でPCAではなくPCoAを使う�
 
 http://hoxo-m.hatenablog.com/entry/20120313/p1
 主座標分析について簡単に紹介するよ！ - ほくそ笑む
-
 主成分分析との違いを簡単に言うと、主成分分析はユークリッド距離をなるべく保ちながら低次元に落とす方法ですが、主座標分析はユークリッド距離だけでなく、他の距離や類似度*2が使えるという点にあります。
 
 ### mds
-多次元尺度法
-Multidimensional Scaling
-
-
-Bray-Curtis
+### bray-curtis
 
 https://en.wikipedia.org/wiki/Bray%E2%80%93Curtis_dissimilarity
 Bray–Curtis and Jaccard indices are rank-order similar, but, Jaccard index is metric, and probably should be preferred instead of the default Bray-Curtis which is semimetric.[6]
@@ -584,8 +586,6 @@ http://www.statgenet.med.kyoto-u.ac.jp/StatGenet/lectures/MyBook/Toukeiryou.pdf
 式を満たすとは限らないことがわかった。
 p < 1 のミンコフスキー距離は半距離関数 (semimetric) と
 呼ばれる。
-
-
 
 https://sites.google.com/site/noteofpaediatricsurgery/24-machine-learning/xin-hao-fen-li/mds
 多次元尺度法 - Draft of Pediatric Surgery
@@ -612,13 +612,7 @@ Bray-Curtis距離
 この意味でPCoAは距離を維持した手法のため、計量的多次元尺度法(metric Multi-Dimensional Scaling: metric MDS）とも呼ばれます。計量性の呪縛を断ち切り、距離の違いを非類似度のランクに変換してから可視化する方法は非計量的多次元尺度法、non-metric MDS, NMDSとよばれていますが、ここでは時間の関係上説明しません。以下のウェブログの解説が詳しいです。
 https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/
 NMDS Tutorial in R – sample(ECOLOGY)
-
-
-https://yokazaki.hatenablog.com/entry/2016/06/29/212153
-RによるNMDSを用いた微生物群集構造解析 - yokaのblog
-NMDS(non metric multidimensional scaling)
-（Bray-Curtis指数による計算）
-
+ordicluster(example_NMDS,hclust(vegdist(community_matrix,"bray"))) 
 
 2011
 https://www.jstage.jst.go.jp/article/seitai/61/1/61_KJ00007176266/_pdf
@@ -659,6 +653,12 @@ MDS入門から非対称MDS実習まで」
 計量MDSと非計量MDS(Rで実行するには…）
 
 Torgerson (1952)の古典的MDSとGower (1966)の主座標分析の考え
+
+http://www.mus-nh.city.osaka.jp/iso/argo/nl15/nl15-10-22.pdf
+大垣俊一 Argonauta 15: 10 -22 (2008) 多様度と類似度、分類学的新指標
+
+http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html
+大垣俊一 Argonauta 1: 15-26 (1999) 群集組成の多変量解析
 
 ----------
 ## [ROC](https://ja.wikipedia.org/wiki/受信者操作特性)
