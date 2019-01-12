@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-12-26
+Last Update: 2019-01-12
 
 ----------
 
@@ -20,6 +20,8 @@ Last Update: 2018-12-26
   - [Dummy](#dummy)
 - [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
+- [ordination](#ordination) PCA PCoA MDS
+  - [mds](#mds)
 - [ROC](#roc)
 - [sample](#sample)
   - [sample size](#sample-size)
@@ -77,10 +79,6 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ### 2018
 
-
-
-
-
 https://twitter.com/ykamit/status/1077703514707582976
 'Yuki' Kamitani on Twitter: "私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。… https://t.co/vMBt62HgL1"
 6:11 PM - 25 Dec 2018
@@ -106,6 +104,11 @@ http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
 ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
 
 ### 2018-07
+
+https://twitter.com/strnr/status/1024286159747342336
+Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
+9:30 AM - 31 Jul 2018
+https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
 
 2018年7月13日
 http://team1mile.com/sjpr61-1/
@@ -226,11 +229,6 @@ http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
 
 ----------
 ### 2015
-https://www.ncbi.nlm.nih.gov/pubmed/25901488
-PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
-Beyond bar and line graphs: time for a new data presentation paradigm.
-Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
-
 
 http://takuyaokada.hatenablog.com/entry/20150606/1433601270
 p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
@@ -502,6 +500,9 @@ http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 擬水準
 
 ----------
+
+
+----------
 ## meta-analysis
 [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
 
@@ -542,6 +543,123 @@ http://www.statsbeginner.net/entry/2014/11/01/140721
 
 http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 無から有（意差）を生む：多重比較でウソをつく方法 - Take a Risk：林岳彦の研究メモ
+
+
+----------
+## ordination
+ PCA PCoA MDS
+
+http://yokazaki.hatenablog.com/entry/2016/06/29/212153
+RによるNMDSを用いた微生物群集構造解析 - yokaのblog
+
+http://d.hatena.ne.jp/fronori/20140517
+MDSとその愉快な仲間たち - 統計で迷子になる方法
+
+PCoAは距離としてユークリッド距離を用いた場合は、主成分分析（PCA）と数学的に同等となる
+
+https://twitter.com/fronori/status/465902482246221824
+Tetsuo Ishikawa on Twitter: "微生物生態学でPCAではなくPCoAを使うのはなぜ？ https://t.co/EWaIp917ko この論文 http://t.co/4aTfUB8Ulr がオススメ。多変量解析の手法の比較や違いの説明が詳しい。テーブル１の生態学の中でも分野による違いも興味深い。"
+1:13 PM - 12 May 2014
+
+http://hoxo-m.hatenablog.com/entry/20120313/p1
+主座標分析について簡単に紹介するよ！ - ほくそ笑む
+
+主成分分析との違いを簡単に言うと、主成分分析はユークリッド距離をなるべく保ちながら低次元に落とす方法ですが、主座標分析はユークリッド距離だけでなく、他の距離や類似度*2が使えるという点にあります。
+
+### mds
+多次元尺度法
+Multidimensional Scaling
+
+
+Bray-Curtis
+
+https://en.wikipedia.org/wiki/Bray%E2%80%93Curtis_dissimilarity
+Bray–Curtis and Jaccard indices are rank-order similar, but, Jaccard index is metric, and probably should be preferred instead of the default Bray-Curtis which is semimetric.[6]
+http://cc.oulu.fi/~jarioksa/softhelp/vegan/html/vegdist.html
+
+http://www.statgenet.med.kyoto-u.ac.jp/StatGenet/lectures/MyBook/Toukeiryou.pdf
+統計量・スカラー・距離・測度・ 順序
+
+ミンコフスキー距離では、p ≥ 1 の場合に距離関数であって、p < 1 の場合は三角不等
+式を満たすとは限らないことがわかった。
+p < 1 のミンコフスキー距離は半距離関数 (semimetric) と
+呼ばれる。
+
+
+
+https://sites.google.com/site/noteofpaediatricsurgery/24-machine-learning/xin-hao-fen-li/mds
+多次元尺度法 - Draft of Pediatric Surgery
+
+https://www1.doshisha.ac.jp/~mjin/R/Chap_27/27.html
+Rと多次元尺度法
+
+(2)　MDS関数
+①　計量多次元尺度法の関数
+　 Rのパッケージ stats には、計量多次元尺度法の関数 cmdscale （Classical (Metric) Multidimensional Scaling） がある。この古典的多次元尺度法は、主座標分析 (principal coordinate analysis) とも呼ばれている[2]。古典的多次元尺度法に用いる距離がユークリッド距離である場合は、相関行列を用いた主成分分析と等価である。
+
+(2)　非計量多次元尺度法
+
+2017-11
+https://sites.google.com/view/cer-ecoplate/cer2017?authuser=0
+微生物群集機能を評価するためのエコプレートの統計解析講座
+https://sites.google.com/view/cer-ecoplate/講義資料ecoplate解析/ecoplate解析-3
+CERエコプレート講座 - EcoPlate解析 (3)
+
+Bray-Curtis距離
+
+主座標分析(PCoA: Principal Coordinate Analysis)の基礎
+
+この意味でPCoAは距離を維持した手法のため、計量的多次元尺度法(metric Multi-Dimensional Scaling: metric MDS）とも呼ばれます。計量性の呪縛を断ち切り、距離の違いを非類似度のランクに変換してから可視化する方法は非計量的多次元尺度法、non-metric MDS, NMDSとよばれていますが、ここでは時間の関係上説明しません。以下のウェブログの解説が詳しいです。
+https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/
+NMDS Tutorial in R – sample(ECOLOGY)
+
+
+https://yokazaki.hatenablog.com/entry/2016/06/29/212153
+RによるNMDSを用いた微生物群集構造解析 - yokaのblog
+NMDS(non metric multidimensional scaling)
+（Bray-Curtis指数による計算）
+
+
+2011
+https://www.jstage.jst.go.jp/article/seitai/61/1/61_KJ00007176266/_pdf
+生物群集解析のための類似度とその応用：
+R を使った類似度の算出、グラフ化、検定
+土居 秀幸 1
+*†・岡村 寛 2†
+
+Bray-Curtis指数
+
+Bray-Curtis 指数はマンハッタン距離を標準化したもの
+で、
+
+特に Bray-Curtis 指数は、
+後述する多次元尺度法の類似度として用いられることが
+多い。
+
+。非計量
+多次元尺度の場合として、Bray-Curtis 指数を利用した結
+果を図 3 に示す。
+
+（Bray-Curtis 指数で定義された距離は、
+ユークリッド距離と異なる特性を持つ semimetric と呼ば
+れる距離になっている（Legendre and Legendre 1998））。
+
+Bray-Curtis 指 数 に よ る NMDS
+
+http://cse.fra.affrc.go.jp/okamura/program/vegan/
+# Bray-Curtis指数によるNMDS
+
+
+http://www.yokoyamalab.org/societies/bsjspringseminar13/bsjseminar13_A2_27AM.pdf
+フリーソフト「R」入門 はじめてのR
+多次元尺度構成法
+「MDSを使って使って使い倒す！
+MDS入門から非対称MDS実習まで」
+2010年3月27日～28日
+
+計量MDSと非計量MDS(Rで実行するには…）
+
+Torgerson (1952)の古典的MDSとGower (1966)の主座標分析の考え
 
 ----------
 ## [ROC](https://ja.wikipedia.org/wiki/受信者操作特性)
@@ -749,9 +867,11 @@ https://twitter.com/hashtag/barbarplots
 
 ![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
 
-### Beyond bar and line graphs: time for a new data presentation paradigm.
-http://www.ncbi.nlm.nih.gov/pubmed/25901488
-PLoS Biol. 2015 Apr 22;13(4):e1002128.
+### Weissgerber
+https://www.ncbi.nlm.nih.gov/pubmed/25901488
+PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
+Beyond bar and line graphs: time for a new data presentation paradigm.
+Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
 
 https://twitter.com/leeswijzer/status/592302113725755393
 MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
@@ -791,19 +911,22 @@ https://ja.wikipedia.org/wiki/アンスコムの例
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
 
-
 http://hoxo-m.hatenablog.com/entry/20120214/p1
 統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む 
 anscombe    ``同じ'' 線形単回帰に対する Anscombe の四つ組
 
-```
-par(mfrow=c(2,2)); apply(anscombe[,1:4], 2, hist)
 
-plot(anscombe)
+http://d.hatena.ne.jp/hoxo_m/20120214/p1
+統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む
 
-plot(anscombe$x1, anscombe$y1)
-cor(anscombe$x1, anscombe$y1)
-```
+	example(anscombe)
+
+http://id.fnshr.info/2012/01/25/whycharts/
+統計分析におけるグラフの有用性｜Colorless Green Ideas
+- Anscombe, F. J. (1973). Graphs in Statistical Analysis. American Statistician, 27(1), 17–21.
+
+
+
 
 http://aoki2.si.gunma-u.ac.jp/R/dot_plot.html
 R -- 群別データ分布図 
@@ -812,18 +935,15 @@ source("http://aoki2.si.gunma-u.ac.jp/R/src/dot_plot.R")
 dot.plot
 ```
 
+2007/04/09
+http://jcb.rupress.org/content/177/1/7
+Error bars in experimental biology | JCB
+実験生物学におけるエラーバー（SD, SE, CI）の考え方
+http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=2025
+BioTechnicalフォーラム
 
 http://takenaka-akio.org/doc/r_auto/series.html
 Rプログラム (TAKENAKA's Web Page) おまけ：さまざまなデータ列の生成
-
-
-http://id.fnshr.info/2012/01/25/whycharts/
-統計分析におけるグラフの有用性｜Colorless Green Ideas
-
-http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=2025
-http://jcb.rupress.org/content/177/1/7.full
-Error bars in experimental biology | JCB
-実験生物学におけるエラーバー（SD, SE, CI）の考え方
 
 
 ----------
