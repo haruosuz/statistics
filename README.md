@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01-12
+Last Update: 2019-01
 
 ----------
 
@@ -33,6 +33,7 @@ Last Update: 2019-01-12
 - [toukei-kentei](#toukei-kentei)
 - [link](#link)
 - [people](#people)
+  - [Dr. KID](#dr-kid)
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
   - [tmaita77](#tmaita77)
@@ -499,38 +500,10 @@ http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 12. ４水準因子の L₃₂ 直交表へのわりつけ
 擬水準
 
-----------
-
 
 ----------
 ## meta-analysis
 [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
-
-https://twitter.com/Dr_KID_/status/1020488169005826048
-Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
-9:58 PM - 20 Jul 2018
-
-https://twitter.com/Dr_KID_/status/1022981447416598528
-Dr. KID on Twitter: "土曜日は疫学の日。 今回はシステマティックレビューとメタ解析において、どのように仮設をたて、文献検索をするのか、説明してみました。 論文をチェリーピッキングしないために、系統だって評価する必要があります。 https://t.co/9CoAHDceek"
-7:05 PM - 27 Jul 2018
-
-https://twitter.com/Dr_KID_/status/1025550141011374080
-Dr. KID on Twitter: "土曜は疫学の記事を書いています。 先週の続きで、今回はメタ解析の異質性について解説しています。 異質性がある場合、異質性の元（effect modifier）を探る必要があります。 システマティック・レビューとメタ解析について③… https://t.co/SKfegyapoS"
-9:13 PM - 3 Aug 2018
-
-https://twitter.com/Dr_KID_/status/1028213379960197120
-Dr. KID on Twitter: "土曜は疫学の日。 今回はメタ解析における異質性（Heterogeneity）の統計学的な評価方法について解説します（Cochran Q, I-squared）。 / “システマティック・レビューとメタ解析について④　〜異質性（H…” https://t.co/nx9qdi3qfG"
-5:35 AM - 11 Aug 2018
-
-https://twitter.com/Dr_KID_/status/1030595619046346752
-Dr. KID on Twitter: "土曜は疫学の日。 メタ解析の原理について、シリーズ形式で解説してきています。 本日は、固定効果とランダム効果について、簡単に説明しました。 システマティック・レビューとメタ解析について⑤　〜固定効果とランダム効果〜 - ドクター… https://t.co/d0QpLnpiVW"
-7:21 PM - 17 Aug 2018
-
-https://twitter.com/Dr_KID_/status/1033154117194022912
-Dr. KID on Twitter: "土曜は疫学の日です。今回は、メタ解析における ・お蔵入り問題 ・出版バイアスの評価方法（Funnel Plot） について、簡単に説明しています。 システマティック・レビューとメタ解析について⑥　〜出版バイアスの評価方法１（Fu… https://t.co/E3X7F4Gs7B"
-8:48 PM - 24 Aug 2018
-
-![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
 
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
 
@@ -543,6 +516,44 @@ http://www.statsbeginner.net/entry/2014/11/01/140721
 
 http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 無から有（意差）を生む：多重比較でウソをつく方法 - Take a Risk：林岳彦の研究メモ
+
+----------
+## distance
+距離
+
+https://ja.wikipedia.org/wiki/距離函数
+計量（metric）
+擬距離 (pseudometric) 
+半距離 (semimetric) 
+
+http://cse.naro.affrc.go.jp/minaka/R/R-cluster2.html
+距離尺度
+
+計量性（metricity）
+計量（metric）
+
+A3') 擬計量性（pseudometricity）：
+擬計量（pseudometric）
+
+三角不等式（A4）
+
+クラスター分析や系統分析では，A4よりもさらに厳しい次の条件群の方がむしろ重要である：
+
+A4') 相加性（additivity）：
+
+A4'') 超計量性（ultrametricity）：
+
+擬計量＜非計量＜計量の順に定義の厳しさが大きくなっていく．計量性・相加性・超計量性の間にも同じ関係がある：
+
+https://en.wikipedia.org/wiki/UniFrac
+This definition satisfies the requirements of a distance metric, being non-negative, zero only when entities are identical, transitive, and conformant to the triangle inequality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20827291
+ISME J. 2011 Feb;5(2):169-72. doi: 10.1038/ismej.2010.133. Epub 2010 Sep 9.
+UniFrac: an effective distance metric for microbial community comparison.
+Lozupone C1, Lladser ME, Knights D, Stombaugh J, Knight R.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105689/
+In this study, we present a mathematical proof that both weighted and unweighted UniFrac values have the formal requirements of a distance metric (Rudin, 1987): they are always non-negative, symmetric and satisfy the triangle inequality, and identical sequence sets have a value of 0 (Supplementary Methods). 
 
 
 ----------
@@ -1037,6 +1048,36 @@ http://www.ism.ac.jp/topevent_j/index.html
 
 ----------
 ## people
+
+## dr-kid
+https://www.dr-kid.net/entry-2018-10-13-053403
+【因果推論】交絡と交絡因子について【シンプソンのパラドックスの１例】｜Dr.KIDの小児科クリニック
+
+https://twitter.com/Dr_KID_/status/1020488169005826048
+Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
+9:58 PM - 20 Jul 2018
+
+https://twitter.com/Dr_KID_/status/1022981447416598528
+Dr. KID on Twitter: "土曜日は疫学の日。 今回はシステマティックレビューとメタ解析において、どのように仮設をたて、文献検索をするのか、説明してみました。 論文をチェリーピッキングしないために、系統だって評価する必要があります。 https://t.co/9CoAHDceek"
+7:05 PM - 27 Jul 2018
+
+https://twitter.com/Dr_KID_/status/1025550141011374080
+Dr. KID on Twitter: "土曜は疫学の記事を書いています。 先週の続きで、今回はメタ解析の異質性について解説しています。 異質性がある場合、異質性の元（effect modifier）を探る必要があります。 システマティック・レビューとメタ解析について③… https://t.co/SKfegyapoS"
+9:13 PM - 3 Aug 2018
+
+https://twitter.com/Dr_KID_/status/1028213379960197120
+Dr. KID on Twitter: "土曜は疫学の日。 今回はメタ解析における異質性（Heterogeneity）の統計学的な評価方法について解説します（Cochran Q, I-squared）。 / “システマティック・レビューとメタ解析について④　〜異質性（H…” https://t.co/nx9qdi3qfG"
+5:35 AM - 11 Aug 2018
+
+https://twitter.com/Dr_KID_/status/1030595619046346752
+Dr. KID on Twitter: "土曜は疫学の日。 メタ解析の原理について、シリーズ形式で解説してきています。 本日は、固定効果とランダム効果について、簡単に説明しました。 システマティック・レビューとメタ解析について⑤　〜固定効果とランダム効果〜 - ドクター… https://t.co/d0QpLnpiVW"
+7:21 PM - 17 Aug 2018
+
+https://twitter.com/Dr_KID_/status/1033154117194022912
+Dr. KID on Twitter: "土曜は疫学の日です。今回は、メタ解析における ・お蔵入り問題 ・出版バイアスの評価方法（Funnel Plot） について、簡単に説明しています。 システマティック・レビューとメタ解析について⑥　〜出版バイアスの評価方法１（Fu… https://t.co/E3X7F4Gs7B"
+8:48 PM - 24 Aug 2018
+
+![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
 
 ## leeswijzer
 MINAKA Nobuhiro
