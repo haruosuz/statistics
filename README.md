@@ -37,6 +37,27 @@ Last Update: 2019-01
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
   - [tmaita77](#tmaita77)
+- [p-value](#p-value)
+
+----------
+## p-value
+
+https://twitter.com/search?q=P値
+
+https://twitter.com/RyuichiroNakato/status/1093149827897077760
+「P値の代わりにベイズ・ファクターや別の統計値を使うというのは、結局は真陽性と偽陽性に関する別のトレードオフの方法を選択するということに過ぎません」
+P値の問題は氷山の一角でしかない https://qiita.com/KanNishida/items/a91ed14b930bfa2826d9 … #Qiita
+9:10 AM - 6 Feb 2019
+
+https://twitter.com/kohske/status/1092944185835937793
+p値の扱いは難しいけど、これには目を通しておくべきだと思う。 https://www.jstage.jst.go.jp/article/jjb/38/2/38_153/_article/-char/ja … "科学的知識を深める研究はいくつ もの段階からなっており，統計的検定は，その中の一つに適用される方法にすぎない."
+7:32 PM - 5 Feb 2019
+
+https://twitter.com/KevinDKohl/status/1090294240385683465
+Got reviewer comments back.
+We report a P-values of 0.051 and 0.062. Reviewer: "If it’s not significant, it’s not significant. Delete."
+Here's a response I've used in the past, sharing for anyone who might find it useful
+12:02 PM - 29 Jan 2019
 
 ----------
 ## Mendelian randomization
@@ -999,8 +1020,11 @@ http://d.hatena.ne.jp/haruosuz/20051130
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 次回の検定情報
-2018年
-11月25日(日)
+2019年
+6月16日(日)
+
+
+
 個人申込：9月5日～10月12日
 
 2018.08.30
