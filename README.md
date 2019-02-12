@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01
+Last Update: 2019-02
 
 ----------
 
@@ -1074,6 +1074,14 @@ http://www.ism.ac.jp/topevent_j/index.html
 ## people
 
 ## dr-kid
+
+https://twitter.com/Dr_KID_/status/1094372164432621568
+Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
+6:07 PM - 9 Feb 2019
+ 2019年2月10日
+https://www.dr-kid.net/dag-cause-and-effect
+DAGを使って因果関係、交絡、選択バイアスを見分ける方法について｜Dr.KIDの小児科クリニック
+
 https://www.dr-kid.net/entry-2018-10-13-053403
 【因果推論】交絡と交絡因子について【シンプソンのパラドックスの１例】｜Dr.KIDの小児科クリニック
 
