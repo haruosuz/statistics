@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-02
+Last Update: 2019-03
 
 ----------
 
@@ -38,42 +38,9 @@ Last Update: 2019-02
   - [yusuke_tsugawa](#yusuke_tsugawa)
   - [tmaita77](#tmaita77)
 - [p-value](#p-value)
+- [books](#books)
+  - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
-----------
-## p-value
-
-https://twitter.com/search?q=P値
-
-https://twitter.com/RyuichiroNakato/status/1093149827897077760
-「P値の代わりにベイズ・ファクターや別の統計値を使うというのは、結局は真陽性と偽陽性に関する別のトレードオフの方法を選択するということに過ぎません」
-P値の問題は氷山の一角でしかない https://qiita.com/KanNishida/items/a91ed14b930bfa2826d9 … #Qiita
-9:10 AM - 6 Feb 2019
-
-https://twitter.com/kohske/status/1092944185835937793
-p値の扱いは難しいけど、これには目を通しておくべきだと思う。 https://www.jstage.jst.go.jp/article/jjb/38/2/38_153/_article/-char/ja … "科学的知識を深める研究はいくつ もの段階からなっており，統計的検定は，その中の一つに適用される方法にすぎない."
-7:32 PM - 5 Feb 2019
-
-https://twitter.com/KevinDKohl/status/1090294240385683465
-Got reviewer comments back.
-We report a P-values of 0.051 and 0.062. Reviewer: "If it’s not significant, it’s not significant. Delete."
-Here's a response I've used in the past, sharing for anyone who might find it useful
-12:02 PM - 29 Jan 2019
-
-----------
-## Mendelian randomization
-https://en.wikipedia.org/wiki/Mendelian_randomization
-
-https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
-MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
-
-http://blog.livedoor.jp/megikaya/archives/51348455.html
-Mendelian randomizationの原理 : 知識の卵
-
-http://jojoshin.hatenablog.com/entry/2017/12/04/175120
-Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
-
-http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
-医学書院／週刊医学界新聞(第3226号 2017年06月05日)
 
 ----------
 ## featuring
@@ -98,6 +65,32 @@ http://techlife.cookpad.com/entry/2016/09/26/111601
 
 ----------
 ## updates
+
+### 2019
+
+
+https://twitter.com/matsui_kota/status/1105392307161841664
+Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない"
+4:57 AM - 12 Mar 2019
+
+
+https://twitter.com/search?q=統計学はときにセクシーな学問で
+http://www.lifescience.co.jp/shop2/index_0172.html
+統計学はときにセクシーな学問である | ライフサイエンス出版
+【著】 デビッド・シュピーゲルハルター
+【訳】 石塚直樹
+
+https://gendai.ismedia.jp/articles/-/59944?media=bb
+ブルーバックス伝説の名著『統計でウソをつく法』100刷突破！（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
+2019年3月4日付
+
+https://twitter.com/Ri7_u10/status/1101320072943919104
+```
+☑︎「サンプルサイズ／標本の大きさ」のことを「サンプル数」と言わない
+☑︎「期待」の意味で「期待値」を使わない
+☑︎「母集団の大きさ」あるいは「分母」の意味で「母数」を使わない
+10:15 PM - 28 Feb 2019
+```
 
 ### 2018
 
@@ -254,6 +247,107 @@ http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
 
 http://takuyaokada.hatenablog.com/entry/20150606/1433601270
 p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
+
+
+
+
+
+
+
+
+----------
+## p-value
+
+https://twitter.com/search?q=P値
+
+https://twitter.com/RyuichiroNakato/status/1093149827897077760
+「P値の代わりにベイズ・ファクターや別の統計値を使うというのは、結局は真陽性と偽陽性に関する別のトレードオフの方法を選択するということに過ぎません」
+P値の問題は氷山の一角でしかない https://qiita.com/KanNishida/items/a91ed14b930bfa2826d9 … #Qiita
+9:10 AM - 6 Feb 2019
+
+https://twitter.com/kohske/status/1092944185835937793
+p値の扱いは難しいけど、これには目を通しておくべきだと思う。 https://www.jstage.jst.go.jp/article/jjb/38/2/38_153/_article/-char/ja … "科学的知識を深める研究はいくつ もの段階からなっており，統計的検定は，その中の一つに適用される方法にすぎない."
+7:32 PM - 5 Feb 2019
+
+https://twitter.com/KevinDKohl/status/1090294240385683465
+Got reviewer comments back.
+We report a P-values of 0.051 and 0.062. Reviewer: "If it’s not significant, it’s not significant. Delete."
+Here's a response I've used in the past, sharing for anyone who might find it useful
+12:02 PM - 29 Jan 2019
+
+----------
+## books
+### statisticsdonewrong
+
+https://www.statisticsdonewrong.com/
+Statistics Done Wrong
+
+https://twitter.com/h_okumura/status/587208093894737920
+Haruhiko Okumura on Twitter: "【翻訳】ダメな統計学 (5) p値と基準率の誤り http://t.co/fxx9jPUox9 原文 The p value and the base rate fallacy http://t.co/K9Yp7ULNBe ずいぶん印象が異なる"
+6:58 AM - 12 Apr 2015
+
+http://www.keisoshobo.co.jp/book/b272873.html
+ダメな統計学 - 株式会社　勁草書房
+
+第3章　擬似反復：データを賢く選べ
+　3.3　バッチ生物学
+
+![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
+
+http://keisobiblio.com/2017/01/25/atogakitachiyomi_damenatokeigaku/
+あとがきたちよみ／『ダメな統計学　悲惨なほど完全なる手引書』 - けいそうビブリオフィル
+
+http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
+「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
+
+http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
+『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
+
+http://id.fnshr.info/2016/03/28/excel-bad-charts/
+Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
+
+http://id.fnshr.info/2015/11/07/math-class-4-stats/
+統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
+ダメな統計学：目次｜Colorless Green Ideas
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
+【翻訳】ダメな統計学 (13) 終わりに｜Colorless Green Ideas
+
+実験が終わった後に統計学者に相談することは、しばしば単に検死を頼むようなものになる。統計学者は、何のせいで実験が死んだのかについて言うことができるかもしれない。
+
+p値を普及させた人、R. A.フィッシャー [3]
+![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
+
+## BDS
+
+http://apprize.info/data/bioinformatics/1.html
+How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
+
+Pay Attention to Experimental Design
+
+To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
+
+R.A. Fisher
+
+https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
+
+----------
+## Mendelian randomization
+https://en.wikipedia.org/wiki/Mendelian_randomization
+
+https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
+MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
+
+http://blog.livedoor.jp/megikaya/archives/51348455.html
+Mendelian randomizationの原理 : 知識の卵
+
+http://jojoshin.hatenablog.com/entry/2017/12/04/175120
+Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
+
+http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
+医学書院／週刊医学界新聞(第3226号 2017年06月05日)
 
 
 
@@ -531,6 +625,9 @@ https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#
 ----------
 ## multiple comparison
 多重比較
+
+https://tjo.hatenablog.com/entry/2018/06/12/093633
+多重比較補正のはなし - 六本木で働くデータサイエンティストのブログ
 
 http://www.statsbeginner.net/entry/2014/11/01/140721
 検定の繰り返しと多重比較について（追記あり） - StatsBeginner: 初学者の統計学習ノート
@@ -831,59 +928,6 @@ No.05789　n=2での標準偏差　　【佐々木】　2008/02/10(Sun) 00:20
 http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc040/02768.html
 No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51 
 
-
-----------
-http://www.keisoshobo.co.jp/book/b272873.html
-ダメな統計学 - 株式会社　勁草書房
-
-第3章　擬似反復：データを賢く選べ
-　3.3　バッチ生物学
-
-![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
-
-http://keisobiblio.com/2017/01/25/atogakitachiyomi_damenatokeigaku/
-あとがきたちよみ／『ダメな統計学　悲惨なほど完全なる手引書』 - けいそうビブリオフィル
-
-http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
-「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
-
-----------
-## [Colorless Green Ideas](http://id.fnshr.info)
-
-http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
-『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
-
-http://id.fnshr.info/2016/03/28/excel-bad-charts/
-Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
-
-http://id.fnshr.info/2015/11/07/math-class-4-stats/
-統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
-ダメな統計学：目次｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
-【翻訳】ダメな統計学 (13) 終わりに｜Colorless Green Ideas
-
-実験が終わった後に統計学者に相談することは、しばしば単に検死を頼むようなものになる。統計学者は、何のせいで実験が死んだのかについて言うことができるかもしれない。
-
-p値を普及させた人、R. A.フィッシャー [3]
-![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
-
-----------
-## BDS
-
-http://apprize.info/data/bioinformatics/1.html
-How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
-
-Pay Attention to Experimental Design
-
-To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
-
-R.A. Fisher
-
-https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
-
 ----------
 ## plot
 
@@ -1074,6 +1118,14 @@ http://www.ism.ac.jp/topevent_j/index.html
 ## people
 
 ## dr-kid
+
+
+https://twitter.com/Dr_KID_/status/1094372164432621568
+Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
+6:07 PM - 9 Feb 2019
+ 2019年2月10日
+https://www.dr-kid.net/dag-cause-and-effect
+DAGを使って因果関係、交絡、選択バイアスを見分ける方法について｜Dr.KIDの小児科クリニック
 
 https://twitter.com/Dr_KID_/status/1094372164432621568
 Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
