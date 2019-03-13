@@ -45,6 +45,26 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+
+https://stats.stackexchange.com/questions/89741/what-to-claim-when-we-dont-reject-the-null-hypothesis
+What to claim when we don't reject the null hypothesis? - Cross Validated
+"There was insufficient evidence to reject the null hypothesis that CBT increased the amount of sleep at the 5% significance level. The data is consistent with CBT having no effect on insomnia."
+
+https://bellcurve.jp/statistics/course/9311.html
+23-2. 検定で使う用語 | 統計学の時間 | 統計WEB
+P値が有意水準よりも大きい時は、帰無仮説は棄却されません。これは帰無仮説が正しいと結論づけて良いということを意味しません。検定で用いられる方法は「背理法」なので、「帰無仮説が棄却されない」ことは「帰無仮説が正しいと結論づけて良い」ということにはなりません。この場合、「対立仮説が正しいと結論づけることはできない」ということしか言えないのです。
+
+https://ja.wikipedia.org/wiki/仮説検定
+一方、検定統計量が危険域の外側にあれば、
+帰無仮説を棄却するに足る証拠はないというのがただ一つの結論となる。
+
+https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_15378064.html
+帰無仮説が棄却されないとき－統計的検定で、結論がわかりやすいときには、ご用心：研究員の眼 | ハフポスト
+
+
+
+
+
 http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
 10.3 ロジスティック回帰分析の計算方法
 (1) 最小2乗法を利用する方法
