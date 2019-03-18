@@ -42,40 +42,6 @@ Last Update: 2019-03
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
-----------
-## hypothesis testing
-
-https://ja.wikipedia.org/wiki/仮説検定
-一方、検定統計量が危険域の外側にあれば、
-帰無仮説を棄却するに足る証拠はないというのがただ一つの結論となる。
-
-https://bellcurve.jp/statistics/course/9311.html
-23-2. 検定で使う用語 | 統計学の時間 | 統計WEB
-P値が有意水準よりも大きい時は、帰無仮説は棄却されません。これは帰無仮説が正しいと結論づけて良いということを意味しません。検定で用いられる方法は「背理法」なので、「帰無仮説が棄却されない」ことは「帰無仮説が正しいと結論づけて良い」ということにはなりません。この場合、「対立仮説が正しいと結論づけることはできない」ということしか言えないのです。
-
-2019/01/16
-https://to-kei.net/hypothesis-testing/about-2/#i-3
-”帰無仮説を棄却しない=帰無仮説を受容する”　ではない！
-
-http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/stat_done_wrong.pdf
-統計的に有意な差がないことは、差が全然ないことを意味しないのだ。
-
-https://stats.stackexchange.com/questions/89741/what-to-claim-when-we-dont-reject-the-null-hypothesis
-What to claim when we don't reject the null hypothesis? - Cross Validated
-"There was insufficient evidence to reject the null hypothesis that CBT increased the amount of sleep at the 5% significance level. The data is consistent with CBT having no effect on insomnia."
-
-2003-06-26
-http://takenaka-akio.org/etc/stat_test/
-帰無仮説を証明する
-帰無仮説が棄却できないのはどんなときか． たとえば，あるパラメータがゼロではないけど その値が小さいためにはっきりゼロじゃないと結論できない場合や， やはりゼロではないけど，データ数が少ないためにゼロじゃないと結論できない場合もある． 検出力不足で帰無仮説が棄却できなかっただけかもしれないのに，帰無仮説が証明されたかのように 論を進めている例も少なくない．
-
-2017年03月16日
-https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_15378064.html
-帰無仮説が棄却されないとき－統計的検定で、結論がわかりやすいときには、ご用心：研究員の眼 | ハフポスト
-ややこしいのが、帰無仮説に基づいて計算した確率が、有意水準以上であった場合だ。この場合は、帰無仮説は棄却されない。しかし、棄却されないからといって、帰無仮説が正しいと示された訳ではない。
-帰無仮説は誤っているとも、正しいとも、示されなかったことになる。この場合、
-「有意水準5%では、帰無仮説は棄却されず、誤っているとは言えない、と判断された。」
-との結論となる。
 
 ----------
 ## featuring
@@ -98,11 +64,21 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
+
+https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
+大相撲のアノーマリー （1） (1/2)：実践！ Rで学ぶ統計解析の基礎（7） - ＠IT
+![](https://image.itmedia.co.jp/ait/articles/1012/07/r20_dugganLevvitf2.jpg)
+明らかに7勝8敗が少なくて、8勝7敗が多い（Levittらの論文から引用）
+
 ----------
 ## updates
 
 ### 2019
 
+https://twitter.com/yas_tnk/status/1107028749768286208
+Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
+5:19 PM - 16 Mar 2019
+![](https://pbs.twimg.com/media/D1z0x5XUcAASuWP.jpg)
 
 https://twitter.com/matsui_kota/status/1105392307161841664
 Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない"
@@ -650,6 +626,44 @@ http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 12. ４水準因子の L₃₂ 直交表へのわりつけ
 擬水準
 
+
+----------
+## hypothesis testing
+
+https://ja.wikipedia.org/wiki/仮説検定
+一方、検定統計量が危険域の外側にあれば、
+帰無仮説を棄却するに足る証拠はないというのがただ一つの結論となる。
+
+https://bellcurve.jp/statistics/course/9311.html
+23-2. 検定で使う用語 | 統計学の時間 | 統計WEB
+P値が有意水準よりも大きい時は、帰無仮説は棄却されません。これは帰無仮説が正しいと結論づけて良いということを意味しません。検定で用いられる方法は「背理法」なので、「帰無仮説が棄却されない」ことは「帰無仮説が正しいと結論づけて良い」ということにはなりません。この場合、「対立仮説が正しいと結論づけることはできない」ということしか言えないのです。
+
+2019/01/16
+https://to-kei.net/hypothesis-testing/about-2/#i-3
+”帰無仮説を棄却しない=帰無仮説を受容する”　ではない！
+
+http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/stat_done_wrong.pdf
+統計的に有意な差がないことは、差が全然ないことを意味しないのだ。
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+A Wilcoxon rank sum test, which compared the Dmean values between the two groups (28 genera versus 850 genera), was not statistically significant (p-value = 0.28). This indicates that there was insufficient evidence to conclude that there was a significant difference in intra-genus diversity between “Common BE genera” and “Other genera.” 
+
+https://stats.stackexchange.com/questions/89741/what-to-claim-when-we-dont-reject-the-null-hypothesis
+What to claim when we don't reject the null hypothesis? - Cross Validated
+"There was insufficient evidence to reject the null hypothesis that CBT increased the amount of sleep at the 5% significance level. The data is consistent with CBT having no effect on insomnia."
+
+2003-06-26
+http://takenaka-akio.org/etc/stat_test/
+帰無仮説を証明する
+帰無仮説が棄却できないのはどんなときか． たとえば，あるパラメータがゼロではないけど その値が小さいためにはっきりゼロじゃないと結論できない場合や， やはりゼロではないけど，データ数が少ないためにゼロじゃないと結論できない場合もある． 検出力不足で帰無仮説が棄却できなかっただけかもしれないのに，帰無仮説が証明されたかのように 論を進めている例も少なくない．
+
+2017年03月16日
+https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_15378064.html
+帰無仮説が棄却されないとき－統計的検定で、結論がわかりやすいときには、ご用心：研究員の眼 | ハフポスト
+ややこしいのが、帰無仮説に基づいて計算した確率が、有意水準以上であった場合だ。この場合は、帰無仮説は棄却されない。しかし、棄却されないからといって、帰無仮説が正しいと示された訳ではない。
+帰無仮説は誤っているとも、正しいとも、示されなかったことになる。この場合、
+「有意水準5%では、帰無仮説は棄却されず、誤っているとは言えない、と判断された。」
+との結論となる。
 
 ----------
 ## meta-analysis
