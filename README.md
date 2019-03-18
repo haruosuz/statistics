@@ -64,7 +64,6 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
-
 https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 大相撲のアノーマリー （1） (1/2)：実践！ Rで学ぶ統計解析の基礎（7） - ＠IT
 ![](https://image.itmedia.co.jp/ait/articles/1012/07/r20_dugganLevvitf2.jpg)
@@ -79,6 +78,9 @@ https://twitter.com/yas_tnk/status/1107028749768286208
 Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
 5:19 PM - 16 Mar 2019
 ![](https://pbs.twimg.com/media/D1z0x5XUcAASuWP.jpg)
+
+http://yamano357.hatenadiary.com/entry/2019/03/15/090000
+『女子高生乱子によるベイズ統計学入門講座』を読みました（恵贈お礼） - バイアスと戯れる
 
 https://twitter.com/matsui_kota/status/1105392307161841664
 Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない"
