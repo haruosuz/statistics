@@ -9,6 +9,7 @@ Last Update: 2019-03
 ## Table of Contents
 - [featuring](#featuring)
 - [updates](#updates)
+  - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
@@ -54,9 +55,6 @@ http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
 https://twitter.com/bayesjuku
 https://twitter.com/hashtag/bayesWS3rd
 
-http://kosugitti.net/archives/5958
-犬4匹本出版にあたって – Kosugitti's BLOG
-
 2017/07/02
 https://to-kei.net/basic/history/
 統計学の歴史〜古代ローマから現代まで〜 | 全人類がわかる統計学
@@ -73,6 +71,13 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 ## updates
 
 ### 2019
+
+https://www.nature.com/articles/d41586-019-00857-9
+Scientists rise up against statistical significance
+https://twitter.com/koro485/status/1108437257835433986
+KRSK on Twitter: "Natureから「統計的有意性」に固執するのをやめようというコメントがオンライン公開されました。世界52カ国、854名からの賛同のサインも公開。 p値自体の価値を否定するものではなく、p < 0.05 or notという２カテゴリーに分類してしまうことが問題であると指摘しています。 https://t.co/848uEsihh0"
+2:36 PM - 20 Mar 2019
+「統計的有意差がない＝差がない・効果がない」解釈するのはNG！
 
 https://twitter.com/yas_tnk/status/1107028749768286208
 Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
@@ -290,6 +295,10 @@ Here's a response I've used in the past, sharing for anyone who might find it us
 
 ----------
 ## books
+
+http://kosugitti.net/archives/5958
+犬4匹本出版にあたって – Kosugitti's BLOG
+
 ### statisticsdonewrong
 
 https://www.statisticsdonewrong.com/
