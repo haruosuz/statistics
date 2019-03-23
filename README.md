@@ -19,7 +19,6 @@ Last Update: 2019-03
 - [contingency table](#contingency-table)
 - [DoE](#doe)
   - [Dummy](#dummy)
-- [hypothesis testing](#hypothesis-testing)
 - [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
 - [ordination](#ordination) PCA PCoA MDS
@@ -70,14 +69,17 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 ----------
 ## updates
 
+
 ### 2019
 
-https://www.nature.com/articles/d41586-019-00857-9
-Scientists rise up against statistical significance
-https://twitter.com/koro485/status/1108437257835433986
-KRSK on Twitter: "Natureから「統計的有意性」に固執するのをやめようというコメントがオンライン公開されました。世界52カ国、854名からの賛同のサインも公開。 p値自体の価値を否定するものではなく、p < 0.05 or notという２カテゴリーに分類してしまうことが問題であると指摘しています。 https://t.co/848uEsihh0"
-2:36 PM - 20 Mar 2019
-「統計的有意差がない＝差がない・効果がない」解釈するのはNG！
+https://twitter.com/asarin/status/1107940442128023552
+oʞɐsɐ ɐɹnıɯ on Twitter: "発達心シンポ「今そこにある危機：再現可能性問題をめぐる現状と展望」話題提供資料はこちら： ・心理学における再現可能性問題ー概説ー ・発達心理学における再現性問題 ・再現性問題における統計学的論点と,その解決に向けて ・再現性問題解決への希望:プレレジ実録体験記 https://t.co/HC85suTw5v"
+5:42 AM - 19 Mar 2019
+
+https://twitter.com/van__Oijen/status/1108435637277908992
+Antoine van Oijen 🔬🧫🧬 on Twitter: "It's time to stop using box plots in the scientific literature. Shapes of data distributions hiding underneath a box plot are important, so show them! Better alternatives are scatter graphs or violin plots. Great explanation at https://t.co/dLLMYv7fBD… https://t.co/MTUr2VHmJr"
+2:30 PM - 20 Mar 2019
+
 
 https://twitter.com/yas_tnk/status/1107028749768286208
 Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
@@ -184,27 +186,6 @@ https://twitter.com/M123Takahashi/status/974471731183157248
 https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
 ギネスビールの醸造所が統計学的手法の一つ「t検定」を生み出した - GIGAZINE
 
-### 2018-02
-
-1:35 AM - 27 Feb 2018
-https://twitter.com/NishikawaMasaru/status/968374116154781696
-Masaru Nishikawa on Twitter: "研究結果の再現可能性：The Atlanticにも記事が載ってた。「有意でない研究結果が発表されない問題」、「100研究例の内、97％で統計的に優位な結果が出ていたが、研究結果を再現できたのは36％」「p値を有意（p<0.05）にする研究上の作為的行為（p-hacking）が横行」など。 https://t.co/N3whu5CrWm"
-
-12:51 AM - 27 Feb 2018
-https://twitter.com/TJO_datasci/status/968363039698358277
-TJO on Twitter: "コーネル大の大学教員が部下に「p = 0.06じゃ論文に出せないぞ、もっと低くしろ」とp-hackingというか捏造をするよう迫ったメールが公開されたと聞いて笑ってる https://t.co/lnltsir8pV"
-
-2018-02-13
-http://www.ism.ac.jp/events/2018/meeting0213_14.html
-小研究会「生態学における統計教育：計算より概念と考え方」
-P値とは何だったのか
-http://www.esj.ne.jp/meeting/abst/65/S10.html
-
-https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
-第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
-
-第1回 データ解析の第一歩は計算ではない （2017/11/10公開）
-
 ----------
 ### 2017
 
@@ -213,10 +194,6 @@ http://www.sg.med.osaka-u.ac.jp/school_2017.html
 － 講義資料
 
 ![](http://www.sg.med.osaka-u.ac.jp/files/StatGeneSummerSchool_2017.png)
-
-2017-07-27
-http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
-HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページにようこそ
 
 2017-06-10
 https://togetter.com/li/1119318
@@ -258,40 +235,6 @@ http://www.ism.ac.jp/editsec/toukei/pdf/64-1-001.pdf
 http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
 樹木・森林生態学「よく出る」誤用統計学の基本わざ
 久保拓弥
-
-
-----------
-### 2015
-
-http://takuyaokada.hatenablog.com/entry/20150606/1433601270
-p値ハッキングについての論文を読んだ - tak0kadaの何でもノート
-
-
-
-
-
-
-
-
-----------
-## p-value
-
-https://twitter.com/search?q=P値
-
-https://twitter.com/RyuichiroNakato/status/1093149827897077760
-「P値の代わりにベイズ・ファクターや別の統計値を使うというのは、結局は真陽性と偽陽性に関する別のトレードオフの方法を選択するということに過ぎません」
-P値の問題は氷山の一角でしかない https://qiita.com/KanNishida/items/a91ed14b930bfa2826d9 … #Qiita
-9:10 AM - 6 Feb 2019
-
-https://twitter.com/kohske/status/1092944185835937793
-p値の扱いは難しいけど、これには目を通しておくべきだと思う。 https://www.jstage.jst.go.jp/article/jjb/38/2/38_153/_article/-char/ja … "科学的知識を深める研究はいくつ もの段階からなっており，統計的検定は，その中の一つに適用される方法にすぎない."
-7:32 PM - 5 Feb 2019
-
-https://twitter.com/KevinDKohl/status/1090294240385683465
-Got reviewer comments back.
-We report a P-values of 0.051 and 0.062. Reviewer: "If it’s not significant, it’s not significant. Delete."
-Here's a response I've used in the past, sharing for anyone who might find it useful
-12:02 PM - 29 Jan 2019
 
 ----------
 ## books
@@ -636,45 +579,6 @@ http://ebsa.ism.ac.jp/ebooks/node/581
 http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 12. ４水準因子の L₃₂ 直交表へのわりつけ
 擬水準
-
-
-----------
-## hypothesis testing
-
-https://ja.wikipedia.org/wiki/仮説検定
-一方、検定統計量が危険域の外側にあれば、
-帰無仮説を棄却するに足る証拠はないというのがただ一つの結論となる。
-
-https://bellcurve.jp/statistics/course/9311.html
-23-2. 検定で使う用語 | 統計学の時間 | 統計WEB
-P値が有意水準よりも大きい時は、帰無仮説は棄却されません。これは帰無仮説が正しいと結論づけて良いということを意味しません。検定で用いられる方法は「背理法」なので、「帰無仮説が棄却されない」ことは「帰無仮説が正しいと結論づけて良い」ということにはなりません。この場合、「対立仮説が正しいと結論づけることはできない」ということしか言えないのです。
-
-2019/01/16
-https://to-kei.net/hypothesis-testing/about-2/#i-3
-”帰無仮説を棄却しない=帰無仮説を受容する”　ではない！
-
-http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/stat_done_wrong.pdf
-統計的に有意な差がないことは、差が全然ないことを意味しないのだ。
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
-A Wilcoxon rank sum test, which compared the Dmean values between the two groups (28 genera versus 850 genera), was not statistically significant (p-value = 0.28). This indicates that there was insufficient evidence to conclude that there was a significant difference in intra-genus diversity between “Common BE genera” and “Other genera.” 
-
-https://stats.stackexchange.com/questions/89741/what-to-claim-when-we-dont-reject-the-null-hypothesis
-What to claim when we don't reject the null hypothesis? - Cross Validated
-"There was insufficient evidence to reject the null hypothesis that CBT increased the amount of sleep at the 5% significance level. The data is consistent with CBT having no effect on insomnia."
-
-2003-06-26
-http://takenaka-akio.org/etc/stat_test/
-帰無仮説を証明する
-帰無仮説が棄却できないのはどんなときか． たとえば，あるパラメータがゼロではないけど その値が小さいためにはっきりゼロじゃないと結論できない場合や， やはりゼロではないけど，データ数が少ないためにゼロじゃないと結論できない場合もある． 検出力不足で帰無仮説が棄却できなかっただけかもしれないのに，帰無仮説が証明されたかのように 論を進めている例も少なくない．
-
-2017年03月16日
-https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_15378064.html
-帰無仮説が棄却されないとき－統計的検定で、結論がわかりやすいときには、ご用心：研究員の眼 | ハフポスト
-ややこしいのが、帰無仮説に基づいて計算した確率が、有意水準以上であった場合だ。この場合は、帰無仮説は棄却されない。しかし、棄却されないからといって、帰無仮説が正しいと示された訳ではない。
-帰無仮説は誤っているとも、正しいとも、示されなかったことになる。この場合、
-「有意水準5%では、帰無仮説は棄却されず、誤っているとは言えない、と判断された。」
-との結論となる。
 
 ----------
 ## meta-analysis
@@ -1227,6 +1131,13 @@ Dr. KID on Twitter: "土曜は疫学の日です。今回は、メタ解析に�
 MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
+
+
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
+第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
+
+第1回 データ解析の第一歩は計算ではない （2017/11/10公開）
+
 
 http://d.hatena.ne.jp/shorebird/20180610
 書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
