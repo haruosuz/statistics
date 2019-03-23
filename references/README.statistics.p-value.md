@@ -8,14 +8,15 @@
   - [2017](#2017)
   - [2016](#2016)
 - [hypothesis testing](#hypothesis-testing)
+- [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
 ----------
 ## featuring
 
+https://twitter.com/search?q=P値
+
 https://ja.wikipedia.org/wiki/有意
 帰無仮説の下で実際にデータから計算された統計量よりも極端な（仮説に反する）統計量が観測される確率を、p値という。
-
-https://twitter.com/search?q=P値
 
 ----------
 ## updates
@@ -133,6 +134,28 @@ https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_
 「有意水準5%では、帰無仮説は棄却されず、誤っているとは言えない、と判断された。」
 との結論となる。
 
+----------
+### statisticsdonewrong
+ダメな統計学
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
+ダメな統計学：目次｜Colorless Green Ideas
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-02/
+【翻訳】ダメな統計学 (2) データ分析入門｜Colorless Green Ideas
+概要
+この章は、統計分析でよく用いられるp値という概念について説明している。この概念は本文で触れられているように非常に誤解されやすい概念である。きちんとした統計分析を行うにはこの概念をしっかり理解しなくてはならない。
+http://id.fnshr.info/2014/12/17/stats-done-wrong-02/#toc1
+p値は、効果がないか、差異がないという仮定（帰無仮説）のもとで、実際に観測された結果と同じか、それよりも極端な結果が出る確率として定義される。
+
+http://id.fnshr.info/2014/12/17/stats-done-wrong-05/
+【翻訳】ダメな統計学 (5) p値と基準率の誤り｜Colorless Green Ideas
+概要
+この章では、何度も比較を行うことの問題点について扱っている。何度も比較を行えば、本当は存在しない現象が存在するかのように判断されてしまう可能性がある。
+
+https://twitter.com/h_okumura/status/587208093894737920
+Haruhiko Okumura on Twitter: "【翻訳】ダメな統計学 (5) p値と基準率の誤り http://t.co/fxx9jPUox9 原文 The p value and the base rate fallacy http://t.co/K9Yp7ULNBe ずいぶん印象が異なる"
+6:58 AM - 12 Apr 2015
 
 ----------
 
