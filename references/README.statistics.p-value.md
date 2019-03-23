@@ -3,10 +3,10 @@
 **Table of Contents**
 - [featuring](#featuring)
 - [updates](#updates)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
-  - [2016](#2016)
+[2019](#2019)
+[2018](#2018)
+[2017](#2017)
+[2016](#2016)
 - [hypothesis testing](#hypothesis-testing)
 - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
