@@ -25,6 +25,23 @@ https://ja.wikipedia.org/wiki/有意
 
 ### 2019-03-20
 
+https://twitter.com/hshimodaira/status/1109381652243861505
+下平英寿 on Twitter: "数理統計の専門家としてマジレスしますと，有限のデータから普遍的な真実を導き出そうっていう帰納的推論は難しいんですよ．仮説検定において頻度論のp値もベイズの事後確率も問題があって，人類はまだ完璧な統計的方法には到達してないです．… "
+5:09 AM - 23 Mar 2019
+
+https://twitter.com/NatureDigest/status/1109289618933874688
+Nature ダイジェスト、編集部 on Twitter: "800人以上の科学者が「統計学的に有意」という概念そのものを放棄しようと提案。例えばp値という閾値の下なら効果や差が「あり」で上なら「なし」、などということはなく、そのように簡単に結論してはならないのだが、閾値で分けるやり方が蔓延し、多くの人が結果を誤解している現状がある。… https://t.co/D5mPmgSvCQ"
+11:03 PM - 22 Mar 2019
+
+https://twitter.com/genkuroki/status/1109084518307098624
+黒木玄 Gen Kuroki on Twitter: "#統計 P値の説明がひどすぎ。 P値の正確な定義は「帰無仮説と呼ばれる確率分布に関する仮定(現実世界で成立していなくてもよい)のもとで現実に得られたデータ以上の偏りが生じる確率」。 https://t.co/Sv4rCaXHxc 【実験結果が起こりえる確率が95％以上である場合は、P値は0.05以下になります】"
+9:28 AM - 22 Mar 2019
+
+https://twitter.com/h_okumura/status/1109248717645729792
+Haruhiko Okumura on Twitter: "この記事のp値の説明は間違っているが，研究者でもこのような誤解をしがちであるということが，p値の弊害の一つだと思う https://t.co/8urcoP2kVQ"
+8:21 PM - 22 Mar 2019
+p値の意味だけじゃなくてフィッシャーの有意性検定と統計的仮説検定のあたりもごちゃまぜになってしまってますね。
+
 https://twitter.com/gigazine/status/1109047247742763008
 GIGAZINE(ギガジン) on Twitter: "「統計的有意」には弊害があるとして800人以上の科学者が反対を表明 https://t.co/xO7OqmkrCM"
 7:00 AM - 22 Mar 2019
