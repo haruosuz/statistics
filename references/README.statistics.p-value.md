@@ -23,6 +23,11 @@ https://ja.wikipedia.org/wiki/有意
 
 ### 2019
 
+https://twitter.com/yutakashino/status/1113949347270615040
+Yuta Kashino on Twitter: "心理学の7つの大罪 | クリス・チェインバーズ https://t.co/3KWWdAFr8Q repligate/replication crisis https://t.co/hax06vEIxU と呼ばれる心理学の有名な実験が再現不能であることに関する状況の整理（図の通り）と原因を追及した本の邦訳．HARK, p値ハッキング，発表バイアスなど相当根が深いです…… https://t.co/IrX28pdTZf"
+7:39 PM - 4 Apr 2019
+![](https://pbs.twimg.com/media/D3WLBxwXkAI2fTS.jpg)
+
 ### 2019-03-20
 
 https://twitter.com/KanAugust/status/1111140994593030144
