@@ -50,30 +50,6 @@ https://oku.edu.mie-u.ac.jp/~okumura/stat/piaac.html
 PIAACデータ解析
 労働時間と知的好奇心に強い負の相関があるというツイートがあり，それに対して疑問の声があった。
 
-	#cat prg*.csv > all.csv
-	library(data.table)
-	data = fread("all.csv")
-	object.size(data)
-	dim(data)
-
-	wh = as.numeric(data$D_Q10)  # 週あたり仕事時間
-	ll = as.numeric(data$I_Q04d) # 新しいことを学ぶのが好き
-	boxplot(wh ~ ll)
-
-	cor.test(wh, ll)
-
-	cntry = as.numeric(data$CNTRYID)
-	boxplot(wh[cntry==392] ~ ll[cntry==392])
-	cor.test(wh[cntry==392], ll[cntry==392])
-
-	summary(lm(ll ~ wh + factor(cntry)))
-    # wh                0.001243   0.000180   6.904 5.08e-12 ***
-
-	whc = tapply(wh, factor(cntry), function(x)mean(x,na.rm=TRUE))
-	llc = tapply(ll, factor(cntry), function(x)mean(x,na.rm=TRUE))
-	plot(whc, llc)
-	cor.test(whc, llc)
-
 結論：国レベルでは，労働時間が増えるほど知的好奇心は減る。個人レベルでは，労働時間が増えるほど知的好奇心は増える。
 
 要するにSimpsonのパラドックスである。国レベルと個人レベルの混同はEcological Fallacy（生態学的誤謬）とも呼ばれる。地域の大人に勉強を教えてもらうと成績が下がる？も参照。
@@ -93,6 +69,3 @@ https://togetter.com/li/1014449
 ![](https://pbs.twimg.com/media/CqQfKiAUAAAdI4D.png:small)
 
 ----------
-## 
-
-
