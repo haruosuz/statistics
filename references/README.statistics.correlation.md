@@ -43,11 +43,6 @@ https://twitter.com/kohske/status/930869204911194112
 思い出した、シンプソンのパラドックスだ。 https://togetter.com/li/1014449
 1:44 PM - 15 Nov 2017
 
-https://togetter.com/li/1014449
-生態学的誤謬とシンプソンのパラドックス - Togetter
-2016年8月20日
-![](https://pbs.twimg.com/media/CqQfKiAUAAAdI4D.png:small)
-
 https://twitter.com/h_okumura/status/930651352052715521
 労働時間と知的好奇心には，国レベルでは非常に強い負の相関があるが，個人レベルでは逆に正の相関がある https://oku.edu.mie-u.ac.jp/~okumura/stat/piaac.html
 11:19 PM - 14 Nov 2017
@@ -88,6 +83,14 @@ Last modified: 2019-03-17 13:07:49
 
 
 ### 2016
+
+https://togetter.com/li/1014449
+生態学的誤謬とシンプソンのパラドックス - Togetter
+2016年8月20日
+
+生態学的誤謬とは、全体の傾向（相関など）といくつかに分割した各グループの傾向が食い違ってしまうこと。全体で見たときの相関と、各グループで見た相関は逆転してしまうことがあるんだ。 
+
+![](https://pbs.twimg.com/media/CqQfKiAUAAAdI4D.png:small)
 
 ----------
 ## 
