@@ -7,7 +7,7 @@
 [2018](#2018)
 [2017](#2017)
 [2016](#2016)
-- [correlation](#correlation)
+- [Simpson's paradox](#Simpson's paradox) シンプソンのパラドックス
 
 ----------
 ## featuring
@@ -68,5 +68,31 @@ https://togetter.com/li/1014449
 生態学的誤謬とは、全体の傾向（相関など）といくつかに分割した各グループの傾向が食い違ってしまうこと。全体で見たときの相関と、各グループで見た相関は逆転してしまうことがあるんだ。 
 
 ![](https://pbs.twimg.com/media/CqQfKiAUAAAdI4D.png:small)
+
+----------
+
+## Simpson's paradox
+
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/440px-Simpson%27s_paradox_continuous.svg.png)
+
+https://ja.wikipedia.org/wiki/シンプソンのパラドックス
+
+2018-08-31
+https://www.krsk-phs.com/entry/simpsonparadox
+データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
+
+https://twitter.com/vsbuffalo/status/610953561627852802
+Vince Buffalo on Twitter: "And Simpson's Paradox! MT @TRyanGregory: perfect example of why can be very important to take phylogeny into account. http://t.co/rU3stF3soe"
+4:34 PM - 16 Jun 2015
+
+![](https://pbs.twimg.com/media/CHqLBtUUYAEUFH4.jpg)
+
+http://jtsutsui.hatenablog.com/entry/20100125/1264353773
+シンプソンのパラドックスの図解 - 社会学者の研究メモ
+
+![](http://cdn-ak.f.st-hatena.com/images/fotolife/j/jtsutsui/20100124/20100124024656.png)
+
 
 ----------
