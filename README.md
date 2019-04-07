@@ -41,22 +41,6 @@ Last Update: 2019-03
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
-- [correlation](#correlation)
-
-----------
-## correlation
-https://ja.wikipedia.org/wiki/相関係数
-correlation coefficient
-
-http://psy.isc.chubu.ac.jp/~oshiolab/teaching_folder/datakaiseki_folder/02_folder/da02_01.html
-心理データ解析第２回(1)
-相関係数を用いる際の注意点
-検討する仮説に応じて適切にデータ収集を行うことが必要
-データの選び方によって相関係数の数値や方向性（＋－）に異なった傾向が生じる場合がある。
-（例）男女で相関の±が異なる場合，男女込みで相関係数を算出すると無相関に近づく。
-このような場合，男女別で相関を算出する。
-関連が群間で異なっている場合，群ごとの相関を分割相関もしくは層別相関という。
-
 ----------
 ## featuring
 
@@ -83,9 +67,7 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 ----------
 ## updates
 
-
 ### 2019
-
 
 https://twitter.com/langstat/status/1107576470073823232
 『女子高生乱子によるベイズ統計学入門講座』を帰りの電車で読み始めた。
@@ -969,29 +951,6 @@ Graham Neubig on Twitter: "「データを表示する時に、棒グラフと�
 11:22 PM - 22 Apr 2015
 
 ![](https://pbs.twimg.com/media/CDPvu5mVEAEpsAl.png)
-
-### Simpson's paradox
-
-https://en.wikipedia.org/wiki/Simpson%27s_paradox
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/440px-Simpson%27s_paradox_continuous.svg.png)
-
-https://ja.wikipedia.org/wiki/シンプソンのパラドックス
-
-2018-08-31
-https://www.krsk-phs.com/entry/simpsonparadox
-データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
-
-https://twitter.com/vsbuffalo/status/610953561627852802
-Vince Buffalo on Twitter: "And Simpson's Paradox! MT @TRyanGregory: perfect example of why can be very important to take phylogeny into account. http://t.co/rU3stF3soe"
-4:34 PM - 16 Jun 2015
-
-![](https://pbs.twimg.com/media/CHqLBtUUYAEUFH4.jpg)
-
-http://jtsutsui.hatenablog.com/entry/20100125/1264353773
-シンプソンのパラドックスの図解 - 社会学者の研究メモ
-
-![](http://cdn-ak.f.st-hatena.com/images/fotolife/j/jtsutsui/20100124/20100124024656.png)
 
 ### anscombe
 https://ja.wikipedia.org/wiki/アンスコムの例
