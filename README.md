@@ -38,10 +38,24 @@ Last Update: 2019-03
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
   - [tmaita77](#tmaita77)
-- [p-value](#p-value)
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 
+- [correlation](#correlation)
+
+----------
+## correlation
+https://ja.wikipedia.org/wiki/相関係数
+correlation coefficient
+
+http://psy.isc.chubu.ac.jp/~oshiolab/teaching_folder/datakaiseki_folder/02_folder/da02_01.html
+心理データ解析第２回(1)
+相関係数を用いる際の注意点
+検討する仮説に応じて適切にデータ収集を行うことが必要
+データの選び方によって相関係数の数値や方向性（＋－）に異なった傾向が生じる場合がある。
+（例）男女で相関の±が異なる場合，男女込みで相関係数を算出すると無相関に近づく。
+このような場合，男女別で相関を算出する。
+関連が群間で異なっている場合，群ごとの相関を分割相関もしくは層別相関という。
 
 ----------
 ## featuring
@@ -72,13 +86,35 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 
 ### 2019
 
-https://twitter.com/asarin/status/1107940442128023552
-oʞɐsɐ ɐɹnıɯ on Twitter: "発達心シンポ「今そこにある危機：再現可能性問題をめぐる現状と展望」話題提供資料はこちら： ・心理学における再現可能性問題ー概説ー ・発達心理学における再現性問題 ・再現性問題における統計学的論点と,その解決に向けて ・再現性問題解決への希望:プレレジ実録体験記 https://t.co/HC85suTw5v"
-5:42 AM - 19 Mar 2019
+
+https://twitter.com/langstat/status/1107576470073823232
+『女子高生乱子によるベイズ統計学入門講座』を帰りの電車で読み始めた。
+冒頭から「学振の金が振り込まれたら、飲み代を奢る」という景気のいい話が出てきたと思ったら、その直後に「学振が切れたら、非常勤で食いつなぐしかない」という世知辛い話に。。。これ、何の本だっけ？ww
+5:36 AM - 18 Mar 2019
+
+http://yamano357.hatenadiary.com/entry/2019/03/15/090000
+『女子高生乱子によるベイズ統計学入門講座』を読みました（恵贈お礼） - バイアスと戯れる
+特に1章で出てくる「学振と博士」や
+
+https://twitter.com/bonohu/status/1102145026417545216
+“女子高生乱子によるベイズ統計学入門講座: とある弁当屋の統計技師(データサイエンティスト) 3 / The Introductory Bayesian Statistics Course by High School Girl Ranko” 読了 / “ぼうのブログ” http://htn.to/gVqogL 
+4:53 AM - 3 Mar 2019
+端々にtwitterで話題となっている昨今の大学事情が織り交ぜられており、大変楽しい。 
+
+
+
+2019.03.23
+https://www.y-shinno.com/rd-req-statistics-book/
+【管理栄養士が選ぶ】統計学のオススメ本10選【一般教養~大学院レベルまで】 | みんな栄養に頼りすぎてる
 
 https://twitter.com/van__Oijen/status/1108435637277908992
 Antoine van Oijen 🔬🧫🧬 on Twitter: "It's time to stop using box plots in the scientific literature. Shapes of data distributions hiding underneath a box plot are important, so show them! Better alternatives are scatter graphs or violin plots. Great explanation at https://t.co/dLLMYv7fBD… https://t.co/MTUr2VHmJr"
 2:30 PM - 20 Mar 2019
+
+https://twitter.com/asarin/status/1107940442128023552
+oʞɐsɐ ɐɹnıɯ on Twitter: "発達心シンポ「今そこにある危機：再現可能性問題をめぐる現状と展望」話題提供資料はこちら： ・心理学における再現可能性問題ー概説ー ・発達心理学における再現性問題 ・再現性問題における統計学的論点と,その解決に向けて ・再現性問題解決への希望:プレレジ実録体験記 https://t.co/HC85suTw5v"
+5:42 AM - 19 Mar 2019
+
 
 
 https://twitter.com/yas_tnk/status/1107028749768286208
@@ -247,9 +283,6 @@ http://kosugitti.net/archives/5958
 https://www.statisticsdonewrong.com/
 Statistics Done Wrong
 
-https://twitter.com/h_okumura/status/587208093894737920
-Haruhiko Okumura on Twitter: "【翻訳】ダメな統計学 (5) p値と基準率の誤り http://t.co/fxx9jPUox9 原文 The p value and the base rate fallacy http://t.co/K9Yp7ULNBe ずいぶん印象が異なる"
-6:58 AM - 12 Apr 2015
 
 http://www.keisoshobo.co.jp/book/b272873.html
 ダメな統計学 - 株式会社　勁草書房
@@ -584,6 +617,10 @@ http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 ## meta-analysis
 [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
 
+https://www.slideshare.net/YoshihikoKunisato/ss-37490113
+メタ・アナリシスの入門
+Published on Jul 30, 2014
+
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
 
 ----------
@@ -828,6 +865,17 @@ Japanese Journal of Grassland Science 54(4), 348-351, 2009
 例えば、1 haの牧草地を0.5 haずつの2プロットに分割し、それぞれのプロットに肥料処理（例えば、多肥と少肥）を行うとする。この時、それぞれの処理を行ったプロット内で、ランダムな場所に3ヶ所ずつの一定面積を選んで収量の測定を行う。これをもって3反復と考えた実験では、肥料処理の差異を統計的に判定することはできない。本報ではその理由を示し、どのような実験計画を組めば統計的に差異を検出できるかを示す。
 
 ### sample size
+
+2018年11月4日
+https://biolab.sakura.ne.jp/sample-size.html
+サンプル数とサンプルサイズ n は意味が違う
+井口豊（生物科学研究所，長野県岡谷市）
+さらに，一時期，話題となった書籍「統計学が最強の学問である」（西内 啓，2013，ダイアモンド社）にも，サンプルサイズをサンプル数と誤記した例が頻繁に現れる（例えば，p.52）。
+
+2013-04-27
+http://jtsutsui.hatenablog.com/entry/20130427/1367069960
+『統計学が最強の学問である』感想
+誤植（6刷時点）や多少粗い記述もありますが、一部には読みやすさを優先させるためでしょう（「サンプル数」については、いちおう「サンプル・サイズ」の方がいいような気もしますが）。
 
 http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc042/10256.html
 No.10256　独立した2群の差　サンプルサイズの偏り　　【初心者】　2009/07/04
