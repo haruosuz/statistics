@@ -29,15 +29,11 @@ http://psy.isc.chubu.ac.jp/~oshiolab/teaching_folder/datakaiseki_folder/02_folde
 ----------
 ## updates
 
-### 2019
+## 2019
 
-### 2018
+## 2018
 
-### 2017
-
-https://twitter.com/fronori/status/927889710206263301
-Tetsuo Ishikawa on Twitter: "Rでの同順位ありスピアマン順位相関ρのp値の計算法について書きました。"Cannot compute exact p-value with ties"とか「タイがあるため、正確なp値を計算することができません」表示に怯まないために。 https://t.co/fj9aa3rw5F"
-8:25 AM - 7 Nov 2017
+### 2017-11
 
 https://twitter.com/kohske/status/930869204911194112
 思い出した、シンプソンのパラドックスだ。 https://togetter.com/li/1014449
@@ -57,6 +53,11 @@ PIAACデータ解析
 奥村 晴彦
 Last modified: 2019-03-17 13:07:49
 
+### 2017-11-07
+
+https://twitter.com/fronori/status/927889710206263301
+Tetsuo Ishikawa on Twitter: "Rでの同順位ありスピアマン順位相関ρのp値の計算法について書きました。"Cannot compute exact p-value with ties"とか「タイがあるため、正確なp値を計算することができません」表示に怯まないために。 https://t.co/fj9aa3rw5F"
+8:25 AM - 7 Nov 2017
 
 ### 2016
 
