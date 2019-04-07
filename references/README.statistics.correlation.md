@@ -7,7 +7,7 @@
 [2018](#2018)
 [2017](#2017)
 [2016](#2016)
-- [Simpson's paradox](#Simpson's paradox) シンプソンのパラドックス
+- [Simpson's paradox](#simpsons-paradox) シンプソンのパラドックス
 
 ----------
 ## featuring
