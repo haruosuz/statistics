@@ -55,6 +55,10 @@ Statistical Analysis of Microbiome Data with R
 10.4.3 Difference Plot, Effect Size and Effect Plot
 ```
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+Cliff’s delta effect size
+We calculated Cliff’s delta statistic as a non-parametric effect size to estimate the degree of overlap between two distributions [129]. 
+
 https://twitter.com/TJO_datasci/status/1115244386223149057
 TJO on Twitter: "統計学的仮説検定の結果は「有意」と出たが実際には効果量が物凄く小さくて「それ有意でも何か意味あるのか」みたいな例は数多い。自分の得意ネタは「鉛筆工場で2つの生産ラインから10万本ずつサンプルを取ってt検定したら0.01mm差で5%有意だったが、生産ラインを2億円かけて改修すべきか」というもの"
 9:25 AM - 8 Apr 2019
