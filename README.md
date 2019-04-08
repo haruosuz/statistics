@@ -46,6 +46,15 @@ Last Update: 2019-03
 ## effect size
 効果量
 
+https://github.com/haruosuz/books/blob/master/samdr/README.md
+https://www.kinokuniya.co.jp/f/dsg-02-9789811315336
+マイクロバイオーム・データのＲ統計解析
+Statistical Analysis of Microbiome Data with R
+```
+5.5.4 Effect Size Calculation Using HMP Package
+10.4.3 Difference Plot, Effect Size and Effect Plot
+```
+
 https://twitter.com/TJO_datasci/status/1115244386223149057
 TJO on Twitter: "統計学的仮説検定の結果は「有意」と出たが実際には効果量が物凄く小さくて「それ有意でも何か意味あるのか」みたいな例は数多い。自分の得意ネタは「鉛筆工場で2つの生産ラインから10万本ずつサンプルを取ってt検定したら0.01mm差で5%有意だったが、生産ラインを2億円かけて改修すべきか」というもの"
 9:25 AM - 8 Apr 2019
