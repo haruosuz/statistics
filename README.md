@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-04
 
 ----------
 
@@ -19,6 +19,7 @@ Last Update: 2019-03
 - [contingency table](#contingency-table)
 - [DoE](#doe)
   - [Dummy](#dummy)
+- [effect size](#effect-size) 効果量
 - [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
 - [ordination](#ordination) PCA PCoA MDS
@@ -40,39 +41,6 @@ Last Update: 2019-03
   - [tmaita77](#tmaita77)
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
-- [effect size](#effect-size) 効果量
-
-----------
-## effect size
-効果量
-
-https://github.com/haruosuz/books/blob/master/samdr/README.md
-https://www.kinokuniya.co.jp/f/dsg-02-9789811315336
-マイクロバイオーム・データのＲ統計解析
-Statistical Analysis of Microbiome Data with R
-```
-5.5.4 Effect Size Calculation Using HMP Package
-10.4.3 Difference Plot, Effect Size and Effect Plot
-```
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
-Cliff’s delta effect size
-We calculated Cliff’s delta statistic as a non-parametric effect size to estimate the degree of overlap between two distributions [129]. 
-
-https://twitter.com/TJO_datasci/status/1115244386223149057
-TJO on Twitter: "統計学的仮説検定の結果は「有意」と出たが実際には効果量が物凄く小さくて「それ有意でも何か意味あるのか」みたいな例は数多い。自分の得意ネタは「鉛筆工場で2つの生産ラインから10万本ずつサンプルを取ってt検定したら0.01mm差で5%有意だったが、生産ラインを2億円かけて改修すべきか」というもの"
-9:25 AM - 8 Apr 2019
-
-https://twitter.com/ykamit/status/1029010935543816192
-'Yuki' Kamitani on Twitter: "効果量の重要性については、下の論文がわかりやすいです（よく引用されています） Using Effect Size—or Why the P Value Is Not Enough https://t.co/2MyuReiSCR… "
-10:24 AM - 13 Aug 2018
-
-https://twitter.com/uranus_2/status/1012993929786978304
-マーキュリー２世 on Twitter: "効果量を計算できるサイトの紹介。従来の方法とは異なった効果量のグラフ表記方法がメイン。ウエブ公開されておりフリーで使える(URLはhttps://t.co/rMouvabHQG)。 Utility of alternative effect size statistics and the development of a web-based calculator: Shiny-AESC https://t.co/02oa5PO163"
-5:39 AM - 30 Jun 2018
-
-https://tjo.hatenablog.com/entry/2014/02/24/192655
-効果量(effect size)のはなし - 六本木で働くデータサイエンティストのブログ
 
 ----------
 ## featuring
@@ -101,6 +69,10 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 ## updates
 
 ### 2019
+
+https://twitter.com/h_okumura/status/1117251391985082368
+Haruhiko Okumura on Twitter: "「東大理IIIは本当に男子の合格率が高いのか？」 https://t.co/ci6IPRnQQC （どっちが統計の誤用かはさておき，こういうグラフを見るとメタアナリシスしたくなる）"
+10:21 PM - 13 Apr 2019
 
 https://twitter.com/langstat/status/1107576470073823232
 『女子高生乱子によるベイズ統計学入門講座』を帰りの電車で読み始めた。
@@ -362,10 +334,12 @@ Mendelian randomization（メンデルランダム化）とは - 統計学と疫
 http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
 医学書院／週刊医学界新聞(第3226号 2017年06月05日)
 
-
-
 ----------
 ### batch effect
+
+http://www2.clst.riken.jp/phylo/KobeU-Kuraku%E3%83%BCTutorialText.pdf
+大規模な実験ほど考慮を要す
+る「バッチ効果(batch effect)」とは何か？
 
 (Oct. 2016)
 http://bukai.pharm.or.jp/bukai_kozo/SARNews/SARNews_31.pdf
@@ -627,6 +601,38 @@ http://ebsa.ism.ac.jp/ebooks/node/581
 http://ebsa.ism.ac.jp/ebooks/sites/default/files/ebook/581/pdf/ch03-12.pdf
 12. ４水準因子の L₃₂ 直交表へのわりつけ
 擬水準
+
+----------
+## effect size
+効果量
+
+https://github.com/haruosuz/books/blob/master/samdr/README.md
+https://www.kinokuniya.co.jp/f/dsg-02-9789811315336
+マイクロバイオーム・データのＲ統計解析
+Statistical Analysis of Microbiome Data with R
+```
+5.5.4 Effect Size Calculation Using HMP Package
+10.4.3 Difference Plot, Effect Size and Effect Plot
+```
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+Cliff’s delta effect size
+We calculated Cliff’s delta statistic as a non-parametric effect size to estimate the degree of overlap between two distributions [129]. 
+
+https://twitter.com/TJO_datasci/status/1115244386223149057
+TJO on Twitter: "統計学的仮説検定の結果は「有意」と出たが実際には効果量が物凄く小さくて「それ有意でも何か意味あるのか」みたいな例は数多い。自分の得意ネタは「鉛筆工場で2つの生産ラインから10万本ずつサンプルを取ってt検定したら0.01mm差で5%有意だったが、生産ラインを2億円かけて改修すべきか」というもの"
+9:25 AM - 8 Apr 2019
+
+https://twitter.com/ykamit/status/1029010935543816192
+'Yuki' Kamitani on Twitter: "効果量の重要性については、下の論文がわかりやすいです（よく引用されています） Using Effect Size—or Why the P Value Is Not Enough https://t.co/2MyuReiSCR… "
+10:24 AM - 13 Aug 2018
+
+https://twitter.com/uranus_2/status/1012993929786978304
+マーキュリー２世 on Twitter: "効果量を計算できるサイトの紹介。従来の方法とは異なった効果量のグラフ表記方法がメイン。ウエブ公開されておりフリーで使える(URLはhttps://t.co/rMouvabHQG)。 Utility of alternative effect size statistics and the development of a web-based calculator: Shiny-AESC https://t.co/02oa5PO163"
+5:39 AM - 30 Jun 2018
+
+https://tjo.hatenablog.com/entry/2014/02/24/192655
+効果量(effect size)のはなし - 六本木で働くデータサイエンティストのブログ
 
 ----------
 ## meta-analysis
