@@ -638,6 +638,12 @@ https://tjo.hatenablog.com/entry/2014/02/24/192655
 ## meta-analysis
 [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
 
+https://twitter.com/TJO_datasci/status/1121260726515978240
+TJO on Twitter: "このメタアナリシスは「IFが高くてネームバリューのある雑誌ほど再現性の低い論文を載せている可能性が高い」趣旨の指摘をしているが、皆がより高位の研究職や研究費を得るために躍起になった結果が高IF誌に載っても再現性のない「使い捨て論文」量産とはこの世の地獄感がある https://t.co/5NFvOWIX4l"
+11:52 PM - 24 Apr 2019
+https://tjo.hatenablog.com/entry/2017/05/06/090000
+論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 六本木で働くデータサイエンティストのブログ
+
 https://www.slideshare.net/YoshihikoKunisato/ss-37490113
 メタ・アナリシスの入門
 Published on Jul 30, 2014
@@ -685,15 +691,6 @@ A4'') 超計量性（ultrametricity）：
 
 擬計量＜非計量＜計量の順に定義の厳しさが大きくなっていく．計量性・相加性・超計量性の間にも同じ関係がある：
 
-https://en.wikipedia.org/wiki/UniFrac
-This definition satisfies the requirements of a distance metric, being non-negative, zero only when entities are identical, transitive, and conformant to the triangle inequality.
-
-https://www.ncbi.nlm.nih.gov/pubmed/20827291
-ISME J. 2011 Feb;5(2):169-72. doi: 10.1038/ismej.2010.133. Epub 2010 Sep 9.
-UniFrac: an effective distance metric for microbial community comparison.
-Lozupone C1, Lladser ME, Knights D, Stombaugh J, Knight R.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105689/
-In this study, we present a mathematical proof that both weighted and unweighted UniFrac values have the formal requirements of a distance metric (Rudin, 1987): they are always non-negative, symmetric and satisfy the triangle inequality, and identical sequence sets have a value of 0 (Supplementary Methods). 
 
 
 ----------
