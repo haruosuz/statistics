@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-04
+Last Update: 2019-05
 
 ----------
 
@@ -22,6 +22,7 @@ Last Update: 2019-04
 - [effect size](#effect-size) 効果量
 - [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
+- [distance](#distance)
 - [ordination](#ordination) PCA PCoA MDS
   - [mds](#mds)
 - [ROC](#roc)
