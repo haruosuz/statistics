@@ -71,6 +71,23 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 
 ### 2019
 
+https://twitter.com/koro485/status/1125095623429062657
+KRSK on Twitter: "データサイエンスは①記述②予測③因果推論の三つに分類でき、それぞれ意思決定において異なる意義をもつ、というまとめ。 知っている人にはいまさら感があるでしょうが、「データサイエンス＝AI使ってなんでも解決」的な流行りがある昨今、こういう基本の確認も大切かも？ https://t.co/hI5XDtnuwS"
+1:51 PM - 5 May 2019
+
+https://amstat.tandfonline.com/doi/full/10.1080/09332480.2019.1579578
+A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks: CHANCE: Vol 32, No 1
+
+https://twitter.com/yusuke_tsugawa/status/1125130192899362816
+https://healthpolicyhealthecon.com/2014/09/30/study-design-overview/
+因果推論？記述統計？－まずは研究の目的をはっきりさせよう – 医療政策学×医療経済学
+研究の目的
+1. 因果関係および相関関係の検証（Causation & association）
+2. 予測モデル（Prediction model）
+3. 記述統計（Descriptive statistics）
+
+
+
 https://twitter.com/h_okumura/status/1117251391985082368
 Haruhiko Okumura on Twitter: "「東大理IIIは本当に男子の合格率が高いのか？」 https://t.co/ci6IPRnQQC （どっちが統計の誤用かはさておき，こういうグラフを見るとメタアナリシスしたくなる）"
 10:21 PM - 13 Apr 2019
