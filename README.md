@@ -15,7 +15,8 @@ Last Update: 2019-05
   - [2016](#2016)
 - [batch effect](#batch-effect)
 - [Causal inference](#causal-inference)
-- [Confidence interval](#ci)
+- [confidence interval](#ci)
+- [confounding](#confounding) 交絡
 - [contingency table](#contingency-table)
 - [DoE](#doe)
   - [Dummy](#dummy)
@@ -355,6 +356,19 @@ http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
 ----------
 ### batch effect
 
+http://tgojobor1.hatenablog.com/entry/20190509/1557341383
+(水) ビッグデータでBatch Effect (バッチ効果)が問題に！ - 啐啄同時
+
+https://www.ncbi.nlm.nih.gov/pubmed/30388197
+Bioinformatics. 2018 Nov 2. doi: 10.1093/bioinformatics/bty874. [Epub ahead of print]
+Batch effects correction for microbiome data with Dirichlet-multinomial regression.
+Dai Z, Wong SH, Yu J, Wei Y.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29684016
+PLoS Comput Biol. 2018 Apr 23;14(4):e1006102. doi: 10.1371/journal.pcbi.1006102. eCollection 2018 Apr.
+Correcting for batch effects in case-control microbiome studies.
+Gibbons SM1,2,3, Duvallet C1,2, Alm EJ1,2,3.
+
 http://www2.clst.riken.jp/phylo/KobeU-Kuraku%E3%83%BCTutorialText.pdf
 大規模な実験ほど考慮を要す
 る「バッチ効果(batch effect)」とは何か？
@@ -459,7 +473,7 @@ http://d.hatena.ne.jp/isseing333/20120330/1333118828
 
 ----------
 ## CI
-*Confidence interval*
+*confidence interval*
 
 https://ja.wikipedia.org/wiki/信頼区間
 
@@ -477,6 +491,25 @@ http://oku.edu.mie-u.ac.jp/~okumura/stat/what_is_CI.php
  http://www.anlyznews.com/2012/02/blog-post_08.html
 「統計学を拓いた異才たち」で触れる統計学史
 信頼区間を考えてみよう。これは、何回も推定を繰り返したとして、真のパラメーターが信頼区間におさまっている割合が、例えば95%である事を意味する。しかし、推定量の正しさの度合いが95%だとか、標本の95%がおさまる範囲だと解釈してしまう人は少なく無い（信頼区間って何？）。
+
+----------
+## confounding
+
+https://ja.wikipedia.org/wiki/交絡
+標本サイズが大きいなら、無作為化（無作為割付）が最も良い方法であることが多く、その場合は全ての交絡変数（既知も未知も含めて）が全ての研究対象群に等しく分散していると考えられる。
+
+http://kamiyacho.org/ebm/ce103.html
+研究デザインにおける交絡のコントロール
+無作為化：まったく交絡因子が不明の時に唯一有効な手段が無作為化です。 無作為化 については該当する項を参照にしてください。
+
+2001
+https://www.jstage.jst.go.jp/article/jjpe1996/6/1/6_1_1/_article/-char/ja/
+処方理由による交絡
+薬剤疫学研究論文を読む上で重要な概念
+今井 啓之, 久保田 潔
+https://www.jstage.jst.go.jp/article/jjpe1996/6/1/6_1_1/_pdf/-char/ja
+交絡 の対処法 として は,事 前の策として,研 究デザインの段階で無作為割付やマッチングを行う方法,事 後的 な対処法としては,解 析時に層別解析や多変量解析を用いて交絡を調整する方法が挙げら
+れる.た だし,こ こに挙げた方法のうち無作為割付以外の方法では,デ ータ収集前に,何 が交絡 因子 にな りうるか についての情報 が必要 にな る.
 
 ----------
 ## contingency table
