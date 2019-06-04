@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-06
 
 ----------
 
@@ -71,6 +71,15 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 ## updates
 
 ### 2019
+
+2019-03-21
+https://www.natureasia.com/ja-jp/ndigest/v16/n6/統計的有意性を巡る重要な論争/98909
+統計的有意性を巡る重要な論争
+
+https://twitter.com/DavidGDrubin/status/1134494173627789312
+Pollard, Pollard and Pollard (father, son and daughter!) published a fantastic, "must-read" guide for every biologist on proper use of statistics in their work @MBoCjournal https://www.molbiolcell.org/doi/10.1091/mbc.E15-02-0076 … @ASCBiology @YaleCellBio @Yale @BiophysicalSoc
+12:17 PM - 31 May 2019
+![](https://pbs.twimg.com/media/D76H2_MU8AAfMz-.jpg)
 
 https://twitter.com/koro485/status/1125095623429062657
 KRSK on Twitter: "データサイエンスは①記述②予測③因果推論の三つに分類でき、それぞれ意思決定において異なる意義をもつ、というまとめ。 知っている人にはいまさら感があるでしょうが、「データサイエンス＝AI使ってなんでも解決」的な流行りがある昨今、こういう基本の確認も大切かも？ https://t.co/hI5XDtnuwS"
