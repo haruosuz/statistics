@@ -47,6 +47,7 @@ Last Update: 2019-06
 ----------
 ## featuring
 
+
 http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
 10.3 ロジスティック回帰分析の計算方法
 (1) 最小2乗法を利用する方法
@@ -66,6 +67,23 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 大相撲のアノーマリー （1） (1/2)：実践！ Rで学ぶ統計解析の基礎（7） - ＠IT
 ![](https://image.itmedia.co.jp/ait/articles/1012/07/r20_dugganLevvitf2.jpg)
 明らかに7勝8敗が少なくて、8勝7敗が多い（Levittらの論文から引用）
+
+
+----------
+
+
+## regularization
+
+https://ja.wikipedia.org/wiki/正則化
+機械学習において最も一般的なのは L1 正則化 (p=1) と L2 正則化 (p=2) である。
+線形回帰モデルに利用した場合は、L1 の場合は Lasso[1]、L2 の場合はリッジ回帰[2]と呼ぶ。
+
+https://tjo.hatenablog.com/entry/2015/03/03/190000
+RでL1 / L2正則化を実践する - 六本木で働くデータサイエンティストのブログ
+なおL1正則化回帰はLasso回帰、L2正則化回帰はRidge回帰とも呼ばれ、教科書によっては主にこちらの名前で書かれているものもあります*4。
+
+
+
 
 ----------
 ## updates
