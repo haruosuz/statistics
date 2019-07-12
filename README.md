@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -48,6 +48,14 @@ Last Update: 2019-06
 ## featuring
 
 
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて
+
+
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+
 http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
 10.3 ロジスティック回帰分析の計算方法
 (1) 最小2乗法を利用する方法
@@ -89,6 +97,14 @@ RでL1 / L2正則化を実践する - 六本木で働くデータサイエンテ
 ## updates
 
 ### 2019
+
+http://leeswijzer.org/R/InvitationStatistics.html
+統計学へのお誘い本リスト
+（Version 1-July-2019）
+三中信宏
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907
+Ten quick tips for effective dimensionality reduction
 
 2019-03-21
 https://www.natureasia.com/ja-jp/ndigest/v16/n6/統計的有意性を巡る重要な論争/98909
@@ -275,24 +291,6 @@ https://togetter.com/li/1119318
 http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
 2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
 ■[情]「統計的有意性とP値に関するASA声明」
-
-----------
-### 2016
-
-2016-03-10
-https://www.natureasia.com/ja-jp/ndigest/v13/n6/p値の誤用の蔓延に米国統計学会が警告/75248
-Ｐ値の誤用の蔓延に米国統計学会が警告
-
-http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
-三中(2016) | 特集「心理学の再現可能性：我々はどこから来たのか　我々は何者か　我々はどこへ行くのか」
-三中信宏
-統計学の現場は一枚岩ではない
-http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
-
-http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/ikeda_hiraishi.pdf
-心理学における再現可能性危機:問題の構造と解決策 1)
-そこで,この状況を打開する方法 として,データを得た後に,それに適合する仮を 構築すること,すなわち HARKing が登場する
-(Hypothesizing After the Results are Known;Bones, 2012;Kerr, 1998;OʼBoyle, Banks, & Gonzalez- Mule, 2014)。HARKing の弊害は様々に論じられて いるが,おそらく最大の問題点は,それが第一種 の過誤を増大させてしまう点にあると思われる。
 
 ----------
 
