@@ -47,9 +47,11 @@ Last Update: 2019-07
 ----------
 ## featuring
 
+https://id.fnshr.info/2017/01/09/tidy-data-intro/
+整然データとは何か｜Colorless Green Ideas
 
-http://cse.naro.affrc.go.jp/minaka/R/R-top.html
-租界〈Ｒ〉の門前にて
+https://id.fnshr.info/2017/01/09/trans-tidy-data/
+【翻訳】整然データ｜Colorless Green Ideas
 
 
 
@@ -1263,38 +1265,8 @@ https://twitter.com/leeswijzer
 http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
 
-◇統計高座中継（YouTube）
-以下に公開する統計高座の YouTube 動画ファイルは，2011年2月8日（火）〜10日（木）の三日間にわたって，九州大学大学院比較社会文化研究科（伊都キャンパス）で私が行なった集中講義〈データ解析概論〉の全録画です
-
-2月9日（水） ——
-はじめに「ばらつき」ありき−偏差・平方和・分散 → 1｜2
-実験計画法と分散分析；多重比較；線形モデル
-Rでのデータ読み込み → 1
-完全無作為化法 → 1｜2｜3
-多重比較 → 1｜2
-乱塊法 → 1｜2｜3｜4
-乱塊法応用編 → 1｜2｜3
-2月10日（木） ——
-モデル選択論；一般化線形モデルへの拡張
-
-https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/statics_pitfalls12.html
-第12回 統計データ解析の地上世界と天空世界 ―連載の総括として （2018/02/02公開）
-
-第1回 データ解析の第一歩は計算ではない （2017/11/10公開）
-
-http://d.hatena.ne.jp/shorebird/20180610
-書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
-
-https://gihyo.jp/dp/ebook/2018/978-4-7741-9754-8
-統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎 | Gihyo Digital Publishing … 技術評論社の電子書籍
-本書は，2018年5月18日に発売された書籍の電子版です。
-EPUB/PDFセット
-
-http://gihyo.jp/book/2018/978-4-7741-9753-1
-統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎：書籍案内｜技術評論社
-目次
-http://gihyo.jp/book/2018/978-4-7741-9753-1#toc
-第11講　統計モデル選択論：統計学的アブダクションのために
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
+統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
 https://note.mu/leeswijzer/n/ne827077ad556
 姉妹本3冊を書き終えて｜leeswijzer｜note
