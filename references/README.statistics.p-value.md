@@ -23,12 +23,41 @@ https://ja.wikipedia.org/wiki/有意
 
 ### 2019
 
-https://twitter.com/yutakashino/status/1113949347270615040
-Yuta Kashino on Twitter: "心理学の7つの大罪 | クリス・チェインバーズ https://t.co/3KWWdAFr8Q repligate/replication crisis https://t.co/hax06vEIxU と呼ばれる心理学の有名な実験が再現不能であることに関する状況の整理（図の通り）と原因を追及した本の邦訳．HARK, p値ハッキング，発表バイアスなど相当根が深いです…… https://t.co/IrX28pdTZf"
-7:39 PM - 4 Apr 2019
-![](https://pbs.twimg.com/media/D3WLBxwXkAI2fTS.jpg)
+http://interdisciplinary.hateblo.jp/entry/2019/03/24/221251
+P値・帰無仮説・有意 - Interdisciplinary
+「統計的有意」には弊害があるとして800人以上の科学者が反対を表明 - GIGAZINE
+だいぶん、不正確だと思います。
+
+https://twitter.com/KuboBook/status/1166568438225154049
+久保拓弥 on Twitter: "豊田秀樹氏による検定論批判――検定・データ解析・データマイニング - Interdisciplinary https://t.co/kDhchFN4hG "帰無仮説の棄却は，危険率を覚悟で仮説を実質的に捨てることであるのに対して，帰無仮説の採択は実質的に態度を留保することである。このような帰無仮説の棄却と採択が対等でない…""
+7:29 AM · Aug 28, 2019
+http://interdisciplinary.hateblo.jp/entry/20130129/p1
+　データの数が増すと，それに伴って「検定力」と呼ばれる確率がいくらでも1に近づいていく。検定力とは，帰無仮説が偽であるときにそれを棄却する確率である。帰無仮説は先に述べたように，元々，厳密には偽だから，データの数が増せば必ず棄却される。
+
+
+
+https://twitter.com/utaka233/status/1161284028756111361
+utaka on Twitter: "これよく分かんなくなったけど、ここで例になっている対立仮説なしで説明すべき仮説検定ってどんな例なんだろう。z検定は尤度比検定から導出できるものだから違うっぽい？あと対立仮説を準備しない場合の検出力はどうなるんだろう。 https://t.co/f4cKnHzKUC"
+11:31 PM · Aug 13, 2019
+
+https://twitter.com/ynakahashi1003/status/1144161577706246145
+ynakahashi on Twitter: "これオレもそう思ってたんだけど、最近読んだ生物科学の大久保さんの論文ではFisherの有意性検定とNeyman-Pearsonの仮説検定では帰無仮説の受け入れに対して異なる立場を取る事が書かれてあって、NPの仮説検定では「帰無仮説が棄却出来なかった場合には積極的に帰無仮説を採択する」らしく、混乱してる… https://t.co/eibnsq7nzG"
+4:32 AM - 27 Jun 2019
 
 ### 2019-03-20
+
+Published:22 May 2019
+https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2019.0174
+The reign of the p-value is over: what alternative analyses could we employ to fill the power vacuum? | Biology Letters
+2. p-Value: how much evidence is there against the null hypothesis?
+3. Effect size and confidence interval: how much and how accurate?
+4. Bayes factor: what is the evidence for one hypothesis compared to another?
+5. Akaike information criterion: what is the best understanding of the phenomenon being studied?
+p値 p-value の代替手法4つ
+効果量 effect size
+信頼区間 confidence interval
+ベイズ因子 Bayes factor
+赤池情報量規準 Akaike Information Criterion (AIC)
 
 https://twitter.com/KanAugust/status/1111140994593030144
 先週話題になっていた例のやつですが、本文の翻訳と思うところをまとめてみました。
@@ -106,8 +135,14 @@ TJO on Twitter: "コーネル大の大学教員が部下に「p = 0.06じゃ論�
 2018-02-13
 http://www.ism.ac.jp/events/2018/meeting0213_14.html
 小研究会「生態学における統計教育：計算より概念と考え方」
-P値とは何だったのか
+2.「P値とは何だったのか?」 大久保 祐作 (北海道大農）
+
 http://www.esj.ne.jp/meeting/abst/65/S10.html
+日本生態学会第65回全国大会 (2018年3月、札幌) 講演要旨
+ESJ65 シンポジウム S10
+[S10-2] P値とは何だったのか 大久保祐作（北海道大農）
+http://www.esj.ne.jp/meeting/abst/65/S10-2.html
+しばしば混同されるFisherの有意性検定とNeyman-Pearsonの仮説検定が、異なる目的のための道具であることを確認する
 
 ### 2017
 
@@ -116,6 +151,21 @@ http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
 HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページにようこそ
 
 ### 2016
+
+2016-03-10
+https://www.natureasia.com/ja-jp/ndigest/v13/n6/p値の誤用の蔓延に米国統計学会が警告/75248
+Ｐ値の誤用の蔓延に米国統計学会が警告
+
+http://team1mile.com/sjpr59-1/contents_comment/minaka2016/
+三中(2016) | 特集「心理学の再現可能性：我々はどこから来たのか　我々は何者か　我々はどこへ行くのか」
+三中信宏
+統計学の現場は一枚岩ではない
+http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/minaka.pdf
+Fisher は対立仮説を設定せずに帰無仮説を検定しようとしたが，Neyman–Pearson は帰無仮説に対置する対立仮説を仮定したというちがいがある（Hacking, 1965；Barnett, 1999）。
+
+http://team1mile.com/sjpr59-1/wp-content/uploads/2016/07/ikeda_hiraishi.pdf心理学における再現可能性危機:問題の構造と解決策 1)
+そこで,この状況を打開する方法 として,データを得た後に,それに適合する仮を 構築すること,すなわち HARKing が登場する(Hypothesizing After the Results are Known;Bones, 2012;Kerr, 1998;OʼBoyle, Banks, & Gonzalez- Mule, 2014)。HARKing の弊害は様々に論じられて いるが,おそらく最大の問題点は,それが第一種 の過誤を増大させてしまう点にあると思われる。
+
 
 https://www.editage.jp/insights/is-my-research-significant-why-you-shouldnt-rely-on-p-values
 研究の有意性とは？p値に頼るべきでない理由 | エディテージ・インサイト
