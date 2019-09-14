@@ -23,6 +23,10 @@ https://ja.wikipedia.org/wiki/有意
 
 ### 2019
 
+https://twitter.com/RyoMasahiro/status/1163429419383476224
+Masahiro Ryo on Twitter: "No more "statistically significant" The R package "dabestr" is apparently the most comprehensive package for effect size analysis in R, and the original article (1-2 pages) in Nature Methods is worth reading: https://t.co/4WqUhDB90M #pvalue #NHST #Statistics #R https://t.co/43xu4P1OY7"
+9:36 PM · Aug 19, 2019
+
 http://interdisciplinary.hateblo.jp/entry/2019/03/24/221251
 P値・帰無仮説・有意 - Interdisciplinary
 「統計的有意」には弊害があるとして800人以上の科学者が反対を表明 - GIGAZINE
@@ -265,6 +269,15 @@ https://www.huffingtonpost.jp/nissei-kisokenkyujyo/null-hypothesis-statistics_b_
 ----------
 ### statisticsdonewrong
 ダメな統計学
+
+https://id.fnshr.info/wp-content/uploads/sites/2/2014/12/stat_done_wrong.pdf
+
+［訳注 50］効果量 (effect size) とは、効果の大きさを表した量のことである。先に見たように、p 値
+は効果の大きさを表した量では・な
+・い。それにもかかわらず、効果量でなく、p 値を効果
+の大きさを表すのに使ってしまう統計の誤用はしばしば見られる。統計解析を行う人は、
+これら 2 つの概念を混同しないように注意する必要がある。
+
 
 http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
 ダメな統計学：目次｜Colorless Green Ideas
