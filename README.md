@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-07
+Last Update: 2019-11
 
 ----------
 
@@ -43,6 +43,30 @@ Last Update: 2019-07
   - [tmaita77](#tmaita77)
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
+
+----------
+
+## Fisher's exact test
+
+https://ja.wikipedia.org/wiki/フィッシャーの正確確率検定
+
+https://best-biostatistics.com/contingency/fisher-exact.html
+フィッシャーの正確確率検定とは？カイ二乗検定と何が違う？分割表の検定｜一番優しい、医薬品開発に必要な統計学の教本
+
+https://oku.edu.mie-u.ac.jp/~okumura/stat/fishertest.html
+Fisherの正確検定
+
+```
+> fisher.test(matrix(c(3,1,2,4),nrow=2))
+
+	Fisher's Exact Test for Count Data
+```
+
+https://data-science.gr.jp/theory/tst_fisher_exact_probability_test.html
+フィッシャーの直接確率検定
+
+https://data-science.gr.jp/implementation/ist_r_fisher_exact_probability_test.html
+Rによるフィッシャーの直接確率検定
 
 ----------
 ## featuring
@@ -93,12 +117,22 @@ RでL1 / L2正則化を実践する - 六本木で働くデータサイエンテ
 なおL1正則化回帰はLasso回帰、L2正則化回帰はRidge回帰とも呼ばれ、教科書によっては主にこちらの名前で書かれているものもあります*4。
 
 
-
-
 ----------
 ## updates
 
 ### 2019
+
+https://twitter.com/bot_tips/status/1189607013631713280
+研究生活tips垂れ流しbot on Twitter: "【統計検定を理解せずに使っている人のためにⅠ〜Ⅲ】 東北大学の池田郁男 先生による生物実験でよく用いる統計検定法を 原理からどのように使い分けるかまで数学が苦手な人(僕)でもわかるようにまとめられている。 https://t.co/QsmVMxh1fH https://t.co/PZYHymisuP https://t.co/Cpz2ZtwFH7" / Twitter
+3:16 AM · Oct 31, 2019·twittbot.net
+
+【統計検定を理解せずに使っている人のためにⅠ〜Ⅲ】
+東北大学の池田郁男 先生による生物実験でよく用いる統計検定法を
+原理からどのように使い分けるかまで数学が苦手な人(僕)でもわかるようにまとめられている。
+https://jstage.jst.go.jp/article/kagakutoseibutsu/51/5/51_318/_pdf
+https://jstage.jst.go.jp/article/kagakutoseibutsu/51/6/51_408/_pdf
+https://jstage.jst.go.jp/article/kagakutoseibutsu/51/7/51_483/_pdf
+
 
 http://leeswijzer.org/R/InvitationStatistics.html
 統計学へのお誘い本リスト
