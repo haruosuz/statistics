@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-11
+Last Update: 2020-01-03
 
 ----------
 
@@ -43,41 +43,12 @@ Last Update: 2019-11
   - [tmaita77](#tmaita77)
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
+- [fisher.test](#fisher.test) フィッシャーの正確確率検定
+- [singular](#singular) 特異
 
-----------
-
-## Fisher's exact test
-
-https://ja.wikipedia.org/wiki/フィッシャーの正確確率検定
-
-https://best-biostatistics.com/contingency/fisher-exact.html
-フィッシャーの正確確率検定とは？カイ二乗検定と何が違う？分割表の検定｜一番優しい、医薬品開発に必要な統計学の教本
-
-https://oku.edu.mie-u.ac.jp/~okumura/stat/fishertest.html
-Fisherの正確検定
-
-```
-> fisher.test(matrix(c(3,1,2,4),nrow=2))
-
-	Fisher's Exact Test for Count Data
-```
-
-https://data-science.gr.jp/theory/tst_fisher_exact_probability_test.html
-フィッシャーの直接確率検定
-
-https://data-science.gr.jp/implementation/ist_r_fisher_exact_probability_test.html
-Rによるフィッシャーの直接確率検定
 
 ----------
 ## featuring
-
-https://id.fnshr.info/2017/01/09/tidy-data-intro/
-整然データとは何か｜Colorless Green Ideas
-
-https://id.fnshr.info/2017/01/09/trans-tidy-data/
-【翻訳】整然データ｜Colorless Green Ideas
-
-
 
 https://tjo.hatenablog.com/entry/2018/12/12/190000
 『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
@@ -120,18 +91,49 @@ RでL1 / L2正則化を実践する - 六本木で働くデータサイエンテ
 ----------
 ## updates
 
+### 2020
+
+第一種過誤（Type I error）または偽陽性（False positive）
+第二種過誤（Type II error）または偽陰性（False negative）
+https://ja.wikipedia.org/wiki/第一種過誤と第二種過誤
+
+https://twitter.com/TGuillerme/status/1226875977126510592
+Thomas Guillerme on Twitter: "Can we stop using type I and type II error and use false positive and false negative instead? Even after 8 years of doing stats every work day, I still have to check it on Wikipedia every time it's mentioned." / Twitter
+11:30 PM · Feb 10, 2020
+
+
+https://twitter.com/M123Takahashi/status/1225940446255276032
+高橋将宜 Masayoshi Takahashi on Twitter: "これは、大数の法則と中心極限定理を混同していますね。簡単にまとめます。 大数の弱法則：標本の平均は、標本を大きくすればするほど母平均に確率収束する。 中心極限定理：母集団分布に関わらず、無数に抽出した標本の平均の分布は、正規分布に収束する。 https://t.co/WyQHQo98Mp" / Twitter
+9:32 AM · Feb 8, 2020
+
+https://biolab.sakura.ne.jp/anova-post-hoc-multiple-comparison.html
+分散分析の下位に多重検定を置くな
+井口豊（生物科学研究所，長野県岡谷市）
+最終更新：2020年1月2日
+元々，多重比較に興味があるのなら，分散分析の結果は無視することが出来るのである。何でもかんでも，まず分散分析という考え方は改めて，多重検定から入っていくような手順の研究も進めてほしいところである
+
 ### 2019
 
-https://twitter.com/bot_tips/status/1189607013631713280
-研究生活tips垂れ流しbot on Twitter: "【統計検定を理解せずに使っている人のためにⅠ〜Ⅲ】 東北大学の池田郁男 先生による生物実験でよく用いる統計検定法を 原理からどのように使い分けるかまで数学が苦手な人(僕)でもわかるようにまとめられている。 https://t.co/QsmVMxh1fH https://t.co/PZYHymisuP https://t.co/Cpz2ZtwFH7" / Twitter
-3:16 AM · Oct 31, 2019·twittbot.net
-
+https://twitter.com/simizu706/status/1211095862593540096
+Hiroshi Shimizu on Twitter: "これRTしている人多いけど、内容的にちょい古くて、これで理解されると困るとこもある… https://t.co/YgjT4VIeWy" / Twitter
+https://twitter.com/bot_tips/status/1210625508460785664
+研究生活tips垂れ流しbot
+@bot_tips
 【統計検定を理解せずに使っている人のためにⅠ〜Ⅲ】
 東北大学の池田郁男 先生による生物実験でよく用いる統計検定法を
 原理からどのように使い分けるかまで数学が苦手な人(僕)でもわかるようにまとめられている。
 https://jstage.jst.go.jp/article/kagakutoseibutsu/51/5/51_318/_pdf
 https://jstage.jst.go.jp/article/kagakutoseibutsu/51/6/51_408/_pdf
 https://jstage.jst.go.jp/article/kagakutoseibutsu/51/7/51_483/_pdf
+Translate Tweet
+3:16 AM · Dec 28, 2019·twittbot.net
+
+
+
+https://twitter.com/ykkmrmt/status/1190886992482955266
+Yukiko M.＠製薬PV on Twitter: "京大の生物統計の講義（10回分）が無料で公開されています。臨床試験や観察研究の統計手法等について非常にわかりやすくまとめられていますので、統計の勉強の始めの一歩として、ぜひ視聴してみてください！ https://t.co/ayqNdf2iRp"
+4:02 PM · Nov 3, 2019
+
 
 
 http://leeswijzer.org/R/InvitationStatistics.html
@@ -930,7 +932,8 @@ http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html
 大垣俊一 Argonauta 1: 15-26 (1999) 群集組成の多変量解析
 
 ----------
-## [ROC](https://ja.wikipedia.org/wiki/受信者操作特性)
+## ROC
+https://ja.wikipedia.org/wiki/受信者操作特性
 
 https://twitter.com/dariyasydykova/status/1063825681690370048
 Dariya Sydykova on Twitter: "I made a new animation to demonstrate how an ROC curve relates to sensitivity and specificity for all possible cutoffs. The code and the gif file are available at https://t.co/uBjkUpHDr6 Again, thank you @ClausWilke for helping me with this one.… https://t.co/JGecyy0J1K"
@@ -944,6 +947,17 @@ https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f
 https://oku.edu.mie-u.ac.jp/~okumura/stat/ROC.html
 ROC曲線
 
+https://www.ncbi.nlm.nih.gov/pubmed/26657537
+FEMS Microbiol Rev. 2016 Mar;40(2):258-72. doi: 10.1093/femsre/fuv048. Epub 2015 Dec 9.
+Computational approaches to predict bacteriophage-host relationships.
+Edwards RA1, McNair K2, Faust K3, Raes J3, Dutilh BE4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831537/
+ROC curves
+We use receiver operating characteristic (ROC) curves to display the quality of the predictions made by different approaches. These curves are commonly used in computer science to assess the power of predictive signals. ROC curves are usually plotted in an x, y plane, where x shows the false positive rate (from 0, i.e. no false positives detected, to 1, i.e. 100% of false positives detected), and y shows the true positive rate (also from 0 to 1; see Fig. 1 for some examples) (Swets 1996). 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831537/figure/fig1/
+Figure 1.
+ROC curves displaying the classification accuracy of computational phage–host prediction approaches. 
+; (G) Pearson correlation of oligonucleotide usage profiles (tetramers, k = 4, for other lengths of k, see Fig. S2, Supporting Information); (H) similarity in codon usage profiles of phage and bacterial coding regions; (I) similarity in GC content between phage and bacterial genomes. Note that in some ROC plots, the TP and FP rates do not continue to FP rate = 1; TP rate = 1. In those cases, we used cutoffs for assignment of a hit.
 
 ----------
 ## statistical_significance
@@ -1042,15 +1056,11 @@ http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
 https://twitter.com/strnr/status/974402251375734784
 Stephen Turner on Twitter: "“But I need n=3 please try the analysis anyway”… "
 
-2017年10月2日
-https://sites.google.com/site/fishermultiplecomparison/variance
-標本分散と標本不偏分散，nで割るかn-1で割るか，不偏標準偏差の話題も含めて - 統計学的手法の話題 - 生物科学研究所
+最終更新：2018年11月7日
+https://biolab.sakura.ne.jp/variance.html
+標本分散と標本不偏分散，n で割るか n-1 で割るか，不偏標準偏差の話題も含めて
 
-例えば，母平均は母集団分布の位置を表す母数だが，これは，最低限として（誤差は最大になるが），測定値１個からなる標本（n=1）で足りる。
-n = 0 は駄目だが，n ≧ 1 ならば，「自由に」使える，のである。 それを分母で表現している。
-
-一方，バラツキの母数である母分散は，一つの測定値では推定できない。
-これが母分散を求めるときの自由度n-1 につながる。 n = 1 では不可（分母が0になる），n ≧ 2 ならば自由に使える，ということを分母で示している。
+一方，バラツキの母数である母分散は，一つの測定値では推定できない。例えば，A 組のある生徒１人の体重が 50kg，B 組のある生徒１人の体重が 60kg であったとして，どちらの組の生徒の体重がバラツキが大きいか，と問われても，さっぱりわからない。この場合，体重のバラツキを推定しようとしたら，最低限もうひとつ，つまり各組 2 人ずつの測定値が必要だと分かる。 これが母分散を求めるときの自由度n−1 につながる。 n=1 では不可（分母が0になる），n≥2 ならば自由に使える，ということを分母で示している。
 
 https://www.sbj.or.jp/sbj/sbj_tokei_kaiseki.html
 生物工学会誌 –『間違いから学ぶ実践統計解析』 | 公益社団法人 日本生物工学会
@@ -1082,6 +1092,10 @@ No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51
 ----------
 ## plot
 
+http://kazumaxneo.hatenablog.com/entry/2019/04/02/073000
+データを可視化するwebツール PlotsOfData - macでインフォマティクス
+PlotsOfData R / shinyスクリプトをGithub（https://github.com/JoachimGoedhart/PlotsOfData）からダウンロードすると、WebアプリケーションをRまたはRstudioから起動してオフラインで使用できる。
+
 [#barbarplots](http://barbarplots.github.io)
 https://twitter.com/hashtag/barbarplots
 
@@ -1092,6 +1106,8 @@ https://twitter.com/hashtag/barbarplots
 ![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
 
 ![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
+
+
 
 ### Weissgerber
 https://www.ncbi.nlm.nih.gov/pubmed/25901488
@@ -1187,17 +1203,21 @@ http://d.hatena.ne.jp/haruosuz/20051130
 ----------
 ## toukei-kentei
 
-- https://twitter.com/toukei_kentei
+https://twitter.com/toukei_kentei
 
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
 次回の検定情報
-2019年
-6月16日(日)
+2020年
+6月21日(日)
 
+2019年11月26日
+https://qiita.com/everylittle/items/f65ff9864c14dc8b0e31
+【統計検定2級】2019年11月受験レポート - Qiita
 
-
-個人申込：9月5日～10月12日
+2019年06月17日
+https://qiita.com/takuya66520126/items/baeae1c529af009b9e25
+専門力0から３カ月で統計検定準一級を目指した話 - Qiita
 
 2018.08.30
 https://kawazu-frog.com/統計検定２級と３級の差がすごすぎる。
@@ -1386,6 +1406,83 @@ https://twitter.com/demadayo88
 
 https://twitter.com/tmaita77
 舞田敏彦 (@tmaita77) | Twitter
+
+
+----------
+## fisher.test
+
+https://ja.wikipedia.org/wiki/フィッシャーの正確確率検定
+
+https://best-biostatistics.com/contingency/fisher-exact.html
+フィッシャーの正確確率検定とは？カイ二乗検定と何が違う？分割表の検定｜一番優しい、医薬品開発に必要な統計学の教本
+
+https://oku.edu.mie-u.ac.jp/~okumura/stat/fishertest.html
+Fisherの正確検定
+
+```
+> fisher.test(matrix(c(3,1,2,4),nrow=2))
+
+	Fisher's Exact Test for Count Data
+```
+
+https://data-science.gr.jp/theory/tst_fisher_exact_probability_test.html
+フィッシャーの直接確率検定
+
+https://data-science.gr.jp/implementation/ist_r_fisher_exact_probability_test.html
+Rによるフィッシャーの直接確率検定
+
+----------
+## singular
+
+Error in solve.default(cov, ...) : 
+  Lapack routine dgesv: system is exactly singular: 
+
+http://www.okadajp.org/RWiki/?統計手法の実地への適用限界
+
+サンプルサイズより多い変数を使おうとする †
+ 以下にエラーsolve.default(cv) :  システムは数値的に特異です：条件数の逆数 = 1.43914e-19
+
+全サンプルが同じ値を持つ変数を使おうとする †
+ 以下にエラーsolve.default(cv) :  システムは数値的に特異です：条件数の逆数 = 0
+
+
+2015/10/720:14:15
+https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13151189643
+Rで因子分析を行ったところ、エラーが返され、
+>Error in solve.default(cv) : 
+system is computationally singular: reciprocal condition number = 1.71093e-18
+
+12行17列のデータ行列なので、そもそも分散共分散行列が退化しています。
+観測値の個数を増やしましょう。せめて変数の個数(列数)の5倍くらいには。
+
+
+2014-09-27 (rev. 2015-06-06, 2016-12-08)
+http://yukiyanai.github.io/jp/classes/rm1/contents/R/introduction-to-R.html
+政治学方法論 I：R 入門
+## Error in solve.default(S): Lapack routine dgesv: system is exactly singular: U[3,3] = 0
+エラーメッセージを読めば何がまずいのかわかるので、エラーが出たら内容をよく読むこと。 この場合は、行列が特異行列 (singular) であることを教えてくれている。
+
+2012/08/10
+https://cis-jp.blogspot.com/2012/08/blog-post_10.html
+色々と考えてみる: 文系のための「擬逆行列」
+
+擬逆行列を計算する関数
+ginv()
+
+https://www.otaru-uc.ac.jp/~nisiyama/Documents/rmanual.pdf
+統計分析ソフトウェア Rの使用法
+西山 　茂
+2001 年 9 月
+
+2.3.3 ベクトル同士の計算、そしてマトリックス
+```
+Error in A %*% B : non-conformable arguments
+```
+エラーが出てしまいました。どうやら『引数が計算に合っていない』11ようです。線形代数
+で二つの行列をかける場合は、前の行列の列数と後の行列の行数が等しくなければいけません
+でしたね。今の場合、A も B も 3 × 2 行列ですからマトリックス乗算は計算不能なのです。し
+かし、AB0
+なら計算できるはずです。B の転置行列は t(B) で表します。やってみましょう。
 
 ----------
 
