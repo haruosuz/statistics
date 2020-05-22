@@ -93,6 +93,37 @@ RでL1 / L2正則化を実践する - 六本木で働くデータサイエンテ
 
 ### 2020
 
+
+
+9:41 AM · May 11, 2020
+https://twitter.com/toukei_kentei/status/1259644881716142081
+toukei_kentei on Twitter: "つぶやき... データ分析をしているとバイアスの問題がついてきます。バイアスとは研究デザインの下，nが大きくなるほど真の値と異なる値に収束することです。 バイアスがあるからと言って、そのデータは使えないのではなく、バイアスの評価を研究デザインまたは他のデータ分析結果で補えばいいです。" / Twitter
+
+
+
+
+3:59 PM · Apr 28, 2020
+https://twitter.com/ykamit/status/1255028739349417986
+'Yuki’ Kamitani on Twitter: 
+観察データを実験データのノリで解析するのは非常にまずいです。交絡だのp値だの統計的有意だの、ほとんど意味ないです。少なくとも、観察データの因果推論の基本を押さえないと
+今後、実験できなくなった実験研究者が、観察データやレポジトリのデータの解析をすることが増えてくると思いますが、実験（介入）のおかげで気にしなくてよくなっているけど本当は厄介な問題があるので注意が必要です。
+観察データの因果推論について私自身全然詳しくないですが、たとえば、岩波データサイエンス Vol3 や計量経済学の入門書で勉強するとよいと思います
+
+
+
+9:56 PM · Apr 25, 2020
+https://twitter.com/WB_DataAnalyst/status/1254031648405913600
+しんめー on Twitter: "「サンプルサイズが小さく検出力が弱いがために，たまたま効果量の大きいかったがために有意に観測され，研究結果としては実際の効果量より誇張されて報告されてしまう」winner's curse (勝者の呪い)という現象を今更知りました。 実験経済学者以外の経済学者は知らない人多そう。" / Twitter
+https://tjo.hatenablog.com/entry/2017/05/06/090000
+論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 渋谷駅前で働くデータサイエンティストのブログ
+
+
+https://twitter.com/philomyu/status/1249180413622394883
+西内啓 Hiromu Nishiuchi on Twitter: "過去のデータによく当てはまる数理モデルがあるって話と、それを未来に当てはめた予測が正しいかは別問題っていう有名な例えに「100年間男女それぞれの短距離走金メダリストのタイムは線形的に減少してるし、このままいくと2156年に女性は男性のタイムを抜く」って話がある。https://t.co/K2591GlbpY https://t.co/8ZwJimHI3H" / Twitter
+12:39 PM · Apr 12, 2020
+
+
+
 第一種過誤（Type I error）または偽陽性（False positive）
 第二種過誤（Type II error）または偽陰性（False negative）
 https://ja.wikipedia.org/wiki/第一種過誤と第二種過誤
@@ -771,7 +802,7 @@ https://www.slideshare.net/YoshihikoKunisato/ss-37490113
 メタ・アナリシスの入門
 Published on Jul 30, 2014
 
-https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#meta-analysis
 
 ----------
 ## multiple comparison
