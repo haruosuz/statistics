@@ -38,14 +38,13 @@ Last Update: 2020-01-03
 - [link](#link)
 - [people](#people)
   - [Dr. KID](#dr-kid)
+  - [kubo](#kubo) Takuya Kubo
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
-  - [tmaita77](#tmaita77)
 - [books](#books)
   - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 - [fisher.test](#fisher.test) フィッシャーの正確確率検定
 - [singular](#singular) 特異
-
 
 ----------
 ## featuring
@@ -268,25 +267,6 @@ https://twitter.com/Ri7_u10/status/1101320072943919104
 
 ### 2018
 
-https://twitter.com/ykamit/status/1077703514707582976
-'Yuki' Kamitani on Twitter: "私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。… https://t.co/vMBt62HgL1"
-6:11 PM - 25 Dec 2018
-
-私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。
-
-HARKingとは、Hypothesizing After the Results are Knownの略語で、データを分析してみて結果を見てから、それにフィットするように仮説を作り、あたかもその仮説がデータ収集よりも先に存在していたかのように論文化していく行為　
-
-http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
-HARKing, p-hacking, asterisk-seekingを助長している学術界
-
-データを操作してp値をいじる行為を不正と認識している人は多いが、HARKingが不正と思っている人は非常に少ない。私の周辺分野のシニア研究者で理解している人はほぼ皆無（問題を指摘すると一笑に付される）。研究の実践と論文フォーマットの齟齬やフェアプレー精神の問題（？）と理解している人がいた
-
-HARKingはそういう問題ではなくて、特定のサンプルのパターンにフィットするような仮説は後からいくらでも考えられるが、ノイズにフィットしているだけだとしたら、もう一度実験すればその仮説に合う結果にはならない、という再現性の問題。
-
-手元のデータをいじってパターンを探索するのは構わないが、そこから見出した新しい仮説について検定するためには、探索に使ったのとは別のデータが必要。今のデータを捨てて新しいデータをとらないと（統計検定にもとづく）論文にはできない。データを取る前にpre-registrationするともっといい
-
-でも、これを受け入れられない人が多くて、他グループの発表で指摘して、ハラスメント扱いされたことは何度もある
-
 ### 2018-09
 
 http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
@@ -361,16 +341,6 @@ http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
 2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
 ■[情]「統計的有意性とP値に関するASA声明」
 
-----------
-
-https://twitter.com/KuboBook/status/972394855161765888
-久保拓弥 on Twitter: "なぜか過剰に製本された「統計数理」Vol.64-1「生態学における統計モデリング」https://t.co/Q8Vbb0kQak ……水曜日 (3/14) の自由集会では無料配布して在庫一掃する予定！… "
-http://www.ism.ac.jp/editsec/toukei/pdf/64-1-001.pdf
-統計数理(2016)
-
-http://hosho.ees.hokudai.ac.jp/~kubo/memo/seibutukagaku/kubostat.pdf
-樹木・森林生態学「よく出る」誤用統計学の基本わざ
-久保拓弥
 
 ----------
 ## books
@@ -1296,8 +1266,7 @@ http://www.ism.ac.jp/topevent_j/index.html
 ----------
 ## people
 
-## dr-kid
-
+### dr-kid
 
 https://twitter.com/Dr_KID_/status/1094372164432621568
 Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
@@ -1342,7 +1311,33 @@ Dr. KID on Twitter: "土曜は疫学の日です。今回は、メタ解析に�
 
 ![](https://pbs.twimg.com/card_img/1025546807483359234/rC2iTTcK?format=jpg&name=600x314)
 
-## leeswijzer
+----------
+### kubo
+Takuya Kubo
+
+https://twitter.com/KuboBook
+
+5:52 PM · Mar 10, 2018
+https://twitter.com/KuboBook/status/972394855161765888
+久保拓弥 on Twitter: "なぜか過剰に製本された「統計数理」Vol.64-1「生態学における統計モデリング」https://t.co/Q8Vbb0kQak ……水曜日 (3/14) の自由集会では無料配布して在庫一掃する予定！… "
+http://www.ism.ac.jp/editsec/toukei/pdf/64-1-001.pdf
+統計数理(2016)
+
+http://uncorrelated.hatenablog.com/entry/20140802/1406949321
+統計モデルに観測値と観測値の割り算値を入れたときのバイアス - 餡子付゛録゛
+
+http://barbra-coco.dyndns.org/kubo/2011/kubostat2011C3.pdf
+何でも「割算」するな!
+
+2003年 3月
+https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/20148
+樹木・森林生態学「よく出る」誤用統計学の基本わざ
+
+https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/20148/1/%e7%94%9f%e7%89%a9%e7%a7%91%e5%ad%a654-3.pdf
+抄録: 	樹木の個体・個体群・群集の問題を取りあつかう生態学のデータ解析ではさまざまな統計学的手法が駆使される．同時にこれらの手法についてよく理解されぬまま間違って用いられている事例も散見する．ここではよく普及しているごく簡単な誤用二例を紹介する．対数変換してから直線回帰することで生じる問題，そして「割り算指標」とその分母の間で「負の相関を創作」してしまう失敗である．どちらも観測データの「確率分布を見ない」解析方針に原因がある．統計学的なデータ解析では背後にある確率論的モデルを考え，それらに合致した統計学的手法を採用しなければならない.
+
+----------
+### leeswijzer
 MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
@@ -1350,6 +1345,11 @@ https://twitter.com/leeswijzer
 http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
 
+2015年05月26日
+https://www.yodosha.co.jp/jikkenigaku/book/9784758120586/index.html
+みなか先生といっしょに 統計学の王国を歩いてみよう〜情報の海と推論の山を越える翼をアナタに！ - 羊土社
+
+2014年2月
 https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
@@ -1383,7 +1383,7 @@ https://www.youtube.com/watch?v=if-OYPt08YI
 11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
 
 ----------
-## yusuke_tsugawa
+### yusuke_tsugawa
 https://twitter.com/yusuke_tsugawa
 
 https://twitter.com/hashtag/究極の食事
@@ -1419,24 +1419,6 @@ http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
 2018.03.29
 http://college.nikkei.co.jp/article/112272017.html
 人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
-
-----------
-## tmaita77
-舞田敏彦
-
-1月8日
-https://togetter.com/li/1187992
-【舞田敏彦】舞田敏彦のデマに気がついた500人の人たち - Togetter
-
-2017年4月23日
-https://togetter.com/li/1103576
-エクセル統計学者・舞田敏彦の光と影 - Togetter
-
-https://twitter.com/demadayo88
-【舞田敏彦】舞田敏彦さんにブロックされても頑張るグループ (@demadayo88) | Twitter
-
-https://twitter.com/tmaita77
-舞田敏彦 (@tmaita77) | Twitter
 
 
 ----------
@@ -1514,6 +1496,10 @@ Error in A %*% B : non-conformable arguments
 でしたね。今の場合、A も B も 3 × 2 行列ですからマトリックス乗算は計算不能なのです。し
 かし、AB0
 なら計算できるはずです。B の転置行列は t(B) で表します。やってみましょう。
+
+----------
+
+
 
 ----------
 
