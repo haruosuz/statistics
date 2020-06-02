@@ -18,8 +18,29 @@ https://twitter.com/search?q=P値
 https://ja.wikipedia.org/wiki/有意
 帰無仮説の下で実際にデータから計算された統計量よりも極端な（仮説に反する）統計量が観測される確率を、p値という。
 
+
+2018.08.19
+https://stats.biopapyrus.jp/stats/history-of-statistical-test.html
+検定の歴史 | Neyman-Pearson 流の仮説検定が提唱されるまでの歴史
+現代において、Fisher 流に基づく検定と Neyman-Pearson 流に基づく検定が共存している。また、これらに加えて、主観確率に基づく Bayes 流の考え方もさかんに使われるようになった。
+
+http://www.jfssa.jp/taikai/2017/table/program_detail/pdf/201-250/10213.pdf
+p 値と仮説検定：どう教えればよいか
+岡山大学 環境生命科学研究科（環） 坂本 亘
+
+
 ----------
 ## updates
+
+### 2020
+
+https://twitter.com/ykamit/status/1229007107703201793
+例の本のサイトに「本論の章タイトルはDon't Say “Statistically Significant” であり，命令形ではっきりと有意性検定を禁止しています．これ以上 p 値を使い続けるということは，最大手の製造元メーカーがリコールし，乗車を禁止している車に乗るのといっしょ」とありますが
+アメリカ統計学会監修（？） The American Statistician の「21世紀の統計的推論：“p < 0.05”を超えて」で、禁止しようと言っているのは、p値の二分法的な使用であって、p値の使用を禁止しているわけではありません
+8:38 PM · Feb 16, 2020
+http://asakura.co.jp/books/isbn/978-4-254-12255-8/
+朝倉書店｜ 瀕死の統計学を救え！ ―有意性検定から「仮説が正しい確率」へ―
+
 
 ### 2019
 
@@ -150,9 +171,19 @@ http://www.esj.ne.jp/meeting/abst/65/S10-2.html
 
 ### 2017
 
-2017-07-27
-http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
-HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページにようこそ
+
+6:11 PM - 25 Dec 2018
+https://twitter.com/ykamit/status/1077703514707582976
+'Yuki' Kamitani on Twitter: "私の周辺でも「プロダクティブな研究者」の多くが単に統計を誤解・誤用してるだけの場合が多い。一方で「とったデータはすべて論文にしてきた」と誇らしげに語る研究者にも注意が必要。「有意な結果」が並んでいるとしたら、HARKingをしている可能性が高い。… https://t.co/vMBt62HgL1"
+- HARKingとは、Hypothesizing After the Results are Knownの略語で、データを分析してみて結果を見てから、それにフィットするように仮説を作り、あたかもその仮説がデータ収集よりも先に存在していたかのように論文化していく行為　http://d.hatena.ne.jp/tomsekiguchi/20170727/1501136241
+- データを操作してp値をいじる行為を不正と認識している人は多いが、HARKingが不正と思っている人は非常に少ない。私の周辺分野のシニア研究者で理解している人はほぼ皆無（問題を指摘すると一笑に付される）。研究の実践と論文フォーマットの齟齬やフェアプレー精神の問題（？）と理解している人がいた
+- HARKingはそういう問題ではなくて、特定のサンプルのパターンにフィットするような仮説は後からいくらでも考えられるが、ノイズにフィットしているだけだとしたら、もう一度実験すればその仮説に合う結果にはならない、という再現性の問題。
+- 手元のデータをいじってパターンを探索するのは構わないが、そこから見出した新しい仮説について検定するためには、探索に使ったのとは別のデータが必要。今のデータを捨てて新しいデータをとらないと（統計検定にもとづく）論文にはできない。データを取る前にpre-registrationするともっといい
+
+### 2017
+
+https://tomsekiguchi.hatenablog.com/entry/20170727/1501136241
+HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページへようこそ
 
 ### 2016
 
