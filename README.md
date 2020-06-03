@@ -307,9 +307,6 @@ Claus O. Wilke
 
 ### 2018-03
 
-https://twitter.com/leeswijzer/status/978742721627279362
-MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
-5:17 PM - 27 Mar 2018
 
 http://d.hatena.ne.jp/MikuHatsune/20180321/1521639267
 （臨床系の）統計解析でやらかしがちな10個のミス - 驚異のアニヲタ社会復帰への道
@@ -1173,11 +1170,6 @@ http://japanr.net
 Japan.R
 日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントが Japan.R です。
 
-http://leeswijzer.org/files/books.html
-MINAKA Nobuhiros boeken
-公刊書籍一覧（出版年順）
-【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年4月下旬刊行予定，技術評論社，東京 → 目次案
-
 化学と生物 [統計検定を理解せずに使っている人のために](https://twitter.com/search?q=統計検定を理解せずに使っている人のために)
 - http://doi.org/10.1271/kagakutoseibutsu.51.318
 - http://doi.org/10.1271/kagakutoseibutsu.51.408
@@ -1342,8 +1334,19 @@ MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
 
+
+http://leeswijzer.org/files/books.html
+MINAKA Nobuhiros boeken
+公刊書籍一覧（出版年順）
+【著書】三中信宏『統計思考の世界：曼荼羅で読み解くデータ解析の基礎』2018年6月1日刊行，
+http://leeswijzer.org/files/StatisticalMandala.html
+第1講　素朴統計学：涙なしの統計ユーザーへの道 15
+
 http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
+
+◇大統計大曼荼羅
+　　JPEG(小)（676KB）
 
 2015年05月26日
 https://www.yodosha.co.jp/jikkenigaku/book/9784758120586/index.html
@@ -1365,22 +1368,12 @@ KyushuUniv
  講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
  期　間：2014年2月3日～5日 
 
-https://www.youtube.com/watch?v=0HfJpfJH-co&feature=youtu.be
-4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生） - YouTube
-1:25:00
-
-51:15 線形統計モデル（LM）への入り口
-
-http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
-Univariate Distribution Relationship Chart
-
-	#install.packages("TeachingDemos")
-	library(TeachingDemos)
-	clt.examp(1)
-	clt.examp(2)
-
 https://www.youtube.com/watch?v=if-OYPt08YI
 11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
+
+5:17 PM - 27 Mar 2018
+https://twitter.com/leeswijzer/status/978742721627279362
+MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
 
 ----------
 ### yusuke_tsugawa
