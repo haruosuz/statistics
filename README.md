@@ -164,13 +164,6 @@ https://twitter.com/ykkmrmt/status/1190886992482955266
 Yukiko M.＠製薬PV on Twitter: "京大の生物統計の講義（10回分）が無料で公開されています。臨床試験や観察研究の統計手法等について非常にわかりやすくまとめられていますので、統計の勉強の始めの一歩として、ぜひ視聴してみてください！ https://t.co/ayqNdf2iRp"
 4:02 PM · Nov 3, 2019
 
-
-
-http://leeswijzer.org/R/InvitationStatistics.html
-統計学へのお誘い本リスト
-（Version 1-July-2019）
-三中信宏
-
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907
 Ten quick tips for effective dimensionality reduction
 
@@ -1334,6 +1327,11 @@ MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
 
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて
+
+◇大統計大曼荼羅
+　　JPEG(小)（676KB）
 
 http://leeswijzer.org/files/books.html
 MINAKA Nobuhiros boeken
@@ -1342,38 +1340,64 @@ MINAKA Nobuhiros boeken
 http://leeswijzer.org/files/StatisticalMandala.html
 第1講　素朴統計学：涙なしの統計ユーザーへの道 15
 
-http://cse.naro.affrc.go.jp/minaka/R/R-top.html
-租界〈Ｒ〉の門前にて
+http://leeswijzer.org/R/InvitationStatistics.html
+統計学へのお誘い本リスト
+（Version 1-July-2019）
 
-◇大統計大曼荼羅
-　　JPEG(小)（676KB）
+2018/05/15 16:36
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
 
 2015年05月26日
 https://www.yodosha.co.jp/jikkenigaku/book/9784758120586/index.html
 みなか先生といっしょに 統計学の王国を歩いてみよう〜情報の海と推論の山を越える翼をアナタに！ - 羊土社
 
-2014年2月
-https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
-統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
-
-https://note.mu/leeswijzer/n/ne827077ad556
-姉妹本3冊を書き終えて｜leeswijzer｜note
+5:17 PM - 27 Mar 2018
+https://twitter.com/leeswijzer/status/978742721627279362
+MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
 
 http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
 農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
 九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
-
-KyushuUniv
-農業生物資源学特論第五
+```
+農業生物資源学特論第五　2014年2月5日
  講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
  期　間：2014年2月3日～5日 
+```
 
-https://www.youtube.com/watch?v=if-OYPt08YI
-11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
+2014年2月
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
+統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
-5:17 PM - 27 Mar 2018
-https://twitter.com/leeswijzer/status/978742721627279362
-MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
+http://www.naro.affrc.go.jp/archive/niaes/magazine/148/mgzn14805.html
+農環研ウェブ高座「農業環境のための統計学」第１回 (農業と環境 No.148 2012.8)
+```
+農環研ウェブ高座「農業環境のための統計学」 掲載リスト
+
+第１回　前口上－統計学の世界を鳥瞰するために （2012年8月）
+
+第２回　統計学のロジックとフィーリング （2012年9月）
+
+第３回　直感的な素朴統計学からはじまる道 （2012年10月）
+
+第４回　統計学的推論としてのアブダクション （2012年11月）
+
+第５回　データを観る・見る・診る （2013年1月）
+
+第６回　情報可視化と統計グラフィックス （2013年2月）
+
+第７回　データのふるまいを数値化する：平均と分散 （2013年3月）
+
+第８回　記述統計学と推測統計学：世界観のちがい （2013年4月）
+
+第９回　統計モデルとは何か：既知から未知へ （2013年5月）
+
+第１０回　確率変数と確率分布：確率分布曼荼羅をたどる （2013年6月）
+
+第１１回　正規分布帝国とその臣下たち （2013年7月）
+
+第１２回　パラメトリック統計学の世界を眺める （2013年8月）
+```
 
 ----------
 ### yusuke_tsugawa
