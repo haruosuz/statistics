@@ -1010,13 +1010,13 @@ Japanese Journal of Grassland Science 54(4), 348-351, 2009
 
 ### sample size
 
+http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
+補足説明 (1)「標本の大きさ(サンプルサイズ:sample size)と標本数」について
+
 http://daas.la.coocan.jp/toukei_hosoku/hyohon.htm
 標本調査法について
 4.　標本数（サンプル数）と標本の大きさ（サンプルサイズ）
 　例えば1000人（母集団）から100人を抽出した場合,標本数は1,標本の大きさは100ということになります。通常,標本数はk,標本の大きさはnで表記されていますが標本数と標本の大きさを誤って書いている（または説明している）書籍があるので注意してください。
-
-http://www2.kobe-u.ac.jp/~hamori/Jhamori/explanation(sample%20size).pdf
-補足説明 (1)「標本の大きさ(サンプルサイズ:sample size)と標本数」について
 
 2018年11月4日
 https://biolab.sakura.ne.jp/sample-size.html
