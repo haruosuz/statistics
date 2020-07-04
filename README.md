@@ -33,7 +33,6 @@ Last Update: 2020-01-03
 - [statistical_significance](#statistical_significance)
 - [plot](#plot)
 - [references](#references)
- - [Colorless Green Ideas](#colorless-green-ideas)
 - [toukei-kentei](#toukei-kentei)
 - [link](#link)
 - [people](#people)
@@ -41,10 +40,37 @@ Last Update: 2020-01-03
   - [kubo](#kubo) Takuya Kubo
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
-- [books](#books)
-  - [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
 - [fisher.test](#fisher.test) フィッシャーの正確確率検定
 - [singular](#singular) 特異
+
+
+----------
+
+## Mendelian randomization
+https://en.wikipedia.org/wiki/Mendelian_randomization
+
+https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
+MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
+
+http://blog.livedoor.jp/megikaya/archives/51348455.html
+Mendelian randomizationの原理 : 知識の卵
+
+http://jojoshin.hatenablog.com/entry/2017/12/04/175120
+Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
+
+http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
+医学書院／週刊医学界新聞(第3226号 2017年06月05日)
+栄養疫学者の視点から
+［第3話］サプリメント② 遺伝疫学への期待
+今村 文昭（英国ケンブリッジ大学 MRC（Medical Research Council）疫学ユニット）
+
+
+----------
+
+
+
+
+
 
 ----------
 ## featuring
@@ -330,82 +356,6 @@ https://togetter.com/li/1119318
 http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
 2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
 ■[情]「統計的有意性とP値に関するASA声明」
-
-
-----------
-## books
-
-http://kosugitti.net/archives/5958
-犬4匹本出版にあたって – Kosugitti's BLOG
-
-### statisticsdonewrong
-
-https://www.statisticsdonewrong.com/
-Statistics Done Wrong
-
-
-http://www.keisoshobo.co.jp/book/b272873.html
-ダメな統計学 - 株式会社　勁草書房
-
-第3章　擬似反復：データを賢く選べ
-　3.3　バッチ生物学
-
-![](http://www.keisoshobo.co.jp//images/book/272873.jpg)
-
-http://keisobiblio.com/2017/01/25/atogakitachiyomi_damenatokeigaku/
-あとがきたちよみ／『ダメな統計学　悲惨なほど完全なる手引書』 - けいそうビブリオフィル
-
-http://hidekatsu-izuno.hatenablog.com/entry/2017/02/12/022842
-「ダメな統計学」お勉強メモ - hidekatsu-izuno 日々の記録
-
-http://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
-『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
-
-http://id.fnshr.info/2016/03/28/excel-bad-charts/
-Excelのダメなグラフでウソをつく法｜Colorless Green Ideas
-
-http://id.fnshr.info/2015/11/07/math-class-4-stats/
-統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-toc/
-ダメな統計学：目次｜Colorless Green Ideas
-
-http://id.fnshr.info/2014/12/17/stats-done-wrong-13/
-【翻訳】ダメな統計学 (13) 終わりに｜Colorless Green Ideas
-
-実験が終わった後に統計学者に相談することは、しばしば単に検死を頼むようなものになる。統計学者は、何のせいで実験が死んだのかについて言うことができるかもしれない。
-
-p値を普及させた人、R. A.フィッシャー [3]
-![](http://id.fnshr.info/wp-content/uploads/sites/2/2014/12/r-a-fischer.jpg)
-
-## BDS
-
-http://apprize.info/data/bioinformatics/1.html
-How to Learn Bioinformatics - Ideology: Data Skills for Robust and Reproducible Bioinformatics - Bioinformatics Data Skills (2015)
-
-Pay Attention to Experimental Design
-
-To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
-
-R.A. Fisher
-
-https://github.com/haruosuz/books/tree/master/bds#pay-attention-to-experimental-design
-
-----------
-## Mendelian randomization
-https://en.wikipedia.org/wiki/Mendelian_randomization
-
-https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
-MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
-
-http://blog.livedoor.jp/megikaya/archives/51348455.html
-Mendelian randomizationの原理 : 知識の卵
-
-http://jojoshin.hatenablog.com/entry/2017/12/04/175120
-Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
-
-http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
-医学書院／週刊医学界新聞(第3226号 2017年06月05日)
 
 ----------
 ### batch effect
@@ -781,6 +731,9 @@ http://takehiko-i-hayashi.hatenablog.com/entry/20110209/1297209825
 ## distance
 距離
 
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#unifrac
+UniFracは、距離計量 distance metric の要件を満たす。
+
 https://ja.wikipedia.org/wiki/距離函数
 計量（metric）
 擬距離 (pseudometric) 
@@ -804,7 +757,6 @@ A4') 相加性（additivity）：
 A4'') 超計量性（ultrametricity）：
 
 擬計量＜非計量＜計量の順に定義の厳しさが大きくなっていく．計量性・相加性・超計量性の間にも同じ関係がある：
-
 
 
 ----------
