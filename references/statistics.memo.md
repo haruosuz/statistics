@@ -16,9 +16,37 @@
 ----------
 ## unclassified
 
+https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
+大相撲のアノーマリー （1） (1/2)：実践！ Rで学ぶ統計解析の基礎（7） - ＠IT
+![](https://image.itmedia.co.jp/ait/articles/1012/07/r20_dugganLevvitf2.jpg)
+明らかに7勝8敗が少なくて、8勝7敗が多い（Levittらの論文から引用）
+
+
+https://twitter.com/yas_tnk/status/1107028749768286208
+Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
+5:19 PM - 16 Mar 2019
+![](https://pbs.twimg.com/media/D1z0x5XUcAASuWP.jpg)
+
 
 ----------
 ## plot
+
+
+
+### 2018-06
+
+https://twitter.com/sidneymbell/status/1006404852950286336
+Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "Fundamentals of Data Visualization." Clear, helpful, and approachable guide that I wish I'd had when I started my PhD, and I'm sure I'll continue to reference long after I finish. https://t.co/J3CgnMFNOr… https://t.co/rq0nFWcANv"
+1:16 AM - 12 Jun 2018
+
+![](https://pbs.twimg.com/media/Dfd32-eUcAE16qC.jpg)
+
+http://serialmentor.com/dataviz/
+Fundamentals of Data Visualization
+Claus O. Wilke
+
+
+
 
 http://kazumaxneo.hatenablog.com/entry/2019/04/02/073000
 データを可視化するwebツール PlotsOfData - macでインフォマティクス
@@ -111,6 +139,13 @@ http://psy.isc.chubu.ac.jp/~oshiolab/teaching_folder/datakaiseki_folder/02_folde
 このような場合，男女別で相関を算出する。
 関連が群間で異なっている場合，群ごとの相関を分割相関もしくは層別相関という。
 
+
+2017-06-10
+https://togetter.com/li/1119318
+全くの偶然による相関関係の図表がなんか笑える「ニコラス・ケイジが映画に出るとプールで人が死ぬ？」 - Togetter
+
+![](https://pbs.twimg.com/media/DB75n2eU0AEenFe.jpg:small)
+![](https://images-na.ssl-images-amazon.com/images/I/51qy8YzMWkL._SL400_.jpg)
 
 
 https://twitter.com/kohske/status/930869204911194112
@@ -364,6 +399,10 @@ https://twitter.com/ykamit/status/1077703514707582976
 
 https://tomsekiguchi.hatenablog.com/entry/20170727/1501136241
 HARKing, p-hacking, asterisk-seekingを助長している学術界 - 講義のページへようこそ
+
+http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
+2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
+■[情]「統計的有意性とP値に関するASA声明」
 
 ### 2016
 
