@@ -66,11 +66,6 @@ https://to-kei.net/basic/history/
 http://techlife.cookpad.com/entry/2016/09/26/111601
 仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
 
-https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
-大相撲のアノーマリー （1） (1/2)：実践！ Rで学ぶ統計解析の基礎（7） - ＠IT
-![](https://image.itmedia.co.jp/ait/articles/1012/07/r20_dugganLevvitf2.jpg)
-明らかに7勝8敗が少なくて、8勝7敗が多い（Levittらの論文から引用）
-
 
 
 ----------
@@ -244,12 +239,6 @@ Antoine van Oijen 🔬🧫🧬 on Twitter: "It's time to stop using box plots in
 
 
 
-
-https://twitter.com/yas_tnk/status/1107028749768286208
-Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文では、日本の相撲における八百長Corruptionを示唆するグラフを、二項分布Binomial Distributionと呼ばれる単純な確率分布で強烈に表現した。八百長が完全に発覚し日本社会で問題になったのはそれから11年も後のことである。 https://t.co/4oXuiBfLKv… https://t.co/GK6EN0TBoP"
-5:19 PM - 16 Mar 2019
-![](https://pbs.twimg.com/media/D1z0x5XUcAASuWP.jpg)
-
 https://twitter.com/matsui_kota/status/1105392307161841664
 Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない"
 4:57 AM - 12 Mar 2019
@@ -291,18 +280,6 @@ http://team1mile.com/sjpr61-1/
 4:18 PM - 12 Jul 2018
 
 
-### 2018-06
-
-https://twitter.com/sidneymbell/status/1006404852950286336
-Sidney Bell on Twitter: "Just finished reading through @ClausWilke's fantastic "Fundamentals of Data Visualization." Clear, helpful, and approachable guide that I wish I'd had when I started my PhD, and I'm sure I'll continue to reference long after I finish. https://t.co/J3CgnMFNOr… https://t.co/rq0nFWcANv"
-1:16 AM - 12 Jun 2018
-
-![](https://pbs.twimg.com/media/Dfd32-eUcAE16qC.jpg)
-
-http://serialmentor.com/dataviz/
-Fundamentals of Data Visualization
-Claus O. Wilke
-
 ### 2018-03
 
 
@@ -321,20 +298,6 @@ https://gigazine.net/news/20180316-guinness-and-his-statistical-legacy/
 http://www.sg.med.osaka-u.ac.jp/school_2017.html
 遺伝統計学・夏の学校＠大阪大学（2017）
 － 講義資料
-
-![](http://www.sg.med.osaka-u.ac.jp/files/StatGeneSummerSchool_2017.png)
-
-2017-06-10
-https://togetter.com/li/1119318
-全くの偶然による相関関係の図表がなんか笑える「ニコラス・ケイジが映画に出るとプールで人が死ぬ？」 - Togetter
-
-![](https://pbs.twimg.com/media/DB75n2eU0AEenFe.jpg:small)
-![](https://images-na.ssl-images-amazon.com/images/I/51qy8YzMWkL._SL400_.jpg)
-
-### 2017-05
-http://d.hatena.ne.jp/R-statistiker/20170531/1496220635
-2017-05-31 アメリカ統計学会「p値」声明文翻訳公開
-■[情]「統計的有意性とP値に関するASA声明」
 
 ----------
 ### batch effect
