@@ -2,6 +2,7 @@
 
 **Table of Contents**
 - [unclassified](#unclassified)
+- [plot](#plot)
 - [correlation](#correlation)
 - [p-value](#p-value)
 - [updates](#updates)
@@ -14,6 +15,84 @@
 
 ----------
 ## unclassified
+
+
+----------
+## plot
+
+http://kazumaxneo.hatenablog.com/entry/2019/04/02/073000
+データを可視化するwebツール PlotsOfData - macでインフォマティクス
+PlotsOfData R / shinyスクリプトをGithub（https://github.com/JoachimGoedhart/PlotsOfData）からダウンロードすると、WebアプリケーションをRまたはRstudioから起動してオフラインで使用できる。
+
+[#barbarplots](http://barbarplots.github.io)
+https://twitter.com/hashtag/barbarplots
+
+![https://twitter.com/introspection/status/844903597724913665](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
+
+[The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
+
+![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
+
+![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
+
+
+
+### Weissgerber
+https://www.ncbi.nlm.nih.gov/pubmed/25901488
+PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
+Beyond bar and line graphs: time for a new data presentation paradigm.
+Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
+
+https://twitter.com/leeswijzer/status/592302113725755393
+MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
+8:20 AM - 26 Apr 2015
+
+https://twitter.com/neubig/status/591079565939748864
+Graham Neubig on Twitter: "「データを表示する時に、棒グラフと線グラフで平均を見せる代わりに、散布図で各データ点を見せましょう」という論文： http://t.co/T1d5aPZ9k8 。確かに紙面の大きさが同じでも、散布図でデータの分布がよく分かる。 http://t.co/YLOPbXiwBC"
+11:22 PM - 22 Apr 2015
+
+![](https://pbs.twimg.com/media/CDPvu5mVEAEpsAl.png)
+
+### anscombe
+https://ja.wikipedia.org/wiki/アンスコムの例
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
+
+http://hoxo-m.hatenablog.com/entry/20120214/p1
+統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む 
+anscombe    ``同じ'' 線形単回帰に対する Anscombe の四つ組
+
+
+http://d.hatena.ne.jp/hoxo_m/20120214/p1
+統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む
+
+	example(anscombe)
+
+http://id.fnshr.info/2012/01/25/whycharts/
+統計分析におけるグラフの有用性｜Colorless Green Ideas
+- Anscombe, F. J. (1973). Graphs in Statistical Analysis. American Statistician, 27(1), 17–21.
+
+
+
+
+http://aoki2.si.gunma-u.ac.jp/R/dot_plot.html
+R -- 群別データ分布図 
+```
+source("http://aoki2.si.gunma-u.ac.jp/R/src/dot_plot.R")
+dot.plot
+```
+
+2007/04/09
+http://jcb.rupress.org/content/177/1/7
+Error bars in experimental biology | JCB
+実験生物学におけるエラーバー（SD, SE, CI）の考え方
+http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=2025
+BioTechnicalフォーラム
+
+http://takenaka-akio.org/doc/r_auto/series.html
+Rプログラム (TAKENAKA's Web Page) おまけ：さまざまなデータ列の生成
+
+
 
 ----------
 ## correlation
