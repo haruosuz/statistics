@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-01-03
+Last Update: 2020-07
 
 ----------
 
@@ -7,7 +6,7 @@ Last Update: 2020-01-03
 **統計学**
 
 ## Table of Contents
-- [featuring](#featuring)
+- [unclassified](#unclassified)
 - [updates](#updates)
   - [2019](#2019)
   - [2018](#2018)
@@ -21,6 +20,7 @@ Last Update: 2020-01-03
 - [DoE](#doe)
   - [Dummy](#dummy)
 - [effect size](#effect-size) 効果量
+- [Mendelian randomization](#mendelian-randomization) メンデルランダム化
 - [meta-analysis](#meta-analysis)
 - [multiple comparison](#multiple-comparison)
 - [distance](#distance)
@@ -31,7 +31,6 @@ Last Update: 2020-01-03
   - [sample size](#sample-size)
   - [n=3](#n3)
 - [statistical_significance](#statistical_significance)
-- [plot](#plot)
 - [references](#references)
 - [toukei-kentei](#toukei-kentei)
 - [link](#link)
@@ -42,38 +41,12 @@ Last Update: 2020-01-03
   - [yusuke_tsugawa](#yusuke_tsugawa)
 - [fisher.test](#fisher.test) フィッシャーの正確確率検定
 - [singular](#singular) 特異
+- [video](#video)
+- [books](#books)
 
 
 ----------
-
-## Mendelian randomization
-https://en.wikipedia.org/wiki/Mendelian_randomization
-
-https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
-MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
-
-http://blog.livedoor.jp/megikaya/archives/51348455.html
-Mendelian randomizationの原理 : 知識の卵
-
-http://jojoshin.hatenablog.com/entry/2017/12/04/175120
-Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
-
-http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
-医学書院／週刊医学界新聞(第3226号 2017年06月05日)
-栄養疫学者の視点から
-［第3話］サプリメント② 遺伝疫学への期待
-今村 文昭（英国ケンブリッジ大学 MRC（Medical Research Council）疫学ユニット）
-
-
-----------
-
-
-
-
-
-
-----------
-## featuring
+## unclassified
 
 https://tjo.hatenablog.com/entry/2018/12/12/190000
 『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
@@ -99,6 +72,42 @@ https://www.atmarkit.co.jp/ait/articles/1012/07/news103.html
 明らかに7勝8敗が少なくて、8勝7敗が多い（Levittらの論文から引用）
 
 
+
+----------
+
+## books
+本
+
+https://github.com/haruosuz/books/blob/master/references/books.statistics.md
+
+----------
+## video
+
+5:57 PM · Mar 12, 2019
+https://twitter.com/matsui_kota/status/1105392307161841664
+Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない" / Twitter
+動画中の文献は以下に纏まっているようです（pdf直リンク）
+http://kbs.med.kyoto-u.ac.jp/eLreference.pdf
+
+https://ocw.kyoto-u.ac.jp/ja/graduate-school-of-medicine-jp/12/video
+講義ビデオ - 京都大学OCW
+医学研究科 › 聴講コース 臨床研究者のための生物統計学 › 講義ビデオ
+
+http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
+農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
+九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
+```
+農業生物資源学特論第五　2014年2月5日
+ 講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
+ 期　間：2014年2月3日～5日 
+```
+
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて
+◇統計高座中継（YouTube）
+以下に公開する統計高座の YouTube 動画ファイルは，2011年2月8日（火）〜10日（木）の三日間にわたって，九州大学大学院比較社会文化研究科（伊都キャンパス）で私が行なった集中講義〈データ解析概論〉の全録画です（→九大・比社文サイト）．
+
+
 ----------
 
 
@@ -117,6 +126,9 @@ RでL1 / L2正則化を実践する - 六本木で働くデータサイエンテ
 ## updates
 
 ### 2020
+
+
+
 
 
 
@@ -217,26 +229,9 @@ https://healthpolicyhealthecon.com/2014/09/30/study-design-overview/
 2. 予測モデル（Prediction model）
 3. 記述統計（Descriptive statistics）
 
-
-
 https://twitter.com/h_okumura/status/1117251391985082368
 Haruhiko Okumura on Twitter: "「東大理IIIは本当に男子の合格率が高いのか？」 https://t.co/ci6IPRnQQC （どっちが統計の誤用かはさておき，こういうグラフを見るとメタアナリシスしたくなる）"
 10:21 PM - 13 Apr 2019
-
-https://twitter.com/langstat/status/1107576470073823232
-『女子高生乱子によるベイズ統計学入門講座』を帰りの電車で読み始めた。
-冒頭から「学振の金が振り込まれたら、飲み代を奢る」という景気のいい話が出てきたと思ったら、その直後に「学振が切れたら、非常勤で食いつなぐしかない」という世知辛い話に。。。これ、何の本だっけ？ww
-5:36 AM - 18 Mar 2019
-
-http://yamano357.hatenadiary.com/entry/2019/03/15/090000
-『女子高生乱子によるベイズ統計学入門講座』を読みました（恵贈お礼） - バイアスと戯れる
-特に1章で出てくる「学振と博士」や
-
-https://twitter.com/bonohu/status/1102145026417545216
-“女子高生乱子によるベイズ統計学入門講座: とある弁当屋の統計技師(データサイエンティスト) 3 / The Introductory Bayesian Statistics Course by High School Girl Ranko” 読了 / “ぼうのブログ” http://htn.to/gVqogL 
-4:53 AM - 3 Mar 2019
-端々にtwitterで話題となっている昨今の大学事情が織り交ぜられており、大変楽しい。 
-
 
 
 2019.03.23
@@ -247,9 +242,6 @@ https://twitter.com/van__Oijen/status/1108435637277908992
 Antoine van Oijen 🔬🧫🧬 on Twitter: "It's time to stop using box plots in the scientific literature. Shapes of data distributions hiding underneath a box plot are important, so show them! Better alternatives are scatter graphs or violin plots. Great explanation at https://t.co/dLLMYv7fBD… https://t.co/MTUr2VHmJr"
 2:30 PM - 20 Mar 2019
 
-https://twitter.com/asarin/status/1107940442128023552
-oʞɐsɐ ɐɹnıɯ on Twitter: "発達心シンポ「今そこにある危機：再現可能性問題をめぐる現状と展望」話題提供資料はこちら： ・心理学における再現可能性問題ー概説ー ・発達心理学における再現性問題 ・再現性問題における統計学的論点と,その解決に向けて ・再現性問題解決への希望:プレレジ実録体験記 https://t.co/HC85suTw5v"
-5:42 AM - 19 Mar 2019
 
 
 
@@ -258,23 +250,10 @@ Yas on Twitter: "例えばシカゴ大教授Steven Levittの2000年の論文で�
 5:19 PM - 16 Mar 2019
 ![](https://pbs.twimg.com/media/D1z0x5XUcAASuWP.jpg)
 
-http://yamano357.hatenadiary.com/entry/2019/03/15/090000
-『女子高生乱子によるベイズ統計学入門講座』を読みました（恵贈お礼） - バイアスと戯れる
-
 https://twitter.com/matsui_kota/status/1105392307161841664
 Kota Matsui on Twitter: "京大の生物統計の講義コースの動画が無料公開されている（https://t.co/CD74HHpQzp）。昨今指摘されているp値問題についてまるまる1回割いて解説しているなど生物統計じゃない人でも視聴の価値はあるかもしれない"
 4:57 AM - 12 Mar 2019
 
-
-https://twitter.com/search?q=統計学はときにセクシーな学問で
-http://www.lifescience.co.jp/shop2/index_0172.html
-統計学はときにセクシーな学問である | ライフサイエンス出版
-【著】 デビッド・シュピーゲルハルター
-【訳】 石塚直樹
-
-https://gendai.ismedia.jp/articles/-/59944?media=bb
-ブルーバックス伝説の名著『統計でウソをつく法』100刷突破！（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
-2019年3月4日付
 
 https://twitter.com/Ri7_u10/status/1101320072943919104
 ```
@@ -699,6 +678,25 @@ https://tjo.hatenablog.com/entry/2014/02/24/192655
 効果量(effect size)のはなし - 六本木で働くデータサイエンティストのブログ
 
 ----------
+## Mendelian randomization
+https://en.wikipedia.org/wiki/Mendelian_randomization
+
+https://www.technologyreview.jp/s/102737/researchers-find-a-way-to-mimic-clinical-trials-using-genetics/
+MIT Tech Review: 遺伝学から効き目を予測、「メンデルランダム化」で変わる新薬開発
+
+http://blog.livedoor.jp/megikaya/archives/51348455.html
+Mendelian randomizationの原理 : 知識の卵
+
+http://jojoshin.hatenablog.com/entry/2017/12/04/175120
+Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
+
+http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03226_02
+医学書院／週刊医学界新聞(第3226号 2017年06月05日)
+栄養疫学者の視点から
+［第3話］サプリメント② 遺伝疫学への期待
+今村 文昭（英国ケンブリッジ大学 MRC（Medical Research Council）疫学ユニット）
+
+----------
 ## meta-analysis
 [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)
 
@@ -1028,82 +1026,6 @@ http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc040/02768.html
 No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51 
 
 ----------
-## plot
-
-http://kazumaxneo.hatenablog.com/entry/2019/04/02/073000
-データを可視化するwebツール PlotsOfData - macでインフォマティクス
-PlotsOfData R / shinyスクリプトをGithub（https://github.com/JoachimGoedhart/PlotsOfData）からダウンロードすると、WebアプリケーションをRまたはRstudioから起動してオフラインで使用できる。
-
-[#barbarplots](http://barbarplots.github.io)
-https://twitter.com/hashtag/barbarplots
-
-![https://twitter.com/introspection/status/844903597724913665](https://pbs.twimg.com/media/C7mzT2ZW4AAQ4wZ.jpg:small)
-
-[The Datasaurus Dozen - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
-
-![](https://pbs.twimg.com/media/DYVjeN0WkAI8S69.jpg)
-
-![](https://d2f99xq7vri1nk.cloudfront.net/Anscombe_1_0_0.png)
-
-
-
-### Weissgerber
-https://www.ncbi.nlm.nih.gov/pubmed/25901488
-PLoS Biol. 2015 Apr 22;13(4):e1002128. doi: 10.1371/journal.pbio.1002128. eCollection 2015 Apr.
-Beyond bar and line graphs: time for a new data presentation paradigm.
-Weissgerber TL1, Milic NM2, Winham SJ3, Garovic VD1.
-
-https://twitter.com/leeswijzer/status/592302113725755393
-MINAKA Nobuhiro on Twitter: "@leeswijzer この論文の「記述統計量を計算する前に生データを見よ」というメッセージは，有名な〈Anscombe’s quartet〉 http://t.co/A5oiHZt9Dj [Wikipedia] を連想させる．"
-8:20 AM - 26 Apr 2015
-
-https://twitter.com/neubig/status/591079565939748864
-Graham Neubig on Twitter: "「データを表示する時に、棒グラフと線グラフで平均を見せる代わりに、散布図で各データ点を見せましょう」という論文： http://t.co/T1d5aPZ9k8 。確かに紙面の大きさが同じでも、散布図でデータの分布がよく分かる。 http://t.co/YLOPbXiwBC"
-11:22 PM - 22 Apr 2015
-
-![](https://pbs.twimg.com/media/CDPvu5mVEAEpsAl.png)
-
-### anscombe
-https://ja.wikipedia.org/wiki/アンスコムの例
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/425px-Anscombe%27s_quartet_3.svg.png)
-
-http://hoxo-m.hatenablog.com/entry/20120214/p1
-統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む 
-anscombe    ``同じ'' 線形単回帰に対する Anscombe の四つ組
-
-
-http://d.hatena.ne.jp/hoxo_m/20120214/p1
-統計を学びたい人へ贈る、統計解析に使えるデータセットまとめ - ほくそ笑む
-
-	example(anscombe)
-
-http://id.fnshr.info/2012/01/25/whycharts/
-統計分析におけるグラフの有用性｜Colorless Green Ideas
-- Anscombe, F. J. (1973). Graphs in Statistical Analysis. American Statistician, 27(1), 17–21.
-
-
-
-
-http://aoki2.si.gunma-u.ac.jp/R/dot_plot.html
-R -- 群別データ分布図 
-```
-source("http://aoki2.si.gunma-u.ac.jp/R/src/dot_plot.R")
-dot.plot
-```
-
-2007/04/09
-http://jcb.rupress.org/content/177/1/7
-Error bars in experimental biology | JCB
-実験生物学におけるエラーバー（SD, SE, CI）の考え方
-http://www.kenkyuu2.net/cgi-biotech2/biotechforum.cgi?mode=view;Code=2025
-BioTechnicalフォーラム
-
-http://takenaka-akio.org/doc/r_auto/series.html
-Rプログラム (TAKENAKA's Web Page) おまけ：さまざまなデータ列の生成
-
-
-----------
 ## references
 
 http://japanr.net
@@ -1303,14 +1225,6 @@ https://www.yodosha.co.jp/jikkenigaku/book/9784758120586/index.html
 https://twitter.com/leeswijzer/status/978742721627279362
 MINAKA Nobuhiro on Twitter: "［欹耳袋］椎名乾平 2016. 相関係数の起源と多様な解釈．心理学評論 59(4): 415-444 https://t.co/nku5J1ZWLM [open access] ※「はじめに」（p. 415）では，統計学史のもつ意義に関するとても重要な点が指摘されていて，ワタクシは深く深く共感する．"
 
-http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
-農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
-九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
-```
-農業生物資源学特論第五　2014年2月5日
- 講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
- 期　間：2014年2月3日～5日 
-```
 
 2014年2月
 https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
