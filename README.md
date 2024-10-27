@@ -31,10 +31,10 @@ Last Update: 2020-07
   - [sample size](#sample-size)
   - [n=3](#n3)
 - [statistical_significance](#statistical_significance)
-- [references](#references)
 - [toukei-kentei](#toukei-kentei)
 - [link](#link)
 - [people](#people)
+  - [aoki2](#aoki2)
   - [Dr. KID](#dr-kid)
   - [kubo](#kubo) Takuya Kubo
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
@@ -43,33 +43,11 @@ Last Update: 2020-07
 - [singular](#singular) 特異
 - [video](#video)
 - [books](#books)
-
-
-----------
-## unclassified
-
-https://tjo.hatenablog.com/entry/2018/12/12/190000
-『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
-
-http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
-10.3 ロジスティック回帰分析の計算方法
-(1) 最小2乗法を利用する方法
-(2) 最尤法を利用する方法
-
-https://twitter.com/bayesjuku
-https://twitter.com/hashtag/bayesWS3rd
-
-2017/07/02
-https://to-kei.net/basic/history/
-統計学の歴史〜古代ローマから現代まで〜 | 全人類がわかる統計学
-
-http://techlife.cookpad.com/entry/2016/09/26/111601
-仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
-
-
+- [references](#references)
+- [pseudoreplicate](#pseudoreplicate) 擬似反復・偽反復
+- [](#)
 
 ----------
-
 ## books
 本
 
@@ -102,10 +80,91 @@ http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 ◇統計高座中継（YouTube）
 以下に公開する統計高座の YouTube 動画ファイルは，2011年2月8日（火）〜10日（木）の三日間にわたって，九州大学大学院比較社会文化研究科（伊都キャンパス）で私が行なった集中講義〈データ解析概論〉の全録画です（→九大・比社文サイト）．
 
+----------
+## pseudoreplicate
+## pseudoreplication
+擬似反復
+偽反復
+
+https://www.sbj.or.jp/sbj/sbj_tokei_kaiseki-2.html
+生物工学会誌 –『続・間違いから学ぶ実践統計解析』 | 公益社団法人 日本生物工学会
+第7回	偽反復	松田 史生
+川瀬 雅也	98-4-206
+(2020)
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9804/9804_tokei_kaiseki.pdf
+偽反復とは
+生命科学での偽反復
+
+2019年6月15日
+https://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
+生命科学の実験デザイン［第4版］ « 名古屋大学出版会
+
+第5章　偽反復
+　5.1　独立とはどういうことか、偽反復とは何か
+
+2017年1月
+https://www.keisoshobo.co.jp/book/b272873.html
+ダメな統計学 - 株式会社　勁草書房
+
+目次
+
+第3章　擬似反復：データを賢く選べ
+　3.1　実際に行われている擬似反復
+　3.2　擬似反復への申し開き
+　3.3　バッチ生物学
+　3.4　同期する擬似反復
+
+https://id.fnshr.info/2014/12/28/stats-done-wrong-ja-pdf/
+『ダメな統計学』冊子PDFの公開｜Colorless Green Ideas
+https://id.fnshr.info/wp-content/uploads/sites/2/2014/12/stat_done_wrong.pdf
+第 4 章 擬似反復：データを賢く選べ 21
+https://id.fnshr.info/2014/12/17/stats-done-wrong-04/
+【翻訳】ダメな統計学 (4) 擬似反復：データを賢く選べ｜Colorless Green Ideas
+擬似反復 (pseudoreplication) 
+
+2016 年
+https://www.jstage.jst.go.jp/article/sjpr/59/1/59_123/_article/-char/ja/
+統計学の現場は一枚岩ではない
+https://www.jstage.jst.go.jp/article/sjpr/59/1/59_123/_pdf/-char/ja
+擬似反復（pseudoreplicate）
+
+----------
+## unclassified
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+
+http://www.snap-tck.com/room04/c01/stat/stat10/stat1003.html
+10.3 ロジスティック回帰分析の計算方法
+(1) 最小2乗法を利用する方法
+(2) 最尤法を利用する方法
+
+https://twitter.com/bayesjuku
+https://twitter.com/hashtag/bayesWS3rd
+
+2017/07/02
+https://to-kei.net/basic/history/
+統計学の歴史〜古代ローマから現代まで〜 | 全人類がわかる統計学
+
+http://techlife.cookpad.com/entry/2016/09/26/111601
+仮説検証とサンプルサイズの基礎 - クックパッド開発者ブログ
+
+----------
+## references
+
+http://japanr.net
+Japan.R
+日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントが Japan.R です。
+
+http://ebsa.ism.ac.jp
+統計科学のための電子図書システム
+
+http://todo-ran.com/t/bestworst
+都道府県ベスト＆ワースト｜都道府県別統計とランキングで見る県民性 [とどラン]
 
 ----------
 
-
+----------
 ## regularization
 
 https://ja.wikipedia.org/wiki/正則化
@@ -116,15 +175,10 @@ https://tjo.hatenablog.com/entry/2015/03/03/190000
 RでL1 / L2正則化を実践する - 六本木で働くデータサイエンティストのブログ
 なおL1正則化回帰はLasso回帰、L2正則化回帰はRidge回帰とも呼ばれ、教科書によっては主にこちらの名前で書かれているものもあります*4。
 
-
 ----------
 ## updates
 
 ### 2020
-
-
-
-
 
 
 9:41 AM · May 11, 2020
@@ -190,6 +244,12 @@ https://jstage.jst.go.jp/article/kagakutoseibutsu/51/6/51_408/_pdf
 https://jstage.jst.go.jp/article/kagakutoseibutsu/51/7/51_483/_pdf
 Translate Tweet
 3:16 AM · Dec 28, 2019·twittbot.net
+
+
+化学と生物 [統計検定を理解せずに使っている人のために](https://twitter.com/search?q=統計検定を理解せずに使っている人のために)
+- http://doi.org/10.1271/kagakutoseibutsu.51.318
+- http://doi.org/10.1271/kagakutoseibutsu.51.408
+- http://doi.org/10.1271/kagakutoseibutsu.51.483
 
 
 
@@ -989,36 +1049,6 @@ http://aoki2.si.gunma-u.ac.jp/lecture/mb-arc/arc040/02768.html
 No.02768　n=2の場合の検定　　【suzuki】　2007/02/19(Mon) 12:51 
 
 ----------
-## references
-
-http://japanr.net
-Japan.R
-日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントが Japan.R です。
-
-化学と生物 [統計検定を理解せずに使っている人のために](https://twitter.com/search?q=統計検定を理解せずに使っている人のために)
-- http://doi.org/10.1271/kagakutoseibutsu.51.318
-- http://doi.org/10.1271/kagakutoseibutsu.51.408
-- http://doi.org/10.1271/kagakutoseibutsu.51.483
-
-https://twitter.com/stattan/status/973732995927498752
-統計たん@本質的に不良設定問題 on Twitter: "群馬大学の青木先生のページにパラメトリック検定とノンパラメトリック検定の手法対応・分類表があるわ。ノンパラメトリック検定は何を使ったらいいかわかりにくいから，必要になったら参照してみてね。https://t.co/1thUnNCYCv"
-
-http://aoki2.si.gunma-u.ac.jp/lecture/Kentei/nonpara.html
-パラメトリックな手法とノンパラメトリックな手法
-
-http://ebsa.ism.ac.jp
-統計科学のための電子図書システム
-
-http://todo-ran.com/t/bestworst
-都道府県ベスト＆ワースト｜都道府県別統計とランキングで見る県民性 [とどラン]
-
-http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
-統計学関連なんでもあり
-
-http://d.hatena.ne.jp/haruosuz/20051130
-統計 - Haruo Suzuki / Bioinformatics
-
-----------
 ## toukei-kentei
 
 https://twitter.com/toukei_kentei
@@ -1082,6 +1112,35 @@ http://www.ism.ac.jp/topevent_j/index.html
 
 ----------
 ## people
+
+### aoki2
+
+
+http://aoki2.si.gunma-u.ac.jp/
+おしゃべりな部屋　（プラネタリウム，星，植物，熱帯魚，統計学）
+・ 統計手法の選択ガイド
+http://aoki2.si.gunma-u.ac.jp/FlowChart/Tutorial.html
+このページは， 質問に答えてゆくことにより，条件に合った最適の統計手法を提示するためのものです。　　・ 統計手法の関連図
+Q.行おうとするのは，以下のどれですか
+
+http://aoki2.si.gunma-u.ac.jp/R/
+R による統計処理　　　　　Last modified: Apr 08, 2015
+
+https://minato.sip21c.org/swtips/compass.html
+統計処理の羅針盤
+最終更新： 2008年 9月 5日 (金曜日) 12時42分 ：平均値の差の検定について加筆修正
+
+
+https://twitter.com/stattan/status/973732995927498752
+統計たん@本質的に不良設定問題 on Twitter: "群馬大学の青木先生のページにパラメトリック検定とノンパラメトリック検定の手法対応・分類表があるわ。ノンパラメトリック検定は何を使ったらいいかわかりにくいから，必要になったら参照してみてね。https://t.co/1thUnNCYCv"
+
+http://aoki2.si.gunma-u.ac.jp/lecture/Kentei/nonpara.html
+パラメトリックな手法とノンパラメトリックな手法
+
+http://aoki2.si.gunma-u.ac.jp/taygeta/statistics.cgi
+統計学関連なんでもあり
+
+
 
 ### dr-kid
 
