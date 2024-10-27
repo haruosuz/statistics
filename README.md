@@ -82,6 +82,8 @@ http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 擬似反復
 偽反復
 
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#pcm
+
 https://www.sbj.or.jp/sbj/sbj_tokei_kaiseki-2.html
 生物工学会誌 –『続・間違いから学ぶ実践統計解析』 | 公益社団法人 日本生物工学会
 第7回	偽反復	松田 史生
